@@ -483,6 +483,38 @@ Description: 给Snapper 或stayShot插件增加标记功能，快速对图进行
 Author: 来了老弟 X: h_h_x_t
 Name: 截图标记-rootless
 
+Package: cn.llld.copy1
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Copy-text-rootless_1.4.3-arm64.deb
+Size: 8288
+MD5sum: 9c4e501a7152c17ff5dc201a0f730d45
+SHA1: 3621c515fea4d9b261290ff6602357ce11a38d15
+SHA256: 679788de9de00cb6d85dc86603615d82860a667977d2ed85713cfad9388f7267
+Section: rootless插件
+Description: Short-click to copy the text content.***短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本不支持roothide
+Author: 来了老弟 h_h_x_t
+Name: Copy-text-rootless
+
+Package: cn.llld.copy1
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Copy-text-rootless_1.4.4_arm64.deb
+Size: 9066
+MD5sum: f19b0f58ce0d43c9bd52ef4662897163
+SHA1: 802296365c0e645176fa61a11e092b178d3981fa
+SHA256: 3d5703c4589f9dd817954b71d9f61a921deab26ad74ac31ebdc2554f76ad0e5d
+Section: rootless插件
+Description: Short-click to copy the text content.***使用方法：短按复制文本内容***，现处于测试阶段等后续更新支持更多,支持应用就不一一列举了，设置，电话，短信，appstore，QQ，贴吧，trollstore等,此版本不支持roothide
+Author: 来了老弟 h_h_x_t
+Name: Copy-text-rootless
+
 Package: cn.llld.jxydt
 Version: 0.4
 Architecture: iphoneos-arm64
@@ -7169,6 +7201,378 @@ Section: Tweaks
 Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+
 Author: x✨
 Name: QQ·TIM 新版防撤回
+
+Package: com.xx.qsyyhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.qsyyhook_1.0.0_iphoneos-arm64.deb
+Size: 31952
+MD5sum: 550edfc3e3bb93fcc1eba57f5e51d469
+SHA1: b4229f4b0645d04f1e8a0cfcc0b8f3465fa4eb20
+SHA256: bb4ca3e425d518575272f4608fabae4a038ce8dc4d1254d4fa54575fa7680240
+Section: Tweaks
+Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(部分视频自动关闭)
+Author: x✨
+Name: 汽水音乐NoAds
+
+Package: com.xx.qsyyhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.qsyyhook_1.0.1_iphoneos-arm64.deb
+Size: 22636
+MD5sum: 1ef41f636067349f7a442a4046e0d0da
+SHA1: 9b5f493154885508dd08125b5f65a5ffd8486045
+SHA256: 41406cd30d9d587ebef375d58cb00dfdc6a4ceb4caf43701ccdd913dd373d746
+Section: Tweaks
+Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(部分视频自动关闭) 1.0.1更新：优化去除启动广告 秒过视频如果无效可以APP设置界面长按1秒关闭(本人新号会员无法调试)
+Author: x✨
+Name: 汽水音乐NoAds
+
+Package: com.xx.qsyyhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.qsyyhook_1.0.2_iphoneos-arm64.deb
+Size: 12264
+MD5sum: 21243f467303d4bcef3ba3af20220a83
+SHA1: 762ab9156229a18534a3ef591a19d5eb572525cd
+SHA256: 821bf6292ce2db379df1ebe659f511936c3e12ae9ffa4ea4b019053eea7b875d
+Section: Tweaks
+Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(自行测试是否可用 不能用就在设置界面长按可以关闭或者卸载此插件)
+Author: x✨
+Name: 汽水音乐NoAds
+
+Package: com.xx.safarixhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.safarixhook_1.0.0_iphoneos-arm64.deb
+Size: 10110
+MD5sum: 72c0b1fc557f92147ad5f1d86eb6f78a
+SHA1: 0c1a1545b0adec4bc39662d5799af07643b48674
+SHA256: 548afeb19a425bc2cb432679878d1570392a5250055803caf93be14045a2e37b
+Section: Tweaks
+Description: 解决SafariX闪退问题
+Author: x✨
+Name: SafariXHook
+
+Package: com.xx.spidercrack
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.spidercrack_1.0.2_iphoneos-arm64.deb
+Size: 24220
+MD5sum: 03fc20fd66304974ffda3b15d69ef1bd
+SHA1: cfb0ca48ef638f6592a3051e6f01f128ea1b5cc5
+SHA256: c6be349947c2a129e51915d94ec95758dcb5e0b683c9d7f5120bec74be1b1870
+Section: Tweaks
+Description: 解锁会员 插件仅供个人学习交流使用 如有能力请支持正版
+Author: x✨
+Name: SpiderProxyCrack
+
+Package: com.xx.wccallkit
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.wccallkit_1.0.0_iphoneos-arm64.deb
+Size: 7782
+MD5sum: 95aeaff1896b68b54513aa8f87826f84
+SHA1: f860f49c5ed4ff76fa5cf189e8cac4e727d0b765
+SHA256: e6e7ee076dec506cc70c7a703bcd16d89ff75726102f1cb316c4d5e6eeb4047b
+Section: Tweaks
+Description: 默认开启CallKit 有需要WeChat_8.0.56.i64(8G) 可以找我
+Author: x✨
+Name: WeChatCallKit
+
+Package: com.xx.xhshook
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.0_iphoneos-arm64.deb
+Size: 723332
+MD5sum: a8e7f3b904b572bab0f517d297d2e66c
+SHA1: 676c1b0bbfdfaa3a6a8ee0ecf2263d687a73cb3b
+SHA256: d62573faeaa3cac8c033f4e97a156c8a92bfa15ad3c36ec3d64ca9e398955f72
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.0-1_iphoneos-arm64.deb
+Size: 732628
+MD5sum: f878a37c1391b299adffe4dce8f4a358
+SHA1: 58bfdde84782f7570be0baf6a297900e677f11df
+SHA256: c80e7d31f745a8faa3120d868b4b142934465f741af6afeefe8045f78975965b
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.0-2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3192
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.0-2_iphoneos-arm64.deb
+Size: 1108242
+MD5sum: a7829775e125cae8959a7b06a6a4fb65
+SHA1: d15e064e5e729ea6205b7414395b6ded2cae2917
+SHA256: 4611f12adcc5ab820a73ac50a385ef12f1bbc2a2964da425bce81dfe799ca634
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.0-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.0-3_iphoneos-arm64.deb
+Size: 1112688
+MD5sum: 422162495273cb907a3a28c78f5f9b53
+SHA1: 4f93e63af95fe0bb85904f1c55474d2b241eb241
+SHA256: 04f738c70635c0a7e76bce71fc539fb487ca7c7b852472d8fdddd4d9e0787593
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.1_iphoneos-arm64.deb
+Size: 1108096
+MD5sum: 7492350ca2edf89746d1ef8464ea75f2
+SHA1: a15bcc3ec51e5c83189de12f099ab917c519169b
+SHA256: d4f32bcb2fbefafd475ed5e63a99aa3fe80915b25f40d79b1f9d8ad84538be10
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.2_iphoneos-arm64.deb
+Size: 1146624
+MD5sum: 6df8d62d6b198efe86eb980bab8bfce2
+SHA1: 9d61e6e8d37758eb241f1fd3d14f122ab8aa83b4
+SHA256: d647b392b228d6365d63f997f06b0855ad4632a5c1d8dce20bca2e4aebb7d50f
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2444
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.3_iphoneos-arm64.deb
+Size: 775624
+MD5sum: 5b930bf52f69271a5beff868cbe571b3
+SHA1: 74fb3f3643a9978447281a3ff81e4105c1e8b604
+SHA256: 1c984ca441611b957fb6925624180d669b9ef8d8829fe0898da78c373166d27a
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2608
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.5_iphoneos-arm64.deb
+Size: 833612
+MD5sum: 063fc75ff12ab555453af9bfee934109
+SHA1: 0398a47c3dee6606ed5a8662f1debc25fbdb6262
+SHA256: e654a36bad4d256a9891ef3167d41404ce7272022f448ba6f813ca9debd32c50
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.5-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2836
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.5-1_iphoneos-arm64.deb
+Size: 905840
+MD5sum: 616860e089915e994b85ace7cd7aa05b
+SHA1: 2719e915421d6ac4130b719fa53edf0f0e174391
+SHA256: 5374287d13cb80ed788055d3da5eadd4f0d16e28a2877f5da16b653bc61d2866
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.ysbrowserhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.ysbrowserhook_1.0.0_iphoneos-arm64.deb
+Size: 3476
+MD5sum: fb5907b14607ed139df50f2915c95788
+SHA1: bec8a93653289057dc4c2329d8801063e92ecbf6
+SHA256: f522db9acf0affb831ec89d99765e2bb26285194f5deaa864207d96a65ef6226
+Section: Tweaks
+Description: 解锁Pro(使用shadow解决了越狱检测) 插件仅供个人学习交流使用 如有能力请支持正版
+Author: x✨
+Name: 亚瑟浏览器Pro
+
+Package: com.yan.stella
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
+Filename: ./debs/com.yan.stella_1.0.3_iphoneos-arm64.deb
+Size: 664604
+MD5sum: 400832d2493ac7110700e2d422c27bed
+SHA1: c0a96d51df23e4f7256612a2fe93468aa3bc7028
+SHA256: 983097fed40b007898098d40ceab03b500c32dbfcaf7ff3a43ee3f1f08d25a15
+Section: Tweaks
+Description: Let it snow on your device
+Author: yan
+Depiction: https://yandevelop.github.io/depic/Stella/index.html
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Name: Stella
+Sileodepiction: https://yandevelop.github.io/depic/Stella/StellaDepiction.json
+
+Package: com.yan.stella
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1236
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.stella_1.1_iphoneos-arm.deb
+Size: 349720
+MD5sum: ecd2dc01d7103db273e4f67988b43c0b
+SHA1: 35f91c6f67f4354fa5eb451176075648d3add648
+SHA256: c440695ab2e47451a3185b6122733853f8028602fb9e686a7eb31029d9e05b28
+Section: Tweaks
+Description: Let it snow on your device!
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Name: Stella
+
+Package: com.yccameraflight
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.yccameraflight_1.1_iphoneos-arm64.deb
+Size: 3024
+MD5sum: ce6f9a320eb25eaf61338841b0888d1a
+SHA1: 19e20d82fe678087b13bd8c346e9310f369d14d4
+SHA256: 994bc3677608f1ab5c29ecc5bc31f13dd091867ebc43d8a5fe91b0b893e6090c
+Section: Tweaks
+Description: 隐藏锁屏相机手电筒，禁用左滑
+Author: M哥
+Name: 隐藏相机手电筒-rootless
+
+Package: com.ycdock
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.ycdock_1.1_iphoneos-arm64.deb
+Size: 2840
+MD5sum: 04962c953413df73458b9182f81f0874
+SHA1: 266bc4f8280a1d41906deb46269776ddef7e3f13
+SHA256: 9ee467ddd20831de63f3f75a70cbedfb1c8c54b9eae48090ac9caf44c8505892
+Section: Tweaks
+Description: 隐藏dock背景
+Author: M哥
+Name: 隐藏dock背景-rootless
+
+Package: com.ychengtiao
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.ychengtiao_1.1_iphoneos-arm64.deb
+Size: 3104
+MD5sum: 1483dc2f48b88c61df784560d42c2aeb
+SHA1: b469ac15eeed477809db7afeea437ec9b6fa8f0d
+SHA256: 054c2e05303e8187bc740574ca20daa369c4fd54b4fed38b1841c286da5e971b
+Section: Tweaks
+Description: 隐藏手势小横条、左上角返回程序、右上角小白条
+Author: M哥
+Name: 隐藏手势小横条-rootless
+
+Package: com.ycnc
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.ycnc_1.2_iphoneos-arm64.deb
+Size: 2782
+MD5sum: 2b377e3b6fd8959fff67ec7cb94696f9
+SHA1: 0f886b4b68eebc91dffea822fd312234cb16e368
+SHA256: 3a6d9b6ef82baf4f6c64d88a4d781318926fbc815f920d922a50b681d6406eaa
+Section: Tweaks
+Description: 锁屏，隐藏"没有更早的通知"提示
+Author: M哥
+Name: 隐藏"没有更早的通知"-rootless
+
+Package: com.yellowdot
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.yellowdot_1.0_iphoneos-arm64.deb
+Size: 3298
+MD5sum: 0a97a9bfccae783ca11642df97cc1b89
+SHA1: 598f7483d3f9f998529db37fcdd77b0fe91af22c
+SHA256: af3343224c6913288190a8a868fd64983081409e22460201be8d0ad460baab15
+Section: Tweaks
+Description: 隐藏应用程序蓝点黄点
+Author: M哥
+Name: 隐藏主屏幕app黄点
 
 Package: netskao.3dnetworkfixer-rootless
 Version: 1.1-8
