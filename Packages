@@ -4312,6 +4312,220 @@ Description: 状态栏隐藏（热点横幅、闹钟、蓝牙、热点、vpn、�
 Author: M哥
 Name: 状态栏优化-rootless
 
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 580
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./com.sunshinesong.dynamic-notifier_1.0.0_iphoneos-arm64.deb
+Size: 129802
+MD5sum: d93a6bfad4d4cdcf85f156e8d6ceef86
+SHA1: 2fb7bfaf31a13d0aa9a6af48a61236f975e71eb9
+SHA256: 878ae48c04106c3d4d5625e88b55bc81a8de928453b654204e5a1d92b97bc5ef
+Section: Tweaks
+Description: 上岛，不必太复杂。仅仅支持iOS16+。
+Author: sunshinesong
+Name: dynamic-notifier
+
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./com.sunshinesong.dynamic-notifier_1.0.1_iphoneos-arm64.deb
+Size: 184704
+MD5sum: 64ebd8a69294c4884539006565488a1e
+SHA1: 2b1d6b38f6cf8470f3b404ce488e770a35bc3c25
+SHA256: 06b690d4f5eda786896b68ecadc9d8fd0cfeb245c2918a9083d3f8c09b7024c8
+Section: Tweaks
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+。only support above ios16.0
+Author: sunshinesong
+Name: dynamic-notifier
+
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 812
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./com.sunshinesong.dynamic-notifier_1.0.3_iphoneos-arm64.deb
+Size: 209280
+MD5sum: ca13a77dce296e01f564c301b72114c9
+SHA1: f30d3bfc25e15dfaf8aadd6cd03c945a4b01bb2e
+SHA256: 3856e6f6bb9f3566647e0149ec4f818533b660099093a4927e35023b6e9af779
+Section: Tweaks
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+。only support above ios16.0
+Author: sunshinesong
+Name: dynamic-notifier
+
+Package: com.sunshinesong.native-island
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 840
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./com.sunshinesong.native-island_1.0.1_iphoneos-arm64.deb
+Size: 226206
+MD5sum: e4b9fc38f14cd6f2e778c8a9fa536caf
+SHA1: 1fc1732120101a3c03dc8db4131bfdb59bc74ce4
+SHA256: d3d67da98ac3f10665cd0d38c206c68ed18acb12a03f54bc4372a7679167143b
+Section: Tweaks
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Author: sunshinesong
+Name: native-island-notifier
+
+Package: com.sunshinesong.native-island
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 840
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./com.sunshinesong.native-island_1.0.2_iphoneos-arm64.deb
+Size: 227466
+MD5sum: 58077cff0073c1e32a95b11482666822
+SHA1: 8b2d5489f1ae7e9347bdad67bb2ea78f788dbfe9
+SHA256: 5e5bc6b6093131eb7e6c5c05cd45999c1476a9372672b688ab8474998f9d5541
+Section: Tweaks
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Author: sunshinesong
+Name: native-island-notifier
+
+Package: com.sunshinesong.native-island
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: ./com.sunshinesong.native-island_1.0.3_iphoneos-arm64.deb
+Size: 251422
+MD5sum: 5ac4e7a5acb7eba1173b901ce55ca109
+SHA1: 5fb4558ea134b7e480f5c441d707ed6d09f6887b
+SHA256: 0bf525a0fca35ac14b6ad69f6dd7bd5d360faacd2165e33518fbb527cdc9a276
+Section: Tweaks
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Author: sunshinesong
+Name: native-island-notifier
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.0-2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1252
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.sunshinesong.split-view-pro_1.1.0-1_iphoneos-arm64.deb
+Size: 510016
+MD5sum: 5e007131761a2e0ae5cb7cc78ae9128b
+SHA1: e7bb572578b79b6992fab5884c0a27507753d0f5
+SHA256: 3264d439e81c7ca30ae7b731379709f45d86797ba35c6008cba93a9bf0c2797d
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 12580
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.sunshinesong.split-view-pro_1.1.1_iphoneos-arm64.deb
+Size: 4771968
+MD5sum: 0f4462e01bd1adcaadea5538621afece
+SHA1: 431dce16ec01d9059d2ee9c9e6317865e4237558
+SHA256: 8b63bd059e7f9bfc7e037479e8a9e82b9ede56136286247ee43cc4bbf88d695d
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 12856
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./com.sunshinesong.split-view-pro_1.1.2_iphoneos-arm64.deb
+Size: 4880124
+MD5sum: 0fc70c13f6bf3d3ff82208caf5591278
+SHA1: 156502cef37a1ec4251dcf101ee7cdae108344c1
+SHA256: 946c9f97c5721df6693a3d615cfe3f53711dc5ce5d9204afa37d22b5032c8c0a
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./com.sunshinesong.split-view-pro_1.1.4_iphoneos-arm64.deb
+Size: 5235286
+MD5sum: 33f77310f5bdd834c42317f85c4090fa
+SHA1: 7b1196127b2e7e3a70e10b5355f44930ef7e0a49
+SHA256: 459050045ebc1120ac4d642e57410840110c1c5263e2473460a89cf095b8f821
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13648
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64.deb
+Size: 3518344
+MD5sum: 52c782f1cb37d5e426d97e70f0a69999
+SHA1: c71c16c4e696a8b18e5433564f8102d349a9094c
+SHA256: bf38ae04a9e1d69aa47be791423b2e7e44cb705aac70e432b00f8b740e8acb0c
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13648
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
+Size: 5177798
+MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
+SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
+SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.volume-manager
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1104
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./com.sunshinesong.volume-manager_1.0.3_iphoneos-arm64.deb
+Size: 253032
+MD5sum: 9f4aa9a3e8eb0abe5b8d26fa299bdddc
+SHA1: a8111d4d100d2a3d0c4db41ec1da21d8a1ffaa3f
+SHA256: 465ba2834352fa532e48cd67ffd715cdd7619f2af03a626fe7a1ca977d5ef89b
+Section: Tweaks
+Description: 音量管理，就是这么简单。包含功能：混响、多元化音量。
+Author: sunshinesong
+Name: VolumeManager
+
 Package: com.turann.randy420.appfetch
 Version: 0.1
 Architecture: iphoneos-arm64
