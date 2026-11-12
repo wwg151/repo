@@ -1,4 +1,8 @@
 {"events":[
+{"type":"added","date":"2026-11-12 14:43","package":"easynotifications_3.0_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:43","package":"eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:43","package":"eliza_0.0.3_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:43","package":"ellekit_1.1.3_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:35","package":"DockX_2.4.6_rootless","version":""},
 {"type":"added","date":"2026-11-12 14:35","package":"com.taobao4iphone_1.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:35","package":"com.tzfzdd_1.1_iphoneos-arm64","version":""},
@@ -44,9 +48,5 @@
 {"type":"added","date":"2026-11-12 14:35","package":"doodle_1.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:35","package":"dynamic-notifier_1.0.4_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:28","package":"com.news_1.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:28","package":"com.nicho1asdev.bigsurcenter_1.4.3_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:28","package":"com.nicho1asdev.bigsurcenter_1.4.4-B_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:28","package":"com.nightwind.rootless-patcher_0.0.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:28","package":"com.noisyflake.velvet2_2.1.2-2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:28","package":"com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 14:28","package":"com.nicho1asdev.bigsurcenter_1.4.3_iphoneos-arm64","version":""}
 ]}

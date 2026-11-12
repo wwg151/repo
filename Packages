@@ -10502,6 +10502,22 @@ Description: 只需轻扫一次即可消除通知。
 Author: iCraze
 Name: EasyNotifications
 
+Package: easynotifications
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/easynotifications_3.0_iphoneos-arm64.deb
+Size: 2792
+MD5sum: e0485e08ecf06b0c692284f5babe2de1
+SHA1: ca491ea57bbb69a5999396e7738e649dd4b46431
+SHA256: 66652211d8b0ac00b0ba3de7d98bd602ffd653562fd6ad00d0cfe96ef3e48f8c
+Section: Tweaks
+Description: 只需轻扫一次即可消除通知。
+Author: iCraze
+Name: EasyNotifications
+
 Package: eg.anubistweaks.phoneenhancer15
 Version: 1.6.5
 Architecture: iphoneos-arm64
@@ -10509,6 +10525,28 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 167
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm64.deb
+Size: 5808
+MD5sum: 6b065299e765741c9d86a4fcdbc05bf0
+SHA1: 463b418406c4a93a91c56ebc8025ef9bddcf06f1
+SHA256: 8458e179db07f107f782ea8c00e5105106b80d42ae18e899e6de6dc87e43da8f
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
+Description: Phone app as supposed to be
+Tag: purpose::extension
+Author: AnubisTweaks <pixellark@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
+Dev: anubistweaks
+Name: Phone Enhancer 15-rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 167
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm64.deb
 Size: 5808
 MD5sum: 6b065299e765741c9d86a4fcdbc05bf0
 SHA1: 463b418406c4a93a91c56ebc8025ef9bddcf06f1
@@ -10543,6 +10581,25 @@ Icon: https://repo.shorty.systems/icons/com.wilsonthewolf.eliza.png
 Name: Eliza
 Sileodepiction: https://repo.shorty.systems/depictions/sileo/com.wilsonthewolf.eliza
 
+Package: eliza
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: WilsontheWolf
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware(>=12.0)
+Filename: ./debs/eliza_0.0.3_iphoneos-arm64.deb
+Size: 10704
+MD5sum: 535b89f8fe7aec2249ab48261f47be1b
+SHA1: 99073296f05e2f585e00a1affad6114db6043610
+SHA256: db2fb9e9b9bb9385992851d7c8157e0aa6964650472fd14768f6594fc83186fc
+Section: Tweaks
+Description: 让你的电池色彩缤纷！
+Author: WilsontheWolf
+Depiction: https://repo.shorty.systems/depictions/web/com.wilsonthewolf.eliza
+Icon: https://repo.shorty.systems/icons/com.wilsonthewolf.eliza.png
+Name: Eliza
+Sileodepiction: https://repo.shorty.systems/depictions/sileo/com.wilsonthewolf.eliza
+
 Package: ellekit
 Version: 1.1.3
 Architecture: iphoneos-arm64
@@ -10551,6 +10608,25 @@ Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mo
 Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
 Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
 Filename: ./ellekit_1.1.3_iphoneos-arm64.deb
+Size: 352628
+MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
+SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
+SHA256: b6fa34a45629f1eba602678d3322ad06d077b52e015223f99a989883652b277b
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
+
+Package: ellekit
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_1.1.3_iphoneos-arm64.deb
 Size: 352628
 MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
 SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
