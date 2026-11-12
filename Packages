@@ -1105,6 +1105,172 @@ Description: 中国联通去广告
 Author: M哥
 Name: 中国联通NoAd-rootless
 
+Package: com.crctdd.autocopyverify
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1524
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.autocopyverify_0.0.5_iphoneos-arm64.deb
+Size: 100532
+MD5sum: 25a432a2df8b0cbb8ea78ea39d2c695f
+SHA1: 6838f9e055fa73084a5843dc96fcd91539cb11a2
+SHA256: 0e028e419b7fe0eefc6d9b834adb9bde73e5071fcdc6e94df4c74b89532cab90
+Section: Tweaks
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Author: crctdd
+Name: Auto Copy Verify
+
+Package: com.crctdd.autocopyverify
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.autocopyverify_0.0.5_iphoneos-arm64e.deb
+Size: 77884
+MD5sum: 57577047708f37ac35850896edc2b82b
+SHA1: 19c0462ea790dafc10ed15bb38d3db986c1428e0
+SHA256: 1a220ff5406933c519d28f8a0924ca1d6513ad6ce1507cdf5dae9825b620d53e
+Section: Tweaks
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Author: crctdd
+Name: Auto Copy Verify
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1408
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.3.2_iphoneos-arm64.deb
+Size: 157864
+MD5sum: cb478413e72625f06582edb73b50e1bd
+SHA1: 0082df8f726a64393834e76a34285919967173f9
+SHA256: ce82f9cd1803195835ba65b0a72fc34139a6d4356cfc31646c040b613d628289
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 692
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.3.2_iphoneos-arm64e.deb
+Size: 110504
+MD5sum: 58716350ef8df0ea3d8267a02ce9e01e
+SHA1: 1f7b6df713b9b966158423b015fc2cdbcee9c725
+SHA256: ed291303ee6fedb3683de8175e54c799f01c5e73ff885340cdb4000d1f00c8b2
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1484
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64.deb
+Size: 254324
+MD5sum: 585009194f6fd20b4eb4470c4bec5ffe
+SHA1: 771f33116c84911d4b5b3d82df00fda8d3e6d47b
+SHA256: f0e05f45a3239224ecd40070eed180b78c164a157651ec8b5ba925b56b126b68
+Section: Tweaks
+Homepage: https://creaturecoding.com/
+Description: Organize your settings
+Tag: purpose::extension, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Name: Shuffle
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+
+Package: com.csdnplus
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.csdnplus_1.2_iphoneos-arm64.deb
+Size: 3042
+MD5sum: a01725dd9364fa1a0dc58f40247bba88
+SHA1: 25c220f43f7fe77667d8415a32b8ee143cdd6986
+SHA256: 8872c514fd945b139b4e6e71dd1606eccc6f580b83c75c2d78570ea54d8ab1c1
+Section: Tweaks
+Description: CSDN去广告
+Author: M哥
+Name: CSDN去广告-rootless
+
+Package: com.ctrip
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 40
+Depends: mobilesubstrate
+Filename: ./debs/com.ctrip_1.0_iphoneos-arm64.deb
+Size: 1490
+MD5sum: 58d0674676c1900ffe74e8318822fc0d
+SHA1: 79376f23e382aef40c61daf6e3dbc7d3cac29128
+SHA256: 073c73a6c4337356c918152bf7c0076e1fbc62ac7860e556415302b5dddf8ea2
+Section: Tweaks
+Description: 携程旅行去广告
+Author: M哥
+Name: 携程旅行去广告NoAd-rootless
+
+Package: com.cydiageek.myautolock
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 405
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.cydiageek.myautolock_1.0.0_iphoneos-arm64.deb
+Size: 43516
+MD5sum: a4b90aefa784f40314b1adc92cd1a0e8
+SHA1: f924458d91178a72f46c4d8c12f75284aa7ff446
+SHA256: ef1a5c79ce6b76e3c9724704335245db94a65dd281ceb7846c203481c70c082b
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myautolockDp
+Description: Custom Auto Lock options!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myautolockDp
+Dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/MyAutoLock.bundle/icon@2x.png
+Name: MyAutoLock
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cydiageek.smoothlockx
+Version: 1.4.9
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1531
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.cydiageek.smoothlockx_1.4.9_iphoneos-arm64.deb
+Size: 139096
+MD5sum: c022e609614b01a8ec82e416c8c07c58
+SHA1: 3ab0654d0ba1429871c3e17b04da02f3ceeb1433
+SHA256: 6b7b23d24dc9cec6c2cc4c4c8059ae487b127410c22cd2f43cd1a938031dfce8
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smoothlockxDp
+Description: Give Smooth and Clean Views to the LockScreen on the iPhone X!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smoothlockxDp
+Dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/SmoothLockX.bundle/SmoothLockX@2x.png
+Name: SmoothLockX
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.dao.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1120,6 +1286,1105 @@ Section: 嗨-工具
 Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
 Name: BigShot 长截图(rootless)
+
+Package: com.dopamine.swapforcer
+Version: 0.0.2-7+debug
+Architecture: iphoneos-arm64
+Maintainer: Dopamine User
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.dopamine.swapforcer_0.0.2-7+debug_iphoneos-arm64.deb
+Size: 5880
+MD5sum: 0ca474b86bc8f312d9d9729ab64684a5
+SHA1: 1e6a4dfbb3056bf24c123f61a96c03cac8dcaee9
+SHA256: 2a93b49bbf0015831302376afe0db1d0b22a8b329cc4f1b06f23f9997d95290a
+Section: Tweaks
+Description: 强制启用并稳定运行iOS 16的Swap机制,提高应用留存率。
+Author: colorBlack
+Name: SwapForcer
+Prefix: /var/jb
+
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 23984
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.dumpapp.wechat-rootless_2.0.3_iphoneos-arm64.deb
+Size: 9333520
+MD5sum: a02219c15920c136e67ea9ea5591a8f2
+SHA1: 929704bf843ff16b2df49168506b847de30371f2
+SHA256: 60a2e03a268442a56ad6ef675b13bac0c35623e6b92fe8744d8e001b62165111
+Section: Tweaks
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手-Rootless
+
+Package: com.flex.lib
+Version: 1.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: pxx917144686
+Installed-Size: 9264
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.flex.lib_1.0-3+debug_iphoneos-arm.deb
+Size: 1747976
+MD5sum: 09db37fb6f255981c647b2b4593f6d4d
+SHA1: 3ebc7af925a4b925f93d493f3ec775620c95e335
+SHA256: f4c99b50173b7ab37273d877d3dea54bc29df6b52e72fe2c94f6d40cad796a6b
+Section: Development
+Description: FLEX (中文版) - 支持iOS 9.0及以上设备。触发功能：三指-长按任意界面，触发工具栏
+Author: FLEX Team & pxx917144686
+Name: FLEX 调试工具
+
+Package: com.github.wxsmalltabs
+Version: 0.0.1-5
+Architecture: iphoneos-arm64
+Maintainer: halo-michael
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.github.wxsmalltab
+Filename: ./debs/com.github.wxsmalltabs_0.0.1-5_iphoneos-arm64.deb
+Size: 12032
+MD5sum: bfcb6d972bee429e62cdc5bb7e4224ad
+SHA1: 20a13e6631d9e62f13615f9b68ccde7cab5dee9f
+SHA256: eb64f96528045ec5a2eb117920de1f5ed6b3f2709d1605e72f181b31dbbe6076
+Section: 微信插件
+Description: 微信底栏悬浮显示
+Author: Michael
+Icon: https://TrollStoreX.Github.io/sileodepiction/WXsmalltabs/icon.png
+Name: 微信小底栏
+
+Package: com.hitori.misaki
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 726
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0_iphoneos-arm64.deb
+Size: 220716
+MD5sum: 0adca9b2e5e98d21270df991de6a9d96
+SHA1: a4f7b2fd038ef1ed43220a8324488e2e18dab0ab
+SHA256: bfaa55dec5bddaa549657d8f9315920ef3ff1f1abc4ffc7b5c2bb2e590629ff9
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 751
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.1_iphoneos-arm64.deb
+Size: 230200
+MD5sum: 9a68f67ef4d7ce9e859ec4de6310b662
+SHA1: 40dc6ae67fd459164ca12e6bad798cbd1d0e6289
+SHA256: 61828204ccd54bdc6c56d12a184d0251ec1e39ca7649875ae18f95e8122de878
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 776
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.2_iphoneos-arm64.deb
+Size: 242452
+MD5sum: ea034fa21f1e793e162040cfd05c0800
+SHA1: 30479d7fd0b2325c7f130ac277705a83d6592aba
+SHA256: fe395a7c1cb031c2f25a37a5f1873d8b9bdf4c4fbacb5cd7178e5991dc72e22f
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 889
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.3_iphoneos-arm64.deb
+Size: 254408
+MD5sum: ebaf023b3a81c7df98005f0d9dd78cb1
+SHA1: a2fedc121d71db0a36f1a131224358cfaea26f76
+SHA256: 7f2eaa275bf25adcad6cb767b6cf3cee0e3cfe87fb569623f18fd6d54c19fbbf
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 906
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.4_iphoneos-arm64.deb
+Size: 259208
+MD5sum: a96336cc636c084cfa8bfe3dfaa81496
+SHA1: c68def7c5839fa92aa3006e0077e6ae0da414d5c
+SHA256: a682fa649512685045ed8765469dec1b1875b63600cdbe21bf14aed98becbe7d
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 969
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.5_iphoneos-arm64.deb
+Size: 276844
+MD5sum: 1ad83917b2842296d8a41315e5031431
+SHA1: 27a2700bf99f456dc04bfe760829da6419e6a051
+SHA256: 0aa38428a23930accd1964590ddf70b96922042686c8273cd2f23d92d928bc1d
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1296
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.6_iphoneos-arm64.deb
+Size: 286788
+MD5sum: 14d1645b6c852f993d44b2748cfc4d5f
+SHA1: c06d8708a5f913368d5fbea391e6a59c4009155a
+SHA256: 29c693e72ce49b8e175ed7c2a114e14784a72be5999b35c9bcf2c4af9be1ee6f
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1036
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.7_iphoneos-arm64.deb
+Size: 297064
+MD5sum: 2721bb086f4c26455dcf3add44f0e31a
+SHA1: 3b14fba9cc3e220a28e081e6c7b0819da8170144
+SHA256: 172a97569298a96f444053b7d0fdc58360ae3db08c7521ca3bcc10b9203c1a1b
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1324
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.8_iphoneos-arm64.deb
+Size: 297758
+MD5sum: 791cf7d03d1d4d711feea42456e7d6d8
+SHA1: c7ac28b95b86c1fb63de0644e842cb5355d71ba0
+SHA256: b8ed4da1fc227c537e494e91c1fa27961eb2fc970ca0042630afcd3358c038b6
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.0.9
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1038
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.0.9_iphoneos-arm64.deb
+Size: 298232
+MD5sum: fd7200ebab61cf9f31be9f230175a694
+SHA1: 47975bcb5f0d89eee772fe469c926da2ebcd5744
+SHA256: c1534cf5b6d2db6e8348d80d49cf5a19a5700d4e3bb99112eeea2180ec69becc
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1039
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.1.0_iphoneos-arm64.deb
+Size: 301284
+MD5sum: 867dc50ef5feb1ca6b3cd187f41c8958
+SHA1: a3dac35be7c89fc2acc6e62b34962598339b514b
+SHA256: 5e02e86e44fa88ba02fad4b7c8997e1269f01063efcae1c117cc13b9deae94c7
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1058
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.1.1_iphoneos-arm64.deb
+Size: 304104
+MD5sum: 8a571e89266d5f9195596e54aa124892
+SHA1: fb4845f37e8565729478901157aedfd261e3b719
+SHA256: 59ea516e1b9981d8a17832e407cc409c3cc9e6b72a3041cae0b2a2da42223898
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1138
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.1.2_iphoneos-arm64.deb
+Size: 323188
+MD5sum: 33f1227faeb5cabbeae3c82e7a55092f
+SHA1: 63dea66fc1c89cc1abd0317d6de5dbb2f42e49ad
+SHA256: 01bec41d27e3943b0bcbcca7ffbe4f9ce158a03c8e208ad6b751302aa7161c00
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1155
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.1.3_iphoneos-arm64.deb
+Size: 327212
+MD5sum: a1c8dd567bbbac421814e19a69c9c2a1
+SHA1: 84a6dd53620a07baed7c0eca612a7f14a4e8d810
+SHA256: 67e6b17d0adac9f9534ef5f8ffb89714629e3b2e781a027b7173252243125165
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.4
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1047
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.1.4_iphoneos-arm64.deb
+Size: 302386
+MD5sum: be4fa54eda282369ea89a414b7af72d5
+SHA1: 6dbd1e00eb3c9ae1ae7e4ded9ebcf89cb6069947
+SHA256: ff14ac410e9b0aa4ad9cff000aba4b4869b569bbc4f24a7241b725ccda2a4156
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.5
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1050
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.1.5_iphoneos-arm64.deb
+Size: 301144
+MD5sum: fcb703ec4ca116e49f6e4de90639ec5e
+SHA1: aa31b65ec4f9914139c40c94ef39459b06d45fd8
+SHA256: 9b64dcd44cb154f2e57cce24f8131d00d29349e6c0b07ba268c38d7e139b8016
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.8
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1060
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.1.8_iphoneos-arm64.deb
+Size: 303180
+MD5sum: d058340cae4c0e35a4ff308d4a7a6cec
+SHA1: 30e1107f49db16f2ff37fc10ead68bda830302f4
+SHA256: a8489e86fd804ae0cb65d79b20852b9fcd18d7b375effd3cbff414ae1f5e2e38
+Section: Tweaks
+Description: 使用Misaki定制您的iOS 15和16体验。定制选项，让您的iPhone真正属于您。
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.9
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1064
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.1.9_iphoneos-arm64.deb
+Size: 305760
+MD5sum: af1653f562c298eabece4d51e732ea05
+SHA1: 41fbeb8271ed82fc2efb5bc789f825ef21500cfd
+SHA256: 9ab0e2de07aab1d6e8e3a76c52c580ece5a93cd235df0f8a0f645a6ced9d0e50
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
+Size: 306352
+MD5sum: 40d8f0e6b680ea56a9b25c74ac2ef83d
+SHA1: 7dbeba1619aa928dcfc84a7ec11531785c8d9daa
+SHA256: 90f86b11b289d64af8a0e6b065e5ea37296b39b1f4ec65da3969e6a84981a4dd
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.homescreen
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.homescreen_1.1_iphoneos-arm64.deb
+Size: 3536
+MD5sum: 02c822de90a763daf5f539214d35b2af
+SHA1: 41d8206d86b3297dca6953272925e036a37c7c29
+SHA256: b84776f0c1d47d0be34f511b7c1c5465b5e98811a9dde2c4e184e6e6f7e0758b
+Section: Tweaks
+Description: 隐藏截图预览、屏蔽设备无SIM卡弹窗、隐藏应用程序蓝点黄点、隐藏主屏幕翻页小白点、禁用主屏幕下拉搜索栏、禁用主屏幕负一屏和资源库、禁用通知中心负一屏、快速隐藏音量条
+Author: M哥
+Name: 主屏幕优化-rootless
+
+Package: com.huami.DYYY
+Version: 1.2
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.2_iphoneos-arm64_rootless.deb
+Size: 646188
+MD5sum: 7bf668c465834a8e22c61b0e375e6a39
+SHA1: 4ea557aef501db140469d608c3f2604abb5a132f
+SHA256: 73bd954ba20712658163ebd0162da045565a9c7098fa0c2fcfc211ce6277e863
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.DYYY
+Version: 1.3
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.3_iphoneos-arm64_rootless.deb
+Size: 22010
+MD5sum: 4db83d8b93f70ce87a93c830c572300a
+SHA1: 838ee06b2315269dc6f540da6cdd0c3274fcfdc8
+SHA256: 9b852c2382c9052c0f07c78e647c1af7075d024a839cce7a166e8e5e4947d812
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.DYYY
+Version: 1.4
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.4_iphoneos-arm64_rootless.deb
+Size: 25592
+MD5sum: 7b77ef14cece2658d8c6b3894cd245c7
+SHA1: 48dddc6400e66d79d5a184639bf992e35b5484f5
+SHA256: 3e72ff3afc48295d9a291ed62c927d2aca669c2dda53b582aa4bc532c98d03e1
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.DYYY
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.4-1_iphoneos-arm64_rootless.deb
+Size: 25814
+MD5sum: 45e80187d309b14954bc6f8c89117b45
+SHA1: a1e041b8469ab3a761a3ee45000009e21da6d824
+SHA256: 53e003ab189d3bbdecc67729de4062a48321644266f0c0d3783aee1d04df716c
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.DYYY
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.4-2_iphoneos-arm64_rootless.deb
+Size: 25598
+MD5sum: fb1a18fa1971a88443b63d62fba2f5c9
+SHA1: 77a74d1dbc1c73f04a03faca7c5687f58268123f
+SHA256: bcd9128c0b734942ef1fac48c4310baee58489d5bd46afde248660c1548af409
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.DYYY
+Version: 1.5
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.5_iphoneos-arm64_rootless.deb
+Size: 26186
+MD5sum: 9071a2dff1566b9972ae81a533a95144
+SHA1: 7b6d5c9aafef27cf5010aa98405d49537927a17a
+SHA256: 5cefb9e64e38af771d14846ce571cfb4bbde623b74d3470aa4e3a969289fe276
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.DYYY
+Version: 1.6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.6_iphoneos-arm64_rootless.deb
+Size: 26698
+MD5sum: 534a88b400d9c94cdeb8b6400ec4ab0d
+SHA1: 2288a9b04e61063f54e94084d8a440a1765a77a1
+SHA256: 8e45ba137f7902206fa9d05eaa048bb1b06e70ad69f2612bf9dd1d06423be64b
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.DYYY
+Version: 1.8
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.8_iphoneos-arm64.deb
+Size: 34380
+MD5sum: fc363115d1b9b6d9baa930e12c03821e
+SHA1: a72fa2222e1fc4afc42316ac25292893041562d8
+SHA256: 63e8c508ce54f98ea5d208d41d0355b5a525f9399e4cc8c32e59cdbfaefd354b
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.DYYY
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.8.2_iphoneos-arm64_rootless.deb
+Size: 34400
+MD5sum: a5ab359ce5fd97985e9c744bdd957a37
+SHA1: dcd12436b6f0b8fd586d6d0cdaafabfcc82a997c
+SHA256: 2f2f80be1f86dff9d54f6abf0595935954ab8e02d4fbad25f6a65c4fa561abaa
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.bilinoad
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.bilinoad_1.0.0_iphoneos-arm64.deb
+Size: 2880
+MD5sum: 950384f293f9523d3f775746bbbcfdc5
+SHA1: cddb55e13b19faf524930ac11b5c52735cbb3404
+SHA256: b1f9e4176abea09b55e7d4abf8a9fb4337f3d31aa2cd3580c90d8a3e89ceef37
+Section: Tweaks
+Priority: optional
+Description: 秒过开屏广告
+Author: huami
+Name: BiliNoAd
+
+Package: com.huami.bilinoad
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.bilinoad_1.0.1_iphoneos-arm64.deb
+Size: 3370
+MD5sum: 40c73e85beef90e59452e2cc6df22ab6
+SHA1: 17d775abc53fd6c45a982d14b6e5bf81e3056f8e
+SHA256: 0cfedcc74ad2870dc77d5b3790129267616930500ddb80f443d48c9f944b2c60
+Section: Tweaks
+Priority: optional
+Description: BiliBili净化开屏广告
+Author: huami
+Name: BiliNoAd
+
+Package: com.huami.dyenablepanelmodernstyle
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.dyenablepanelmodernstyle_1.0.0_iphoneos-arm64.deb
+Size: 3362
+MD5sum: 2f22aaac6117bddf994b76d16cf36851
+SHA1: a01ab32a43432029a2262c7957f0a6b518d5c4c0
+SHA256: c812743e883eaf80c6befe2a5fb94f02aab94c22b742b800a2be479fda1bcdab
+Section: Tweaks
+Description: 强制启用新版抖音长按 UI（现代风）
+Author: huami
+Name: DYEnablePanelModernStyle
+
+Package: com.huami.dyyy
+Version: 1.6-2
+Architecture: iphoneos-arm64
+Installed-Size: 220
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.6-2_iphoneos-arm64.deb
+Size: 19088
+MD5sum: a7033b75c049d6e1ca63d20b918ec789
+SHA1: ae4ce870c23738d9a63e8e6f961c29320363b82f
+SHA256: 590273e51b55355157aedf74ec3f63391bd7680119e16739024e611768f6d89f
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.9_iphoneos-arm64.deb
+Size: 26418
+MD5sum: e44dce73c734474e33228378e722da37
+SHA1: b9e13ec02beee3e8b56aa43c61c84c70590a777b
+SHA256: ba3c0a022f3b79fbb554018d7d46f29f114f22e2c18eba758821137c3cbf0d65
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 1.9-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 252
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.9-4_iphoneos-arm64.deb
+Size: 28348
+MD5sum: 412d989d2889b61baf0185b0e2bc96a1
+SHA1: 2c04c98c3472ec6e6a1e766c024d2ae0e03d4867
+SHA256: 08770820951dd2d634a29ddd8c1a7dd075a5d76880a4bc3ce215aa8921bd0d53
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 1.9-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 268
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.9-6_iphoneos-arm64.deb
+Size: 30122
+MD5sum: 837ac107ac6e667e8e38c9806891202d
+SHA1: 30722d47fb3bfb572dbfe785212be3668a824b30
+SHA256: 3528a41a9e8d5ec13c5e4a2f855036630e09a2596debe6df43e38dc8140a686a
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 1.9-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.9-7_iphoneos-arm64.deb
+Size: 33180
+MD5sum: b1b4e273118a07db34abfd61ffe6789c
+SHA1: 57d749ad0b2a0238f90048a0af127a9ecf6ca527
+SHA256: b6d9f28c71ef710e5c55b98cdf3fbd730b4016177f53efdc381a082374619e3c
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 1.9-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.9-8_iphoneos-arm64.deb
+Size: 33630
+MD5sum: f1725f6f88668573d6f1dba599d6e266
+SHA1: 6d6fe2fff72aa5543d53ae24ad8f7947021af44f
+SHA256: 9d27601e152524e7aba4beeb2b6c860844509987c3456945adfe56d868228a14
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 1.9-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.9-9_iphoneos-arm64.deb
+Size: 34036
+MD5sum: 27d2d83ad493907af0fd669605f141bc
+SHA1: 9b256391e43d2d51ad687b0f42e203c5a24bde88
+SHA256: d23e74d54868a298ec6a4b56d26ec39a172fb1adfb20caf329623bb3aef36391
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 1.9-9+1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.9-9+1_iphoneos-arm64.deb
+Size: 33744
+MD5sum: 0c0460d8d4f9e16e998bb04fbbea1f60
+SHA1: 34e157fbf70e34e4b18a562ca7e3932fa7d62043
+SHA256: 92af691b5cd3df14c314e9470af7e351691ef1f7df8726040a00bdd7872e5a7c
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.0-9_iphoneos-arm64.deb
+Size: 55496
+MD5sum: 7293bafa2ab611e0dcc93126f3637ac9
+SHA1: 6dfeb16dc8465eaf2b455db4e787b309e0f924d0
+SHA256: 5e2f86d931367fdc3e5d1d79092ba12d60cea476ea4842bb861dd7ae39defeb1
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.1-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.1-3_iphoneos-arm64.deb
+Size: 72978
+MD5sum: 03d676a8a850403b3880727ce87d1438
+SHA1: 1a6ab9b069da410a8ac995e75c99edfced2e04f4
+SHA256: e5dda7b5468c815d374bc28f06823df2005b62f71297cea2f41b3681f59f7f23
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.1-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.1-4_iphoneos-arm64.deb
+Size: 72088
+MD5sum: 66d58592b2c77d1fb344637d5fc305bc
+SHA1: 236fdb9dee03a21de6e3686db4cabd5751b79489
+SHA256: f564e28543bfebba305bdd732ca060b569796d7f44e4fe76c2903e938e5c6d96
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.1-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 516
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.1-5_iphoneos-arm64.deb
+Size: 78620
+MD5sum: 60e7c7e687604916bec9548e533c11d6
+SHA1: e48f911228a3fba3f8c3cca5b60a7393c7114273
+SHA256: 00c17d5f74ea24a2ff173c1a53dc7b9b3fe71d2463233764607e2fb971dbd497
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.1-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 584
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.1-6_iphoneos-arm64.deb
+Size: 91878
+MD5sum: 5cb46e1e9c48d3e52d3d32fd326fc745
+SHA1: 29215b200f3ea0297d51598e5c4b3a27aad073b5
+SHA256: 74c6e9e39ad1b2f03ac3bc7ff1092cb4b17d196113ae99a5f04edd89cf78f3d7
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.1-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 796
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.1-7_iphoneos-arm64.deb
+Size: 139924
+MD5sum: 031dd4fd892bf8f5cf86c0cd8c378e83
+SHA1: 753db090cf136045af25119d84e9a288cbed4672
+SHA256: 9dd5e8e92d07aa35b650c91fcaec0069362ab240f0f12d3cc4638517b05bf1a9
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 848
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-1_iphoneos-arm64.deb
+Size: 147414
+MD5sum: d3b1229480f965ce2b71ac1dd3bd387f
+SHA1: 7a8ff1f1b39b8765a875f27106c7ef16c02f08fe
+SHA256: e3811405618a06c70bd73e706db57c0ce26c8a0142791f722d3094e69c5bab3d
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1768
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-2_iphoneos-arm64.deb
+Size: 322986
+MD5sum: 4285f661cda8493acfb694c96aab2665
+SHA1: 5e5f80c32b4ac55820c23965695600a9cff3d677
+SHA256: 22d0f7b75d95b40aa0466d7dd06997186ef0804b39cdb2709efccb65e6d93140
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1816
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-3_iphoneos-arm64.deb
+Size: 332628
+MD5sum: f5dc20ed4bbd760167a2f65fd44dd606
+SHA1: bc702c881d9762d5aaf6aa6c124dc30104d8a1ca
+SHA256: 0e2036fee01991c830fcc86f0211e455e7359fdae8af497601815eeffc592b89
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1964
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-4_iphoneos-arm64.deb
+Size: 370074
+MD5sum: b962160c0a8ea06a0715305a04c9ed75
+SHA1: 2e2d0ac16c856ded6fe2cc8940ed61470018d233
+SHA256: 9a8f6d2fd16cbb269aba1eded0ef798e7c7103804b1f3c530dc4ca621a8b5c51
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2012
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-5_iphoneos-arm64.deb
+Size: 384478
+MD5sum: b37d0d01eca687f36a9cde413f9167bd
+SHA1: 06c249e7b48364c52455574924161aee034749d1
+SHA256: f6c95f119470bb9375517b4fba9ff7316de667fce5e131d779c7bb5f50b45593
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2028
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-6_iphoneos-arm64.deb
+Size: 394330
+MD5sum: a8411a5d323e773525f494f9c0f833cc
+SHA1: 4fc230dc971c5d9f68d55808c03f7c6f171605e5
+SHA256: c59c44570fdef2d78e36bf23eb6449fdf0009673d37b02fb3b33c4c8d9656502
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2288
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-7_iphoneos-arm64.deb
+Size: 448806
+MD5sum: 7ddeb24775aeca54dbc1801ab7352a88
+SHA1: 8986e3219b762dcb39660e2e9b4222f901ebfc47
+SHA256: 9367385ec8ea2a26f0626cbb2dce24b9da124355647013c672fc019e6801081e
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2420
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-8_iphoneos-arm64.deb
+Size: 475912
+MD5sum: d3a01e1fc36350c4b85991d6fd04bcb5
+SHA1: 8dea185557c0edecab73b8c2b9c47b480e2d76c9
+SHA256: fc395b1db667fc7fe483055b9164779ff3806f309b51826d6795061437c13b2f
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-9
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-9_iphoneos-arm64e-roothide.deb
+Size: 642754
+MD5sum: 7734b42b6b01575977f8ce35c5bdd31d
+SHA1: 7a2091b4aec0d4ca5c2cf894862c7afcce4dc459
+SHA256: fb2a340818a7e97cbe353c5e4b58eedcb96637f543dd8384060a24845299c966
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-9_iphoneos-arm64-rootless.deb
+Size: 640768
+MD5sum: 3f3d1211411e16664073a9e43f7819bd
+SHA1: 79ce042550f7f423cd6181b9a58b480bfca300af
+SHA256: 225412fbb4f2c455f2dc3494ac3f2e2967243bb1802f58b7779763309333777e
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 3208
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.3-0_iphoneos-arm64e-roothide.deb
+Size: 706524
+MD5sum: 77f0a60eca5eeef0c7d519eb76ee0cae
+SHA1: a320846fe4bdbaa81bb866d79a973647212d83bd
+SHA256: 597ee43ef39798f2f2d80a49da44c2cfc2611c9158e09173b7899c2b9eb15bae
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 3208
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.3-0_iphoneos-arm64-rootless.deb
+Size: 706018
+MD5sum: acac8ffaa1bc9d71be8b9c6552253b4c
+SHA1: e50dc1cb22a17828efe46103a667d4307431941e
+SHA256: 3ea7c03e37c0fb0602094127a8bd9c96c9867695bc56581d41fcb5b27eadafc6
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
 
 Package: com.kingpuffdaddi.control-center.ccvpn
 Version: 1.0.6
