@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-13 00:37","package":"com.aronsz26.lockscreenrestore_1.9.5-3_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-13 00:37","package":"com.aronsz26.lockscreenrestore_1.9.5-3_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-13 00:20","package":"com.aronsz26.lockscreenrestore_1.9.5-2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-13 00:20","package":"com.aronsz26.lockscreenrestore_1.9.5-2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-12 23:59","package":"com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"removed","date":"2026-11-12 15:11","package":"com.sunshinesong.split-view-pro_1.1.0-1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.sunshinesong.split-view-pro_1.1.1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.sunshinesong.split-view-pro_1.1.2_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.sunshinesong.split-view-pro_1.1.4_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64","version":""}
+{"type":"removed","date":"2026-11-12 15:11","package":"com.sunshinesong.split-view-pro_1.1.4_iphoneos-arm64","version":""}
 ]}
