@@ -285,6 +285,375 @@ Author: yan
 Icon: https://media.havoc.app/66146449f290ffddc2a3059a
 Name: Bloom
 
+Package: bluefinder
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: M
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs/bluefinder_1.1.3_iphoneos-arm64.deb
+Size: 222652
+MD5sum: aa48c37bfd6e4d39348c94d8b482d327
+SHA1: c22a0f5735566362edbc253ef56b414e3506006f
+SHA256: dc00295bde874c8212b8d13e65e2f4087961c00eb7a5ce8b17ce286ff3f81fd7
+Section: Tweaks
+Description: 使用蓝牙设备查找您的iPhone！
+Author: AnthoPak
+Icon: https://img.chariz.cloud/icon/bluefinder/icon@3x.png
+Name: BlueFinder
+
+Package: bridge
+Version: 1.1
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/bridge_1.1_iphoneos-arm64.deb
+Size: 4946284
+MD5sum: b0a7665b809a1b7da6d0e38d3d1c8525
+SHA1: 0c7f3fde076ba3a926d349c194a978962f46b51b
+SHA256: 17be5222421318a625dd751cf3dab8effe06843746b22d5cd15d7fa40a73e1fd
+Section: Tweaks
+Description: Apple Watch主屏幕体验带给iOS。
+Author: MTAC, ETHN
+Icon: https://repo.cypwn.xyz/packages/Bridge-Rootless/icon.png
+Name: Bridge
+
+Package: callassist15
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy
+Filename: ./debs/callassist15_2.2.2_iphoneos-arm64.deb
+Size: 2511468
+MD5sum: 9a911bac132777eade9d2b57b32b4b89
+SHA1: 49c8dee3a0e2e60b9617914e13958ce2752a4947
+SHA256: 35158488dc494a5edfb7d58db54fbccc36051c6ce90c32c94a297f1c7c20b5b4
+Section: tweaks
+Description: T9双卡选卡拨号键盘,短信双卡选卡,通话录音,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Author: xybp888
+Name: 电话助手iOS15-Rootless
+Sponsor: xybp888
+
+Package: callassist16
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/callassist16_1.3.2_iphoneos-arm64.deb
+Size: 2613076
+MD5sum: 76e924afbf45d5695efe445694d123eb
+SHA1: eb769baf120de116f510f8fb4d68ebc636c5dbd4
+SHA256: e24912e4d824f7abfec575581836b487c6753dbb65053b16c7e608d98ba85eb2
+Section: Tweaks
+Priority: optional
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Author: xybp888
+Name: 电话助手iOS16-Rootless
+
+Package: carbridge13
+Version: 2.0.13
+Architecture: iphoneos-arm64
+Maintainer: leftyfl1p
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/carbridge13_2.0.13_iphoneos-arm64.deb
+Size: 434064
+MD5sum: d4cb6e0597bb3691c5734f2f631f0c22
+SHA1: 8c955d98a81484d600d7bf555aa38c3a652dc240
+SHA256: 2e884c4642eb1e64ad8ced50181a540a39f892b70770ba0d301c4a8ea3326f0f
+Section: Tweaks
+Description: 在CarPlay中打开任何应用程序！CarPlay
+Author: leftyfl1p
+Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
+Name: CarBridge
+
+Package: carbridge13
+Version: 2.0.14
+Architecture: iphoneos-arm64
+Maintainer: leftyfl1p
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable, xyz.cypwn.carbridge13, com.leftyfl1p.carbridge13
+Filename: ./debs/carbridge13_2.0.14_iphoneos-arm64.deb
+Size: 434456
+MD5sum: d770677982e547c202063b68038c92ea
+SHA1: 3a6646ec47fff05f5a47c04615056d2235c4c8b5
+SHA256: b529a742637931a2573430698c27614a4edb025fd671dd52c36322e18c8a2092
+Section: tweaks
+Description: 在 CarPlay 中打开任何应用程序！
+Author: leftyfl1p <carbridge@havoc.app>
+Name: CarBridge(rootless)
+
+Package: chaoge.jbdev
+Version: 1.0-279+debug
+Architecture: iphoneos-arm64
+Maintainer: chaoge
+Installed-Size: 21020
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/chaoge.jbdev_1.0_iphoneos-arm64.deb
+Size: 1110300
+MD5sum: 27b36b29ac26b2d626873df31b91dada
+SHA1: 910b473d514182f52311ef8d55cb0f5e4237f781
+SHA256: 235df9f18ff2b09f49f71403ae6970e609e307fc4b6208a6dc9c9f2d30568e09
+Section: Tweaks
+Description: Jailbreak development tool for XCode
+Author: chaoge
+Depiction: Jailbreak development tool for XCode
+Name: JBDev
+Sileodepiction: Jailbreak development tool for XCode
+
+Package: classicfolders2
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: CoolStar
+Installed-Size: 4496
+Depends: mobilesubstrate
+Filename: ./debs/classicfolders2_3.0.2_iphoneos-arm64.deb
+Size: 3295620
+MD5sum: 97169f135c991c90f61a49b7c2d15a89
+SHA1: fd46c850d2c3e3d7743e2eb0e29840b5501f8b53
+SHA256: 9d91306fda98a8ee33210b1a43829575fcfa56778bf994eb31f29bcec5ee2d7e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: ClassicFolders 2
+
+Package: cn.llld.appfix
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1548
+Depends: firmware (>= 14.0), ellekit | mobilesubstrate
+Filename: ./debs/cn.llld.appfix_1.0.0_iphoneos-arm64.deb
+Size: 478672
+MD5sum: 9a0bb0bdfbaae4f3bc1f5019ba50698f
+SHA1: b415403205d75e12d6a04134c088794d1a8a3777
+SHA256: de38516eb39b0e60078364bc8f58a4b75706dc56c5e8658b8b841bd43a5f7640
+Section: Development
+Description: appfix 应用修改器 ———  系统应用，用户应用，越狱应用的调整工具（Flex3 思路重写增强，1.0版本之后支持导入Flex3配置），支持自定义脚本代码，配置导出导入，一键开关，视图层级可视化 等等，不收费。
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Name: 应用修改器
+
+Package: cn.llld.appfix
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 1548
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), ellekit | mobilesubstrate
+Filename: ./debs/cn.llld.appfix_1.0.0_iphoneos-arm64e.deb
+Size: 478624
+MD5sum: a4167ba3ce45de6f36c491554e25c7fe
+SHA1: 9c7fce123b87544a4b98635a599da3fbde2f2b16
+SHA256: 3bb3b65e7ae25cdec32e417c547ee3b0fd03c855d5cbf9a6ae03e048378fcfdd
+Section: Development
+Description: appfix 应用修改器 ———  系统应用，用户应用，越狱应用的调整工具（Flex3 思路重写增强，1.0版本之后支持导入Flex3配置），支持自定义脚本代码，配置导出导入，一键开关，视图层级可视化 等等，不收费。
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Name: 应用修改器
+
+Package: cn.llld.appfix
+Version: 1.2.21
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1940
+Depends: firmware (>= 14.0), ellekit | mobilesubstrate
+Filename: ./debs/cn.llld.appfix_1.2.21_iphoneos-arm64.deb
+Size: 575812
+MD5sum: 52d2cf78cbd4c786dc1cf618998042f7
+SHA1: d67759058f24db4d233a28a564b9b2f8e1a9ace1
+SHA256: c7062ebfab2f619cd7e78d995ce21b65bc58798dcd7a7273a725c2d83e5dd566
+Section: Development
+Description: appfix 应用修改器 ———  系统应用，用户应用，越狱应用的调整工具（Flex3 思路重写增强，1.0版本之后支持导入Flex3配置），支持自定义脚本代码，配置导出导入，一键开关，视图层级可视化 等等，不收费。
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Icon: file:///var/jb/Applications/appfix.app/AppIcon60@3x.png
+Name: 应用修改器
+
+Package: cn.llld.biaoji
+Version: 2.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X: h_h_x_t
+Installed-Size: 328
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.biaoji_2.0-1+debug_iphoneos-arm64.deb
+Size: 75620
+MD5sum: b32b41b91d99889e26bd076db2cf6920
+SHA1: a086ba9fbe24c864096b989919ea39dd9b985248
+SHA256: 37ec92e91610b4394c66728e3fda659f80cfc453958cf9aab1ccfa533d3ec1a3
+Section: rootless插件
+Description: 给Snapper 或stayShot插件增加标记功能，快速对图进行箭头，打码，复制，方块，涂鸦，保存，高亮，文字等，免去了装第三方软件或者跳转程序的繁琐，14-17可用，改屏幕图标在插件目录下Library/MobileSubstrate/DynamicLibraries/biaoji/pencil.tip.crop.circle.png，设置里图标名为Settings-biaoji.png
+Author: 来了老弟 X: h_h_x_t
+Name: 截图标记-rootless
+
+Package: cn.llld.jxydt
+Version: 0.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.jxydt_0.4_iphoneos-arm64.deb
+Size: 21330
+MD5sum: ff25a8437cf497ac353ad2f0d0d1bf22
+SHA1: dea0c7ded9f660d13308a994949bb6880e1171bb
+SHA256: db670dde7cc2e64abc4d19c891693265239c8f5cf0717ea21382281f08f4ac0f
+Section: rootless插件
+Description: 可注入可越狱使用，祝各位拿证到手。默认去除开屏广告和动画(若开梯子使用会冲突)，广告因版本不同而有所固执，待处理。开启'模拟考试完整技巧次数破解'，开启'去除视频观看20秒需会员的限制'等数十功能，长按1秒底栏弹出设置。
+Author: 来了老弟
+Name: 驾校一点通绿化-rootless
+
+Package: cn.llld.jyxlss
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.jyxlss_0.0.1_iphoneos-arm64.deb
+Size: 4156
+MD5sum: 596f1a77c27bb49843f540b838459615
+SHA1: 1b8d3306a67b55ace1e3c9cbf68293b1d20d84e5
+SHA256: c8282920d661f0c5d388913ac912bcee42b1945b2e3a6f6c6d50111c2f80614d
+Section: rootless插件
+Description: Disable home screen dropdown search。禁用主屏幕下拉搜索。
+Author: 来了老弟 X：h_h_x_t
+Name: 禁用主屏幕下拉搜索-rootless
+
+Package: cn.llld.kbtool
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 6432
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.kbtool_1.0.0-2_iphoneos-arm64.deb
+Size: 2916062
+MD5sum: 7207e838130b7ac14b80f29806847fc0
+SHA1: 45324a9449d2f687953a68a5e52fe75711c3925e
+SHA256: cf87e3c2f81e6c173ed4ef22579c6b61dbb8ffa9ba0a1ba053aedc906ec5f546
+Section: rootless插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: Panel-Tools(keyboard)
+
+Package: cn.llld.qqdsq
+Version: 1.01
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/cn.llld.qqdsq_1.01_iphoneos-arm64.deb
+Size: 88838
+MD5sum: edb346cb0d624319832aabd049b2a746
+SHA1: 69865559105ac1200dc7728bccaf380350236c3f
+SHA256: 30d7b9da928a44da26ead200a8028a98c750f2d91ce278bb88e8b63c815369ff
+Section: rootless插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.0.249和v9.0.1，别的版本需自测。在研究转发语音和空间跟圈，去广告，防撤回等一些功能还莫急，会上
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 300
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/cn.llld.qqdsq_1.1_iphoneos-arm64.deb
+Size: 73840
+MD5sum: bb544cdfcc7d03ebec12f19857f7bdd8
+SHA1: 7c211e3096731ffa9806e3fad9fa800d5b8151e3
+SHA256: 80c9a1dda1c66c30f7c58580dbf7cdebb86b41a9359a0d3acf87691ddd61cf3b
+Section: rootless插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 300
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/cn.llld.qqdsq_1.1.1_iphoneos-arm64.deb
+Size: 75022
+MD5sum: 7a896d4af5f3a8ba96b151b533f56dfa
+SHA1: fee0dd266da133a000ddd448b1220a89547a3887
+SHA256: 2f029294bb2969b1e42eb221a3ac22b0a4b6fb742441c2c256ade2f704843032
+Section: rootless插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/cn.llld.qqdsq_1.3_iphoneos-arm64.deb
+Size: 101926
+MD5sum: e4eb54596f89c29da7b7094a0d425d0f
+SHA1: 753323f3a0610490b0325bcf42c16b53ca5a4e43
+SHA256: 51149c89e5caf9dfbc4c731a8a354bba9c6ed543197e997bb9edeffb107b398d
+Section: rootless插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。功能在手机"系统设置"。功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/cn.llld.qqdsq_1.3.3_iphoneos-arm64.deb
+Size: 104012
+MD5sum: 09d2204a657018c8c4a121984f64a3f2
+SHA1: f6f201be30552a711a0966a62bad43ead97c3663
+SHA256: 31c5d5ef99bc962d1b474003f62280651a3ca88fc9af2645b3df2cb674f0811d
+Section: rootless插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.wxx
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.wxx_1.0_iphoneos-arm64.deb
+Size: 18608
+MD5sum: a24d07bb0c0405efe02769368dc12bc4
+SHA1: e9b07111cedd512f0531e40673d15672cf72a122
+SHA256: d0c87c5106bb58f3dfbda46372246ce2324df4a92ab09814e51f0757c1cc4e0d
+Section: rootless插件
+Description: 微信小布丁1.0版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态等功能。不整大杂烩，只更用的到.***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.zfbb
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.zfbb_1.5_iphoneos-arm64.deb
+Size: 20574
+MD5sum: d05c3f0664f52193954fbf15048d59ff
+SHA1: a25df2a8bcb5e08921f7b751171a4708689f0c82
+SHA256: 4e02f0badf1df90b88702959a0ce26fd3fed364b0a333caf1992ecfe714f96da
+Section: rootless应用插件
+Description: 可注入可越狱使用。自定义步数，精简主页显示内容，视频内容下载.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。250524:最好巨魔注入使用。260927:加个视频下载按钮
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
+
 Package: com.dao.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -300,6 +669,62 @@ Section: 嗨-工具
 Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
 Name: BigShot 长截图(rootless)
+
+Package: com.kingpuffdaddi.control-center.ccvpn
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 187
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/ccvpn_1.0.6_iphoneos-arm64.deb
+Size: 15216
+MD5sum: 92b2ebe26ff0023b260c39413cffbe80
+SHA1: 881eaeb8f9c22be798e65478940783ad672b0753
+SHA256: e65eafb89e52fef08e814323e43c1d5c7474955dc401504fd1783ff536fc6955
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: A Control Center Module to connect/disconnect VPN
+Tag: purpose::extension
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Name: CCVPN
+
+Package: com.snail.byebyelaunchad.rootless
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 648
+Depends: firmware (>= 12.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Filename: ./debs/byebyelaunchad.rootless_1.3_最新版破解.deb
+Size: 279512
+MD5sum: a378561a82dccf884fb0db59110e2674
+SHA1: 99e86b75335301ab298c63278fbe0e4afa06b27a
+SHA256: 01553a98f372228a88534e2a02fbd42c6798f3ff0052a253558ff79a1afc16f4
+Section: Rootless
+Description: 跳过所有主流APP开屏广告，可以自定义对任意APP启用。支持iOS 14 - iOS 16所有越狱机型。此为rootless版本，不要安装错哦~
+ - 1.3.1 优化Xina、Palera1n越狱机型上可能出现的应用闪退
+ - 1.3.0 过滤“应用停留后台片刻，切换回来叒弹出来的首页广告”，此类场景非开屏广告，应用户建议，终于攻克更新支持~
+ - 1.2.5 修复上一版本可能引入的插件冲突
+ - 1.2.4 优化用户反馈的大量问题，详见https://sourl.cn/fcvYry
+ - 1.2.3 修复某些系统进程的影响
+ - 1.2.2 去掉首次安装购买提醒弹窗
+ - 1.2.1 修复一些已知问题和某些APP，详见优化表格
+ - 1.2.0 全面升级，更快更全面的跳过体验，可自定义检测开屏广告时长
+ - 1.1.0 优化更多的APP
+ - 1.0.9 修复激活弹窗无反应
+ - 1.0.8 优化部分APP体验
+ - 1.0.7 修复106的BUG
+ - 1.0.6 修复与shadow的冲突，加速某些视频APP跳过速度
+ - 1.0.5 优化少数APP、回归支持巨魔安装的APP(105目前已知和shadow有冲突，大家有shadow的先不更新)
+ - 1.0.4 修复少数反馈弹窗问题
+ - 1.0.3 修复1.0.2导致的文字消失问题
+ - 1.0.2 - 修复部分用户初次无法激活、修复部分白屏&部分无法跳过APP
+ - 1.0.1 - 修复用户反馈用户空间问题
+ - 1.0.0 - 初次发布
+Author: Snail <mu514983786@gmail.com>
+Name: 蜗牛拜拜开屏广告-rootless ByeByeLaunchAd-rootless
 
 Package: com.turann.randy420.appfetch
 Version: 0.1
@@ -335,4 +760,24 @@ Section: Netskao-Tweaks
 Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
 Author: Netskao
 Name: 3DNetworkFixer-Rootless
+
+Package: ws.hbang.common
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3132
+Depends: firmware (>= 15.0)
+Filename: ./debs/CepheiTweakSupport.2.0.deb
+Size: 198888
+MD5sum: 61e7d9d00f1edaef7589ea9593c17dc7
+SHA1: 4b9b0714a34378a81519ca6a8f7db609a2eea444
+SHA256: 3c8f09a6006beff67951c9d77c13768743af7ad743aee99661ecd59a5666a479
+Section: Development
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Name: Cephei Tweak Support
+Support: https://hashbang.productions/support/
 
