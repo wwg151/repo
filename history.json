@@ -1,4 +1,14 @@
 {"events":[
+{"type":"added","date":"2026-11-12 11:44","package":"Flex3beta_1_3~Beta56","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"Flex3beta_1_3~Beta92","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"exacttime_2.0.2_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"fingerlock_3.0.2_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"fiona_1.0.4_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"fiona_1.0.5_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"flex3_1_3~Beta90_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"flexlist_1.4-1_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"flexlist_1.4-2_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 11:44","package":"flora_1.0.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 11:42","package":"DockX_2.4.6_rootless","version":""},
 {"type":"added","date":"2026-11-12 11:42","package":"cthulhu_1.0.9_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 11:42","package":"datasource_1.0-2+debug_594599","version":""},
@@ -38,15 +48,5 @@
 {"type":"added","date":"2026-11-12 11:37","package":"com.ycdock_1.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 11:37","package":"com.ychengtiao_1.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 11:37","package":"com.ycnc_1.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:37","package":"com.yellowdot_1.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.intolivehook_1.0.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.jrtthook_1.0.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.jrtthook_1.0.3_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.kshook_1.0.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.kshook_1.0.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.kshook_1.0.3_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.kshook_1.0.4_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.kshook_1.0.5-1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.kshook_1.0.5_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:33","package":"com.xx.kshook_1.0.6-1_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 11:37","package":"com.yellowdot_1.0_iphoneos-arm64","version":""}
 ]}

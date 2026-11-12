@@ -1,3 +1,39 @@
+Package: Flex3beta
+Version: 1:3~Beta56
+Architecture: iphoneos-arm64
+Maintainer: John Coates
+Depends: firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/Flex3beta_1_3~Beta56.deb
+Size: 16823192
+MD5sum: da5a026e7ff6ecb6cb07833ef709c3b2
+SHA1: f43f78a17a0364e70470c7a049a1c182e8836fc8
+SHA256: 64b6fbf8e17ec441936c79c9555a2de2dcf0933a3f2cd140c02d5647e773b438
+Section: Tweaks
+Description: 开发您自己的调整并在Flex社区云上共享。
+Author: John Coates
+Name: Flex 3 Beta56
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta92
+Architecture: iphoneos-arm64
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/Flex3beta_1_3~Beta92.deb
+Size: 9650236
+MD5sum: 7bfc71350b6ca07cb7d10262527b49b5
+SHA1: 100ac07eadd2a4fd4adf63a606aab2cfce314ca5
+SHA256: 73c90c9fb64ba9fbadc22b6b7fa823ea6055a04195f882ae5a4c8c8c2f73242c
+Section: Tweaks
+Description: 开发您自己的调整并在Flex社区云上共享。
+Author: John Coates
+Name: Flex 3 Beta92
+Recommended: com.rpetrich.rocketbootstrap
+
 Package: aimpro
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -515,6 +551,20 @@ Description: Short-click to copy the text content.***使用方法：短按复制
 Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootless
 
+Package: cn.llld.ftt
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Filename: ./debs/ftt中文版-rootless.0.1.deb
+Size: 42976
+MD5sum: 280be0fb6eb600a8c2682de4072b8455
+SHA1: 613e7af5dd236067326436592f072550a166582a
+SHA256: 91a1373ae07d1239273612d3e53932ba38f853dd24b509fec29eea10f74dc28c
+Section: rootless插件
+Description: This is just the Chinese version of "ftt", the English version in（ https://github.com/randy-420/ftt ）Download。。。。工具作用：把Flex3补丁转换为Theos项目，原版(https://github.com/Randy-420/ftt)，补丁路径：/var/mobile/Library/Application Support/Flex3/patches.plist或前面加/var/jb
+Author: iPadKid358 Randy420
+Name: ftt中文版-rootless
+
 Package: cn.llld.jxydt
 Version: 0.4
 Architecture: iphoneos-arm64
@@ -654,6 +704,75 @@ Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubi
 Name: 芭比Q-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
+Package: cn.llld.qsyy
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 540
+Depends: mobilesubstrate
+Filename: ./debs/FloatingReplacement悬浮替换翻译汉化_1.2_-arm64.deb
+Size: 94554
+MD5sum: 1ce63c20950a75f3ab4234923c830dfc
+SHA1: 8a73286445b4a67c1913df0f7edac3d470aad598
+SHA256: 6aa513d4a35f3d0b793b3395b54bd8b0cf7604e5a45faec3d61d6ccfd9b60022
+Section: rootless插件
+Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，隐藏设备实际信息，靓仔装逼等。之前代码是垃圾，一切以最新版为准，，，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+Name: FloatingReplacement悬浮替换翻译汉化
+
+Package: cn.llld.qsyy
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 572
+Depends: mobilesubstrate
+Filename: ./debs/FT悬浮替换翻译汉化-rootless_1.3_arm64.deb
+Size: 101138
+MD5sum: fec939ae84f4d6338d8d6a6097d070b0
+SHA1: 122f648aa7a1a95ce0359dcb8d2716c20c51f28b
+SHA256: f1004fcb99d64283d655dae7a1e92d1b6bf4d29a0f92560d0cbe347da77c7223
+Section: rootless插件
+Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，隐藏设备实际信息，靓仔装逼等。之前代码是垃圾，一切以最新版为准，，，勿改包，不弹窗。240403:以新增多款应用，有需要自己汉化巨魔的也可玩，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+Name: FT悬浮替换翻译汉化-rootless
+
+Package: cn.llld.qsyy
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: ./debs/FloatingReplacement悬浮替换翻译汉化_1.5_iphoneos-arm64.deb
+Size: 112060
+MD5sum: 30bda508c7dc6c4ac1c583fea9d3c04b
+SHA1: d121fbbddb33f6ec36954e94b2326ab11760145c
+SHA256: b215d7c905210013bbdb3783b8aa465d25d770a926f156e2b03998a78fc27197
+Section: rootless插件
+Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+Name: FloatingReplacement悬浮替换翻译汉化
+
+Package: cn.llld.qsyy
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 4924
+Depends: mobilesubstrate
+Filename: ./debs/FT悬浮文本增强翻译汉化-简版_2.0-arm64.deb
+Size: 3897008
+MD5sum: caa104c29e7b78507e1d4246cf9e7816
+SHA1: 088d3df1a080b811d1b24602ba8e2fc908e25c88
+SHA256: cca2a25039d117fa139dd0f5a5b2a09b1aa628d212a0cb24efb0ab8650273e09
+Section: rootless应用插件
+Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+Name: FT悬浮文本增强翻译汉化-简版
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+
 Package: cn.llld.wxx
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -740,6 +859,23 @@ Description: View & Manage Applications Data from your Home Screen
 Author: Fouad Raheb <support@fouadraheb.com>
 Name: Hello AppData
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.appdata
+
+Package: co.dynastic.ios.lib.flora
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Installed-Size: 492
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: ./debs/flora_1.0.1_iphoneos-arm64.deb
+Size: 112596
+MD5sum: 6928571f87571aa92e7de8a31065db62
+SHA1: a4e11d530261b4d51badcd2d5f7a660aeeec42c7
+SHA256: 77d970338f788eccf9240dd7e7e32a8a213a0cff6d22e7fc3e66cc32374d5cbc
+Section: Development
+Description: Common Dynastic utilities.
+Tag: role::developer
+Author: Dynastic
+Name: libflora
 
 Package: codes.aurora.kayokos
 Version: 2.7
@@ -7830,6 +7966,121 @@ Description: ElleKit tweak injection libraries and loader
 Author: Evelyn
 Icon: https://ellekit.space/logos/logo.png
 Name: ElleKit
+
+Package: exacttime
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debs/exacttime_2.0.2_iphoneos-arm64.deb
+Size: 57336
+MD5sum: da7e25ccd2f0af286cf9fef323a87453
+SHA1: 7bec33baedcfbcfff156b861ab527df50b20ebef
+SHA256: ecd5fa985b2d3a4cebaadf3538bddc7f536592bb83649017c37d86b67229586c
+Section: Tweaks
+Description: 显示通知、消息、电话和电子邮件的确切时间。
+Author: gilshahar7
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/exacttime.png
+Name: ExactTime
+
+Package: fingerlock
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: MTAC <mtac@mtac.app>
+Installed-Size: 936
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/fingerlock_3.0.2_iphoneos-arm64.deb
+Size: 163984
+MD5sum: 2f2ca9fdaaef85aa270abb42d4bdc2da
+SHA1: 3afc2d2426664289f5b3fbbc3e342ee6322969b1
+SHA256: 471e63fe679c34c6e36a62a7ed47f3c9cd8202800e9c4e6fa46c366a875903ce
+Section: Tweaks
+Description: 解锁设备的直观方式。
+Author: MTAC <mtac@mtac.app>
+Name: FingerLock
+
+Package: fiona
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/fiona_1.0.4_iphoneos-arm64.deb
+Size: 119224
+MD5sum: 382be688c5d2c45f192318bc4da47e48
+SHA1: e3ad69ff2ba1fb3fa0c39f0df1b74ea7348ec4ce
+SHA256: a58df5ab7726c2320260b469e67078b217fa6482632031419cb0359d8deda58a
+Section: Tweaks
+Description: iOS设备的浮动选项卡栏。（M哥汉化）
+Author: yan
+Icon: https://media.havoc.app/65e987f4df1ff02035bcd6b1
+Name: Fiona
+
+Package: fiona
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/fiona_1.0.5_iphoneos-arm64.deb
+Size: 122108
+MD5sum: 6914ec91751c46e8812d225ae35bc157
+SHA1: 1c1c6c2b9025513160d18f9f865187d0c781edd2
+SHA256: 88755f6622382cc9a1dada1b1ef9244f89706b7783b844d30edaa70ba1d588a2
+Section: Tweaks
+Description: iOS设备的浮动选项卡栏。
+Author: yan
+Icon: https://media.havoc.app/65e987f4df1ff02035bcd6b1
+Name: Fiona
+
+Package: flex3
+Version: 1:3~Beta90
+Architecture: iphoneos-arm64
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
+Recommends: com.rpetrich.rocketbootstrap
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Filename: ./debs/flex3_1_3~Beta90_iphoneos-arm64.deb
+Size: 6329640
+MD5sum: dc44a3afff8a78b393efcd883cdaec94
+SHA1: 00953fc59c00d5270cede869ad0d7b4ad4f1d029
+SHA256: 10202bc4026a4c3d54631f44855c40adf609a8f3c3c537e434ce346170decf14
+Section: Tweaks
+Description: 开发您自己的调整并在Flex社区云上共享。Dopamine2.0可生效系统补丁，内置Legacy arm64e Support补丁，加入来了老弟的汉化，感谢他的付出。Xina2.0不要安装，不要安装！！！！
+Author: John Coates
+Name: Flex 3 Beta90
+
+Package: flexlist
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3736
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/flexlist_1.4-1_iphoneos-arm64.deb
+Size: 842000
+MD5sum: 1f1d6c3eea2fc130682b4cf68dfe93d3
+SHA1: 981b4e9eaa9069ebbf19b385f3691e10837f9bee
+SHA256: 22be00f3321fd3d9e0dc3eeb503c55ea288081414e3f8dda9449f256b6ec1b44
+Section: Netskao-Tweaks
+Description: FLEXList是FLEX tool的包装工具。
+Author: Netskao
+Name: FLEXList-Rootless
+
+Package: flexlist
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 5020
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/flexlist_1.4-2_iphoneos-arm64.deb
+Size: 1321288
+MD5sum: 1b279cda46e3b35b94e713f77e58fdbb
+SHA1: 7d9d7e687cdd6cf0381821bb371b9a946d28e51a
+SHA256: a0efb95515c4b8c3f562de11b556557a8f318bdde382072611b6ab6acf83bbb0
+Section: Netskao-Tweaks
+Description: FLEXList是FLEX tool的包装工具。
+Author: Netskao
+Name: FLEXList
 
 Package: netskao.3dnetworkfixer-rootless
 Version: 1.1-8
