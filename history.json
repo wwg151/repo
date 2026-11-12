@@ -1,4 +1,10 @@
 {"events":[
+{"type":"added","date":"2026-11-12 13:58","package":"wiki.qaq.irisin_4.7.5_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 13:58","package":"wiki.qaq.irisin_4.7.5_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-12 13:58","package":"wiki.qaq.irisin_5.0.0_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 13:58","package":"wiki.qaq.irisin_5.0.0_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-12 13:58","package":"wiki.qaq.irisin_5.0.2_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 13:58","package":"wiki.qaq.irisin_5.0.2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-12 13:54","package":"WCPulse_1.7-4-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:54","package":"WCPulse_1.7-4-arm64e","version":""},
 {"type":"added","date":"2026-11-12 13:54","package":"tako_2.2_iphoneos-arm64","version":""},
@@ -42,11 +48,5 @@
 {"type":"added","date":"2026-11-12 13:05","package":"onesettings_2.1.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"onesettings_2.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"org.coolstar.libhooker_1.6.9-22+roothide_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"org.thebigboss.libcolorpicker_1.6.9.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"pancake-rootless_2.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"phoenix-1.3.2-rootless","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"photoskipdelandinfinitezoom_0.0.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"popoutbuttons_1.0.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"power4options_3.0-1_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 13:05","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""}
 ]}
