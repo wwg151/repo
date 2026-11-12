@@ -66,6 +66,260 @@ Description: 音量滑块旁边的浮动噪音消除控制。
 Author: Ethan Whited
 Name: AirpodsCompanion
 
+Package: akara
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>= 15.0)
+Filename: ./debs/akara_2.0.0_iphoneos-arm64.deb
+Size: 616284
+MD5sum: 928079df48471bd399c32a76cb7f92c2
+SHA1: bbd3a862d946e94b8feea72dfdbe39ec7f7f5ece
+SHA256: d4c553af98d66f0e483b026c6223480c38a393229a3f3285222c24ce312e7689
+Section: Tweaks
+Description: Minimal design without compromise
+Author: Tr1Fecta & Kennyroo
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+Name: Akara
+
+Package: alpine
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 1108
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/alpine_1.3_iphoneos-arm64.deb
+Size: 600084
+MD5sum: dc3c7f1cb1555d9f7fccc64d2024641f
+SHA1: 4333ef6f603d988affa63c17e4562e6035fa7244
+SHA256: de17a53a36f352a02492386f4375a7299663eeb57e9331bfbfb439efc947ddb1
+Section: Tweaks
+Description: 适用于iOS的tvOS警报（由M哥汉化）
+Author: MTAC
+Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
+Name: Alpine
+
+Package: alpine
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/alpine_1.4_iphoneos-arm64.deb
+Size: 601468
+MD5sum: 46e6d9d79b2d7fd9f429bd91ef62c3b2
+SHA1: e4fd63e0bf08450f0b06591211d464c2c2323f4c
+SHA256: fb9f8c4113b5d52d7cfdef9c8cad038f74e7918a72f1f1e5b7e9af69970abcd3
+Section: Tweaks
+Description: 适用于iOS的tvOS提醒。（由M哥汉化）
+Author: MTAC
+Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
+Name: Alpine
+
+Package: alwaysdark
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.spark.libsparkapplist, xyz.cypwn.xinam1ne
+Filename: ./debs/alwaysdark_1.2.2_iphoneos-arm64.deb
+Size: 33468
+MD5sum: 6b15ee481e25d183e0a9d70703fbb98e
+SHA1: 81bcbc53e76ac75cbc7c7f08ccacbe6487b6c1a8
+SHA256: 5367ce3df2c9a2b304a74df91e0c01e25a9e571484ea914e199c36f50e84293f
+Section: Tweaks
+Description: 始终在深色/浅色模式下运行某些应用程序。（由M哥汉化）
+Author: KingPuffdaddi
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/alwaysdark.png
+Name: AlwaysDark
+
+Package: amelija
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 780
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/amelija_2.0_iphoneos-arm64.deb
+Size: 384780
+MD5sum: b36719f3d0d4d0639926cab7f25e7adb
+SHA1: 487d7af0859132e042bee302832c1bf47d279c3c
+SHA256: d2dae5b34c0fe7ebf5d8d69d5e217453fa3b8f4ebcd7987761c6da5fa07a1a44
+Section: Tweaks
+Description: 动态掌控壁纸。
+Author: Luki
+Icon: https://repo.keycap.one/icons/Amelija.png
+Name: Amēlija
+Sileodepiction: https://repo.keycap.one/depictions/me.luki.amelija.json
+
+Package: appaze3
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, xyz.cypwn.anthocrack2
+Filename: ./debs/appaze3_1.0_iphoneos-arm64.deb
+Size: 864900
+MD5sum: 28f538d64d4a9bd80af50d01e1d7e38d
+SHA1: 43474721756e5e058f5cadaf66519639642dc6e7
+SHA256: e0ea7967e4ea365098b1805ff6baf0f8f28634e080ee720995659bbafba92194
+Section: Tweaks
+Description: 在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
+Author: AnthoPak
+Icon: https://repo.cypwn.xyz/packages/Appaze3-Rootless/icon.png
+Name: Appaze 3
+
+Package: appaze3
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, xyz.cypwn.anthocrack2
+Filename: ./debs/appaze3_1.0.1_iphoneos-arm64.deb
+Size: 867976
+MD5sum: bb3e779ecc4c79b71d8519f3fa58f00e
+SHA1: 5421672ba3cace4c5811e2d214561b70938da5e1
+SHA256: cfc065d2f2973efe6d17159fc29d7ec1e672c6a97cf777a585f85c5d88741f2b
+Section: Tweaks
+Description: 在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
+Author: AnthoPak
+Icon: https://repo.cypwn.xyz/packages/Appaze3-Rootless/icon.png
+Name: Appaze 3
+
+Package: applist
+Version: 1.5.16
+Architecture: iphoneos-arm64
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 780
+Depends: mobilesubstrate, firmware (>= 15.0), com.rpetrich.rocketbootstrap, xyz.cypwn.xinam1ne
+Filename: ./debs/applist_1.5.16_iphoneos-arm64.deb
+Size: 193116
+MD5sum: 41a94a495b3db027c4ac7bdce44be646
+SHA1: cc887378154e6494f4f9c5a3ad450c375cf34134
+SHA256: 800787a871d4b9bdfc4aa79653e74219d798580fc43c5705eac410b7cda3fbca
+Section: System
+Description: Allow extensions to read the list of installed apps
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Dev: rpetrich
+Name: AppList
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+
+Package: appsyncunified.rootless
+Version: 112.0
+Architecture: iphoneos-arm64
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 676
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: ./debs/appsyncunified.rootless_112.0_iphoneos-arm64.deb
+Size: 34160
+MD5sum: 75dfae8bc077f020804faabebc1e31b7
+SHA1: 5b88c26fbf8f8323f9ca6b03405dcb0fca9a4863
+SHA256: b1507b070cdd5e613feee4c5fdc86923f68b361b25fca773278709518dcbbeaf
+Section: 系统列表
+Description: 关闭iOS App签名检查
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppSync
+
+Package: backgroundtransparency
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/backgroundtransparency_1.0.0_iphoneos-arm64.deb
+Size: 3036
+MD5sum: 5bf7068abd6f8b801274938692e09cfb
+SHA1: eb05a9e27c74af47e472a203d24267cc58970ebe
+SHA256: 0e9a36f44728b2e604ae57886d4708ee72d161c98ce8e90d6edbdc94c827d5e7
+Section: Tweaks
+Description: 背景透明（通知中心、控制中心、小组件、文件夹、应用切换器），无设置项，兼容iOS13.0+以上系统。
+Author: M哥
+Name: 背景透明_rootless
+
+Package: bigsurcenter
+Version: 1.4.5
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/bigsurcenter_1.4.5_iphoneos-arm64.deb
+Size: 753452
+MD5sum: 8f4a886cdc1acdba2147843e01e2818c
+SHA1: 190c82fb61c90324b3daceddfc2cc1923d429387
+SHA256: 09dd51af461c08cc31b4f01327feb7efdaa88dfc6cde3620b88993aa710ef4f9
+Section: Tweaks
+Description: BigSurCenter用一个新的轻量级优雅的控制中心取代了默认的iOS控制中心，其灵感来自MacOS Big Sur的控制中心。
+Author: nicho1asdev
+Icon: https://repo.cypwn.xyz/packages/BigSurCenter-Rootless/icon.png
+Name: BigSurCenter
+
+Package: bloom
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: dev.theos.orion14, firmware (>= 14.0), gzip, com.ginsu.comet, com.yan.lottie
+Filename: ./debs/bloom_1.0.1_iphoneos-arm64.deb
+Size: 456444
+MD5sum: 6a6274a443ac6eece84c1e2fb43e4d10
+SHA1: a710c3478eed50721927a65bce4b4ac43d98f61b
+SHA256: 69164c87a387f8348b146887806563f852e9ee5649ecadfaf534b92704f5ecc4
+Section: Tweaks
+Description: 漂亮的动画通知。CBZ破解！
+Author: yan
+Icon: https://media.havoc.app/66146449f290ffddc2a3059a
+Name: Bloom
+
+Package: bloom
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: firmware (>= 14.0), gzip, dev.theos.orion14, com.ginsu.comet
+Filename: ./debs/bloom_1.0.2_iphoneos-arm64.deb
+Size: 1939096
+MD5sum: 448fd71713b8671478f4b2abab12a40a
+SHA1: bd742bc686e744d09d9a964944c527430129d02c
+SHA256: a17c047de519d29731975b0a4f7ed4c56df391a306329361d1b7ae465ffb815d
+Section: Tweaks
+Description: 漂亮的动画通知。CBZ破解！
+Author: yan
+Icon: https://media.havoc.app/66146449f290ffddc2a3059a
+Name: Bloom
+
+Package: com.dao.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
+Filename: ./debs/BigShot长截图rootless.1.1.deb
+Size: 19220
+MD5sum: 11166dac0fb9ea11f60ed95fafac20d3
+SHA1: 584dc54d27da38e4544ce69d25d91247ec36edb1
+SHA256: b19e5d3750dcc499b0d2b627d2b746e8965794729ba1ebd7963c5053b00dc64f
+Section: 嗨-工具
+Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
+Author: Jonathan Winger-lang
+Name: BigShot 长截图(rootless)
+
+Package: com.turann.randy420.appfetch
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Turann and Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 8
+Depends: curl, jq, wget
+Filename: ./debs/appfetch(appcake)应用下载_rootless.deb
+Size: 3192
+MD5sum: 01129c08f4daa787b30efc15850f5524
+SHA1: 2b20566fa51a7c48bdc66917317701e90384cda3
+SHA256: bc614076995ce09575b69044b7b2bad30310ee2268d7612973bff82c2fd7fba8
+Section: System
+Homepage: https://theemeraldisle.family
+Description: nscake+
+Tag: role::hacker
+Author: Turann and Randy420 <randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/appfetch.html
+Name: appfetch (Xinafied-rootless)
+
 Package: netskao.3dnetworkfixer-rootless
 Version: 1.1-8
 Architecture: iphoneos-arm64
