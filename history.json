@@ -1,4 +1,9 @@
 {"events":[
+{"type":"removed","date":"2026-11-12 14:59","package":"wiki.qaq.irisin_5.0.2_iphoneos-arm64e","version":""},
+{"type":"removed","date":"2026-11-12 14:58","package":"wiki.qaq.irisin_5.0.3_iphoneos-arm64","version":""},
+{"type":"removed","date":"2026-11-12 14:58","package":"wiki.qaq.irisin_5.0.3_iphoneos-arm64e","version":""},
+{"type":"removed","date":"2026-11-12 14:58","package":"wiki.qaq.irisin_5.0.4_iphoneos-arm64","version":""},
+{"type":"removed","date":"2026-11-12 14:57","package":"wiki.qaq.irisin_5.0.4_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-12 14:55","package":"wiki.qaq.irisin_5.1.1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 14:54","package":"wiki.qaq.irisin_5.1.1_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-12 14:54","package":"com.nicho1asdev.bigsurcenter_1.4.3_iphoneos-arm64","version":""},
@@ -43,10 +48,5 @@
 {"type":"added","date":"2026-11-12 14:35","package":"com.velocarpooling_1.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:35","package":"com.violetpro_1.0.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:35","package":"com.waimai_1.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:35","package":"com.wangdonghua.backgroundretainer_0.0.1-6+debug_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:35","package":"com.weibo_1.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:35","package":"com.weifeng_1.2.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:35","package":"com.weifeng_1.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:35","package":"com.wkk.didihook_1.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:35","package":"com.wkk.gaodehook_1.0_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 14:35","package":"com.wangdonghua.backgroundretainer_0.0.1-6+debug_iphoneos-arm64","version":""}
 ]}
