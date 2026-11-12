@@ -1,0 +1,111 @@
+name: Build Repo and Deploy Pages
+on:
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - 'Packages'
+      - 'Packages.bz2'
+      - 'Packages.xz'
+      - 'history.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Ensure dpkg-scanpackages
+        run: |
+          if ! command -v dpkg-scanpackages >/dev/null 2>&1; then
+            sudo apt-get update -qq
+            sudo apt-get install -y -qq dpkg-dev
+          fi
+          dpkg-scanpackages --version | head -1
+
+      - name: Rebuild packages
+        run: |
+          set -euo pipefail
+          sudo dpkg-scanpackages -m . /dev/null > Packages
+          bzip2 -c Packages > Packages.bz2
+          xz -c Packages > Packages.xz
+          echo "Index entries: $(grep -c '^Package:' Packages || true)"
+
+      - name: Generate history
+        run: |
+          set -euo pipefail
+          git log --name-status --pretty=format:"COMMIT|%ad" --date=format:"%Y-%m-%d %H:%M" > /tmp/raw.log
+
+          echo '{"events":[' > history.json
+          count=0
+          while IFS= read -r line; do
+            [ "$count" -ge 50 ] && break
+            case "$line" in
+              COMMIT\|*)
+                date="${line#COMMIT|}"
+                ;;
+              A*|M*|D*)
+                status=$(echo "$line" | cut -f1)
+                filepath=$(echo "$line" | cut -f2)
+                case "$filepath" in
+                  *.deb)
+                    pkg=$(basename "$filepath" .deb)
+                    [ "$status" = "D" ] && type="removed" || type="added"
+                    version=$(grep -A2 "^Package: ${pkg}$" Packages 2>/dev/null | grep "^Version:" | head -1 | sed 's/Version: //' || true)
+                    echo "{\"type\":\"$type\",\"date\":\"$date\",\"package\":\"$pkg\",\"version\":\"$version\"}," >> history.json
+                    count=$((count+1))
+                    ;;
+                esac
+                ;;
+            esac
+          done < /tmp/raw.log
+
+          if [ "$count" -gt 0 ]; then
+            sed -i '$ s/,$//' history.json
+          fi
+          echo ']}' >> history.json
+
+          echo "History entries: $count"
+          head -20 history.json
+
+      - name: Commit changes
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Packages Packages.bz2 Packages.xz history.json
+          if git diff --cached --quiet; then
+            echo "unchanged, skipping commit"
+          else
+            git commit -m "Auto-update package index [skip ci]"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@main
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@main
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@main
