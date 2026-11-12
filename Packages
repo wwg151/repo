@@ -4392,6 +4392,22 @@ Description: 灵动消息，就是这么简单。仅仅支持iOS16+。only suppo
 Author: sunshinesong
 Name: dynamic-notifier
 
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 812
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./dynamic-notifier_1.0.4_iphoneos-arm64.deb
+Size: 129916
+MD5sum: f1f511b1e4b1e08e8531ae6f045d1c96
+SHA1: 6ca0209e3fc051f7979a88f4c83b5a53b4c03e0a
+SHA256: b21d7a3ff0859cec9e523c584e4e26b64b53cebe27eb95fb2a5806a679b4ada3
+Section: Tweaks
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+ (14pro,14pro max)。only support above ios16.0(14pro and 14pro max)
+Author: sunshinesong
+Name: dynamic-notifier
+
 Package: com.sunshinesong.native-island
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -5396,6 +5412,25 @@ Section: Tweaks
 Description: 禁止通知中心信息堆叠，不重叠可以连续显示
 Author: M哥
 Name: 通知分组堆叠iOS15-rootless
+
+Package: com.udevs.dockx
+Version: 2.4.6
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./DockX_2.4.6_rootless.deb
+Size: 293776
+MD5sum: 71aa5460020532a3e8fe52929f6e8e53
+SHA1: f4725aadbe9f90706e8da8492909dfe3e5a33933
+SHA256: 240838df678c6c982302da4e9d93cbf48b5c391c6d9bc850b53bd211d6f1180c
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Depiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
 
 Package: com.velocarpooling
 Version: 1.0
@@ -7573,6 +7608,228 @@ Section: Tweaks
 Description: 隐藏应用程序蓝点黄点
 Author: M哥
 Name: 隐藏主屏幕app黄点
+
+Package: cthulhu
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 654
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./cthulhu_1.0.9_iphoneos-arm64.deb
+Size: 63052
+MD5sum: 27b13e541f31f92d95e3e33a0a7fb388
+SHA1: 03abf80a35c3cbe09ac7904be8a6404d5f9d1633
+SHA256: 0e567e31bc63f8599184851958e21cbebbc596281e27cb5c6da14cabb6449b8b
+Section: Tweaks
+Priority: optional
+Description: 下面的自定义文本按主页打开/向上滑动解锁更多！
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
+Name: Cthulhu
+
+Package: datasource
+Version: 1.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./datasource_1.0-2+debug_594599.deb
+Size: 3936
+MD5sum: 2b94ab774d3e1f1060d977dc0a2e9cbb
+SHA1: fee7b3b86cd29411d031976c0abbdeb1ae864e64
+SHA256: 120d61a5b2f3a61a4341384e3c38d877339d0a5bd40054659e1224b54d267432
+Section: Tweaks
+Description: 屏蔽更换配件后设置和关于本机里面的重要提醒
+Author: z
+Name: 屏蔽设置重要提醒
+
+Package: de.janis.glance
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: Janis <janisbtwtweaks@gmail.com>
+Installed-Size: 1663
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0), com.ginsu.comet, com.opa334.altlist
+Filename: ./de.janis.glance_1.2.2_iphoneos-arm64.deb
+Size: 486904
+MD5sum: ed665e3f8501f1e439bb2c69c3c515c8
+SHA1: b949be559105b6966e9a6764cca009817e6f0588
+SHA256: bb096335f4da380e09c0303f59993d545f7ba7c749cda4a54c9af36947a660cd
+Section: Tweaks
+Description: See notifications from far away
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Janis <janisbtwtweaks@gmail.com>
+Depiction: https://chariz.com/buy/glance
+Icon: https://img.chariz.cloud/icon/glance/icon@3x.png
+Name: Glance
+
+Package: declinecalls
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./declinecalls_1.0_iphoneos-arm64.deb
+Size: 2724
+MD5sum: ae7f996b5fe92d2fee59f6c5df947662
+SHA1: f2f008437b9c54ae06f6dc0dec6b6a6d266002de
+SHA256: adb66e3442519ad5ca276afdd20453f901aa7a0b9d22bd35781c54da594583b7
+Section: Tweaks
+Description: 锁屏来电显示拒绝按钮，修复支持ios15+系统。
+Author: M哥
+Name: 锁屏来电拒绝_rootless
+
+Package: dockheight
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./dockheight_1.1_iphoneos-arm64.deb
+Size: 3356
+MD5sum: ef0a794d2f0448347c7d9a88ebc425f3
+SHA1: 0dc5a1141c97dd4c64896f2b242fc640856141ff
+SHA256: 732dbd40ecac1d0aba505a108e4949791f4ef826e2333c8d06f988053f5499fe
+Section: Tweaks
+Description: 调整Dock高度，建议搭配Dock透明使用。
+Author: M哥
+Name: DockHeight
+
+Package: dockshowlabels
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: CydiaGeek
+Depends: mobilesubstrate
+Filename: ./dockshowlabels_1.0.4_iphoneos-arm64.deb
+Size: 5440
+MD5sum: 4cb88d681119f909893011d4c496cbba
+SHA1: d2ad0c903a59d328b22284c004aea8b0e77fa3f3
+SHA256: 5a465eaa398991c49428f6fe0eda2c66ef2b6dfc2bb5d06d001366f93a837822
+Section: Tweaks
+Description: 与iOS 11之前一样，在Dock下方添加标签！
+Author: CydiaGeek
+Name: DockshowLabels
+
+Package: dockshowlabels
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./dockshowlabels_1.0.5_iphoneos-arm64.deb
+Size: 3804
+MD5sum: a33900baf0a5b997f5106c1da937ecf9
+SHA1: b95b809c94b72e711f2f9d24be0614272cf80ea2
+SHA256: cfd8019d0c6c03ff76f9644ae810de8f8a8bfcf9f8334c715b944b04cf6136eb
+Section: Tweaks
+Description: 与iOS 11之前一样，在Dock下方添加标签！
+Author: CydiaGeek <lucaluca86@aol.com>
+Name: DockshowLabels
+
+Package: doodle
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: preferenceloader
+Filename: ./doodle_1.0_iphoneos-arm64.deb
+Size: 3577932
+MD5sum: 25fe778d95ca25c8134f207f4f116e06
+SHA1: 6be43dc0c397500d544ffa8bd93df5b705c9b2b0
+SHA256: cf9235bc51adf3c34950856450dee311448a7899c5257e8f4230d96e2c208a74
+Section: Tweaks
+Description: 使用涂鸦解锁设备。
+Author: Ethan Whited
+Icon: https://repo.cypwn.xyz/packages/Doodle-Rootless/icon.png
+Name: Doodle
+
+Package: doodle
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: preferenceloader
+Filename: ./doodle_1.2_iphoneos-arm64.deb
+Size: 3576636
+MD5sum: 91d2d58964241ce215857157a57844e3
+SHA1: 2a406721bdc504eafd83da2a27e2ab3504c06766
+SHA256: 6c1685446b458554a780c6af3fc4cd5bfcdf5311204d12c204e48ea5afb63382
+Section: Tweaks
+Description: 使用涂鸦解锁设备。
+Author: Ethan Whited
+Icon: https://repo.cypwn.xyz/packages/Doodle-Rootless/icon.png
+Name: Doodle
+
+Package: easynotifications
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./easynotifications_3.0_iphoneos-arm64.deb
+Size: 2792
+MD5sum: e0485e08ecf06b0c692284f5babe2de1
+SHA1: ca491ea57bbb69a5999396e7738e649dd4b46431
+SHA256: 66652211d8b0ac00b0ba3de7d98bd602ffd653562fd6ad00d0cfe96ef3e48f8c
+Section: Tweaks
+Description: 只需轻扫一次即可消除通知。
+Author: iCraze
+Name: EasyNotifications
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 167
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm64.deb
+Size: 5808
+MD5sum: 6b065299e765741c9d86a4fcdbc05bf0
+SHA1: 463b418406c4a93a91c56ebc8025ef9bddcf06f1
+SHA256: 8458e179db07f107f782ea8c00e5105106b80d42ae18e899e6de6dc87e43da8f
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
+Description: Phone app as supposed to be
+Tag: purpose::extension
+Author: AnubisTweaks <pixellark@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
+Dev: anubistweaks
+Name: Phone Enhancer 15-rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: eliza
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: WilsontheWolf
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware(>=12.0)
+Filename: ./eliza_0.0.3_iphoneos-arm64.deb
+Size: 10704
+MD5sum: 535b89f8fe7aec2249ab48261f47be1b
+SHA1: 99073296f05e2f585e00a1affad6114db6043610
+SHA256: db2fb9e9b9bb9385992851d7c8157e0aa6964650472fd14768f6594fc83186fc
+Section: Tweaks
+Description: 让你的电池色彩缤纷！
+Author: WilsontheWolf
+Depiction: https://repo.shorty.systems/depictions/web/com.wilsonthewolf.eliza
+Icon: https://repo.shorty.systems/icons/com.wilsonthewolf.eliza.png
+Name: Eliza
+Sileodepiction: https://repo.shorty.systems/depictions/sileo/com.wilsonthewolf.eliza
+
+Package: ellekit
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./ellekit_1.1.3_iphoneos-arm64.deb
+Size: 352628
+MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
+SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
+SHA256: b6fa34a45629f1eba602678d3322ad06d077b52e015223f99a989883652b277b
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
 
 Package: netskao.3dnetworkfixer-rootless
 Version: 1.1-8
