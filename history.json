@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-12 05:27","package":"com.mg.adskip_1.0.18_iphoneos-arm64-rootless","version":""},
+{"type":"added","date":"2026-11-12 05:27","package":"com.mg.adskip_1.0.18_iphoneos-arm64e-roothide","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"Phoenix.1.0.4","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"ShortLookRootless_Xina2","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"ShortLookRootless_dopamine","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-12 13:05","package":"sileo_2.5-11","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"siri_3.1.1-9_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"siriplus_1.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"sixteenmusic_1.6_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"skinnysettings_1.6.5-1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"sleeperx_2.0.1_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 13:05","package":"sixteenmusic_1.6_iphoneos-arm64","version":""}
 ]}
