@@ -18,7 +18,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "当前版本",
-          "text": "1.0.8"
+          "text": "1.0.18"
         },
         {
           "class": "DepictionTableTextView",
@@ -31,6 +31,23 @@
       "tabname": "更新日志",
       "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0.18"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 默认值改为关闭：没有配置文件时「启用插件」是关的，tweak 也按关闭处理；只有你手动打开或改开关才会写出 `com.mg.adskip.plist`，「恢复默认」同样回到全部关闭",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "更新日期：2026-11-09",
+          "useBoldText": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "class": "DepictionHeaderView",
           "title": "1.0.8"
