@@ -1,0 +1,84 @@
+Package: aimpro
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: alimaulana
+Installed-Size: 4904
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker, oldabi
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/aimpro_1.0.5_iphoneos-arm64.deb
+Size: 2328040
+MD5sum: 2c4d7f38476fbe45bbede8abae6c535e
+SHA1: c7a0fcef85e4bbb36d360a84a7bb77f7231737c5
+SHA256: 7b36bedea0a3f6c6b960771a0724b2ef9296f00192fc212b4119f83765f52f4f
+Section: Tweaks
+Description: iOS 16风格的时间和日期锁屏
+Author: alimaulana
+Name: AIM Pro
+
+Package: aimpro
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: alimaulana
+Depends: ellekit, mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/aimpro_1.0.6_iphoneos-arm64.deb
+Size: 2328752
+MD5sum: dfa6005fa2ba40cd3e4c08284d7f840d
+SHA1: 08e825cac140ca4914fec09586ad10236c08b143
+SHA256: 8fceb571e510fee6a654410426564b8139f66c443595800710f77ada68898fed
+Section: Tweaks
+Description: iOS 16风格时间和日期锁屏。
+Author: alimaulana
+Icon: https://repo.cypwn.xyz/packages/AIMPro-Rootless/icon.png
+Name: AIM Pro
+
+Package: aimpro
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: alimaulana
+Installed-Size: 4908
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/aimpro_1.0.7_iphoneos-arm64.deb
+Size: 2275644
+MD5sum: eb397ee2598e4ce331a97f9421dc96d2
+SHA1: af2a8c83632d4b47e82dc38214ecc0e82a0d8f5f
+SHA256: e3f93589a444e50609be9efec2e2479ee24e448107a7500123e2be8bb7baf1f9
+Section: Tweaks
+Description: iOS 16风格时间和日期锁屏。
+Author: alimaulana
+Icon: https://repo.cypwn.xyz/packages/AIMPro-Rootless/icon.png
+Name: AIM Pro
+
+Package: airpodscompanion
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 10704
+Depends: preferenceloader
+Filename: ./debs/airpodscompanion_1.5_iphoneos-arm64.deb
+Size: 10268776
+MD5sum: 36eb255f6e055623a15cfbf52b7ab5e3
+SHA1: b7d3f4564590b65dbd2c5fa74bdc2bfc9a546ae7
+SHA256: cd4e6df52cc7e1dc9313cc5a485334b794ee42d57d17f91124351ab2a6d7ffc2
+Section: Tweaks
+Description: 音量滑块旁边的浮动噪音消除控制。
+Author: Ethan Whited
+Name: AirpodsCompanion
+
+Package: netskao.3dnetworkfixer-rootless
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 496
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/3DNetworkFixer-Rootless.1.1-8.deb
+Size: 116092
+MD5sum: b31e092dceaea34c11d98c553377675c
+SHA1: 1fc72e0cfd4d3f8fc14f6f034213ba5e310337e8
+SHA256: 6d0830490a2888661c789c6a07517ab94d0c43521bdce86cec4d65cd417add44
+Section: Netskao-Tweaks
+Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
+Author: Netskao
+Name: 3DNetworkFixer-Rootless
+
