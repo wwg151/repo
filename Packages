@@ -271,6 +271,21 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AppSync
 
+Package: apt.llld.swipeextenderx
+Version: 1.5.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 12.0), mobilesubstrate, org.thebigboss.libcolorpicker,oldabi,emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/键盘增强swipeextenderx_1.5.4.deb
+Size: 96180
+MD5sum: ef10f72812d3d8eae557e1b75f0d144e
+SHA1: 7b4d87852b2842763945496c01823aa86a696491
+SHA256: 36a84361bb5a184c05bf81a88d20de59a6bc52630bb785a57fa955db946718c0
+Section: 巨魔群组修复插件
+Description: iOS自带键盘自定义。全选,复制,粘贴,选择,撤销，重做，关闭键盘,换行,符号,光标最前或末尾，等多功能添加_________来了老弟·修复兼容dopamine
+Author: qwertyuiop1379 laileld
+Name: SwipeExtenderX键盘增强
+
 Package: backgroundtransparency
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -679,6 +694,22 @@ Description: Short-click to copy the text content.***使用方法：短按复制
 Author: 来了老弟 h_h_x_t
 Name: Copy-text-rootless
 
+Package: cn.llld.dhjj
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/电话精简收藏和语音留言-rootless.1.0.deb
+Size: 4260
+MD5sum: 0098457ecaacebbb39bf563df8a2b1e4
+SHA1: 1126b088866e97f73aa2c9aac71c662c84ab182c
+SHA256: 6354d981ca128fa60e2a39621066610ea9e9ddb1222b81447fbd1b6f60a9cdc4
+Section: rootless插件
+Description: Telephone streamlining personal collection and voice messages。电话精简个人收藏和语音留言
+Author: 来了老弟 h_h_x_t
+Name: 电话精简收藏和语音留言-rootless
+
 Package: cn.llld.ftt
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -694,6 +725,22 @@ Author: iPadKid358 Randy420
 Name: ftt中文版-rootless
 
 Package: cn.llld.jxydt
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/驾校一点通绿了-rootless_0.1-arm64.deb
+Size: 17450
+MD5sum: f90e5acbe6356c35109eb07779ddf938
+SHA1: d6036f6520437a278473a304011b7806d759e8ec
+SHA256: c04e3be9aa7b4fa7fcc03d12b51ac033819850e0d0b6b7227e714e13aa4af795
+Section: rootless插件
+Description: ***给(驾校一点通)加点小功能，可注入可越狱，祝各位拿证到手***。默认去除开屏广告和动画(若开梯子使用会冲突)，长按任何页面（去提升）或（直播课）或 (考前直播) 或(直播刷题) 文字 1 秒，弹出更多功能设置。
+Author: 来了老弟
+Name: 驾校一点通绿了-rootless
+
+Package: cn.llld.jxydt
 Version: 0.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -706,6 +753,38 @@ SHA1: dea0c7ded9f660d13308a994949bb6880e1171bb
 SHA256: db670dde7cc2e64abc4d19c891693265239c8f5cf0717ea21382281f08f4ac0f
 Section: rootless插件
 Description: 可注入可越狱使用，祝各位拿证到手。默认去除开屏广告和动画(若开梯子使用会冲突)，广告因版本不同而有所固执，待处理。开启'模拟考试完整技巧次数破解'，开启'去除视频观看20秒需会员的限制'等数十功能，长按1秒底栏弹出设置。
+Author: 来了老弟
+Name: 驾校一点通绿化-rootless
+
+Package: cn.llld.jxydt
+Version: 0.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/驾校一点通绿化-rootless_0.5_arm64.deb
+Size: 19784
+MD5sum: fe72b360b9df316c871911fb943dc542
+SHA1: 37647b7f11527e57adfb82a08fdd12fc53d94a47
+SHA256: 6e38ddcc97b5cf6938ce2a15b331cd621e7aa3be3be926103c3879b1f6f66f4f
+Section: rootless应用插件
+Description: 可注入可越狱使用，祝各位拿证到手。默认去除开屏广告和动画(关梯子使用)，长按首页(底部功能栏)，或任何页面（答题）或（背题）或 (考前直播) 或(直播刷题) 弹出更多功能设置。 调试一点通版本15.4.1
+Author: 来了老弟
+Name: 驾校一点通绿化-rootless
+
+Package: cn.llld.jxydt
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/驾校一点通绿化-rootless_0.6_iphoneos-arm64.deb
+Size: 20376
+MD5sum: 5a590f3242884987a071212c204ce4cb
+SHA1: da4e20bce938921345314f74143a74d3a083aeff
+SHA256: 8573f285e7d794df9e1207dff1dad18a4f216ae03c1572bd5f2cfd90c9f7e6e7
+Section: rootless应用插件
+Description: 可注入可越狱使用，祝各位拿证到手。默认去除开屏广告和动画(关梯子使用)，长按首页(底部功能栏)，或任何页面（答题）或（背题）或 (考前直播) 或(直播刷题) 弹出更多功能设置。 调试一点通版本15.4.1
 Author: 来了老弟
 Name: 驾校一点通绿化-rootless
 
@@ -759,6 +838,87 @@ Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
 Name: Panel-Tools(keyboard)
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.minivx
+Version: 1.01
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/微信辅助微生物-rootless.1.01.deb
+Size: 13912
+MD5sum: 7a879762c3e09650e7baabc1fed395f9
+SHA1: 7df10c58446d7ee4b876daf931b0918f26fac6e9
+SHA256: 81df856fb8e06b04b348681d2657c1bd638fd14bb2911c59238104a56b493bd6
+Section: rootless微信插件
+Description: 微信简洁辅助(抢红包，防撤回)-roootless
+Author: 来了老弟
+Name: 微信辅助(微生物)-rootless
+
+Package: cn.llld.nyyh
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X: h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/农业银行llld-rootless_0.1_iphoneos-arm64.deb
+Size: 4232
+MD5sum: a1980ab509679ad471bb2bf030bbc1f1
+SHA1: 215c8ceab63ce13f4008a6206fda93c16c5268c3
+SHA256: 0433424213e832d27e92ef96cf91bdf2c459a324f7a4bc9bc14503a47969eead
+Section: rootless应用插件
+Description: 作用：使用农业银行的同时允许插件注入。用法：进应用看到检测弹窗，3指触摸非弹窗处即可，这是体验包，这是体验包，银行打招呼我就撤。
+Author: 来了老弟 X: h_h_x_t
+Name: 农业银行llld-rootless
+
+Package: cn.llld.ppgxll
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/皮皮搞笑绿了注入版-rootless_0.1-arm64.deb
+Size: 12980
+MD5sum: 91796d5c3c744df72a984d28461fa6dc
+SHA1: a0bb8704771c4fab693f75c79ef2af46159e5166
+SHA256: 4f5cb917a55f39b565d6b28566d841ceb0156ff867ff7882900535569b400626
+Section: rootless插件
+Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（功能入口）或者'我的长度(cm)'，或(帖子详情)文字，弹出设置。
+Author: 来了老弟
+Name: 皮皮搞笑绿了注入版-rootless
+
+Package: cn.llld.ppgxll
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/皮皮搞笑绿了注入版-rootless_0.2-arm64.deb
+Size: 13684
+MD5sum: 1d26d9b1f6a424e7b525d6def7b6b1f0
+SHA1: b78c3b58d8b971bc221737f1441c028e86d4956e
+SHA256: b4dfdbbf623112266c4fc9d864edf5e44c52c166b9a565b88985ded39ac584bb
+Section: rootless插件
+Description: ***给皮皮搞笑加点小功能，皮皮搞笑绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（功能入口）或者'我的长度(cm)'，或(帖子详情)文字，弹出设置。20240128:修复功能开关，增2个小选项
+Author: 来了老弟
+Name: 皮皮搞笑绿了注入版-rootless
+
+Package: cn.llld.ppgxll
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/皮皮搞笑绿化-rootless_1.1_iphoneos-arm64.deb
+Size: 17748
+MD5sum: 62b191a9f3215fefb2cc298e0b609e3e
+SHA1: 8bb1d4e1e78774eab08bdda3f2ff9202a9654f62
+SHA256: 5cc99918910e80bfeff84cf0310999e2d1f65322e4ad6d4368ae843433733b06
+Section: rootless应用插件
+Description: 皮皮搞笑绿化，可注入可越狱使用，去除视频下载水印，禁用评论区推荐广告，禁用信息流广告，禁用角标红点消息气泡，禁用右下角悬浮刷新按钮，禁用下载视频后的分享界面，禁用启动视频图片摇一摇广告，等等。***在'主页'长按顶栏 和帖子写评论下方长按 和'我的'页面长按下面任意功能，弹出设置。***调试版本：2.90.0，进入播放页右上角无水印下载。
+Author: 来了老弟
+Name: 皮皮搞笑绿化-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.ppgxll/ppgxll.json
 
 Package: cn.llld.qqdsq
 Version: 1.01
@@ -922,6 +1082,38 @@ Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubi
 Name: 芭比QQ精简版-rootless
 
 Package: cn.llld.qsyy
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./debs/悬浮翻译汉化工具-rootless_0.1-arm64.deb
+Size: 35752
+MD5sum: 26f5ad77afc4d9b9558ab6b6023bd26f
+SHA1: 3721fcc81c01f3257c9d9741d899e501ba916f53
+SHA256: 072d0c3885e75408fb2212536296fae9e002ebc4a3c1ca80121a34ab308b0772
+Section: rootless插件
+Description: ***Long press any 'tweak title' in the settings to pop up the settings, function: translate the tweak language, effective in real time。长按设置中任意'插件标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，，，，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久,节省汉化插件包，可多个融为一体***
+Author: 来了老弟
+Name: 悬浮翻译汉化工具-rootless
+
+Package: cn.llld.qsyy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/悬浮翻译汉化工具-rootless_1.0-arm64.deb
+Size: 39072
+MD5sum: 9656eb577574fde9c7b73364e5e385d5
+SHA1: 8135243365b09e58ff13b529211eb7c7bf9bab79
+SHA256: 4d06be66e6f3a2d980d5b18d56aaaab1d18c90d72e6f6210de52438c48668578
+Section: rootless插件
+Description: ***Long press any 'tweak title' in the settings to pop up the settings, function: translate the tweak language, effective in real time。240329:Big update, this version adds reddit and small broom, as well as phone, support phone modification of contact, modification of time, modification of call record, support of obsessive-compulsive disorder to other languages in the small broom, it is strongly recommended to upgrade.长按设置中任意'标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，，，，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久，240329大更新，此次版本加入了reddit和小扫把，还有电话，支持电话修改联系人，修改时间，修改通话记录，支持强迫症改小扫把里边那些别的语言，强烈建议升级，之前代码是垃圾，一切以最新版为准，，，提示：装了120或全局篡改插件的设备，不要装此插件***
+Author: 来了老弟
+Name: 悬浮翻译汉化工具-rootless
+
+Package: cn.llld.qsyy
 Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -990,6 +1182,155 @@ Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyx
 Name: FT悬浮文本增强翻译汉化-简版
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
 
+Package: cn.llld.tmts
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/全局透明Max-rootless_0.1_arm64.deb
+Size: 116510
+MD5sum: d6443ff3cc5155fd5525982a8802ab79
+SHA1: cb3ce11ae2149d81fa72f2aea12090eab66b644e
+SHA256: 9d9c2de4fdce425dfacc0e07dcaf7cf375d6ae9fcf7f7a6c50cdd2bcfa54543e
+Section: rootless插件
+Description: Customize notifications, control center, multitasking background module transparency。自定义全局透明度(包含 播放器，负一屏，通知，控制中心，多任务后台模块等，有空就更)
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-rootless
+
+Package: cn.llld.tmts
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/全局透明Max-rootless_0.2_iphoneos-arm64.deb
+Size: 117784
+MD5sum: c634950762a02618fbd9411411dd4928
+SHA1: 6e326d02a25c9def7148ef0327a456800d6a4c4d
+SHA256: 10665fa59d3a0c15395c9f9c999f96cd520593f8f426be4bdecd2c811fbe3afd
+Section: rootless插件
+Description: Customize notifications, control center, multitasking background module transparency（alpha）。自定义全局透明度(包含 播放器，负一屏，通知，控制中心，多任务后台模块等，有空就更)，202401192005:增加专注模式和二级模式，拆开负一屏和文件夹背景单独设定.
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-rootless
+
+Package: cn.llld.tmts
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/全局透明Max-rootless_1.0_arm64.deb
+Size: 118712
+MD5sum: 2d5f5b8bdc55552bb3b7faebe10f7682
+SHA1: d4d3b434a5c95f1acb013b03f7c6d13b08f240c8
+SHA256: 21bcd2e47bd139d5e00dd69ae57f81205da8ebe9dd5733b5380f5398a191b0a5
+Section: rootless插件
+Description: Customize notifications, control center, multitasking background module transparency。自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-rootless
+
+Package: cn.llld.tmts
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 548
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/全局透明Max-rootless_1.1-1+debug_iphoneos-arm64.deb
+Size: 130068
+MD5sum: f5a0640bc37c5481930b9e131f132f58
+SHA1: 7205917fcd79b5d8a10ccb8e5bcccd0de3570c41
+SHA256: 213df646f5924b52c6a0f89bfe860be62ec88bf0d5172af4282adb6eb5e290a1
+Section: rootless插件
+Description: Customize notifications, player，control center, multitasking background module transparency(alpha)，Don't leave a blank. There must be a value to fill in the blanks.。自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)，不要留空白，填空必须有数值----以最新版本为准，之前代码是垃圾
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-rootless
+
+Package: cn.llld.tmts
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 480
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/全局透明Max-rootless_1.2_iphoneos-arm64.deb
+Size: 125032
+MD5sum: e1c53dd4c12ffb5d548e6c938713d25f
+SHA1: f3cd51423cef941dd868c871f392b66b3a94cdbf
+SHA256: 7ad5c4a7fa2773a4354b08355a5f3fbf9e62d99ecfea8855c5d1ed23e971a270
+Section: rootless插件
+Description: Customize notifications, player，control center, multitasking background module transparency(alpha)，Customize the size and location of the player and control center，Each fill in the blank has a numerical value.自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)----240305:增加锁屏手电相机透明度，兼顾16.2-16.3.1版本调节播放器透明度，***记得每个填空得有数值，以最新版本为准，之前代码是垃圾***
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/tmllldprefs.bundle/icons-llld/qjtmmax.png
+Name: 全局透明Max-rootless
+
+Package: cn.llld.wbb
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/微博绿了注入版-rootless_0.1_iphoneos-arm64.deb
+Size: 11080
+MD5sum: d623a962f592a132efc687d0e41c10d3
+SHA1: f5bc94feaee73475ef63a769b28ad6257b6edf1f
+SHA256: 136f39de00be08fa5e5b9d5e55eede9c62e8f5f5e0211ea79a0e2c924ff1b9f9
+Section: rootless插件
+Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置
+Author: 来了老弟
+Name: 微博绿了注入版-rootless
+
+Package: cn.llld.wbb
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/微博绿了注入版-rootless_0.2_修复闪退-arm64.deb
+Size: 11778
+MD5sum: 93a1f5a4e8db1a4975f0e2c89e6e8466
+SHA1: e013f38dcc62c4b303ba434c82ddc38b12b7919d
+SHA256: 0bdf6f547747b9656e678954f80fb3affb97a30ef4899731e015120445c878ab
+Section: rootless插件
+Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版以后再搞，近期要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）的文字，弹出设置,240115:修复闪退，加快微博启动速度。Q群928481652，cydia装不了的，下群文件
+Author: 来了老弟
+Name: 微博绿了注入版-rootless
+
+Package: cn.llld.wbb
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/微博绿了注入版-rootless_0.3-arm64.deb
+Size: 12128
+MD5sum: 53815ade19861f2ab4ce4f557967457a
+SHA1: d72eb3c7ee35b429fc8c8e1bc2cab52d9b426f75
+SHA256: 1654345d12f9f27d7bc0c4b19176d7ea0756a75db59fe059b11d4aeeed5c67eb
+Section: rootless插件
+Description: ***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）（我的访问记录）的文字，弹出设置。。。240115:修复闪退，加快微博启动速度。240128:解决部分机型卡屏首页问题，现有广告挺多（五花八门的），有空就一点点解决，Q群928481652，cydia装不了的，下群文件
+Author: 来了老弟
+Name: 微博绿了注入版-rootless
+
+Package: cn.llld.wbb
+Version: 0.4-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/微博绿化-rootless_0.4-1_iphoneos-arm64.deb
+Size: 17998
+MD5sum: 022d9f5e6871d2256424647ec3c167f1
+SHA1: 97f120aa1b5eb7d64c5d2ced30539b44357df201
+SHA256: 2caf135b46a9afbf7115c22700f3d6f540120c0850cb748bec1d0d7fab63bad8
+Section: rootless应用插件
+Description: 给微博加点小功能，可注入可越狱版使用。***禁用开屏广告，评论区广告，信息流广告，视频流广告，首页上方直播入口。查看视频全屏模式，禁用角标消息红点等功能***。长按'我'页面的（创作中心）周边图标，长按首页的顶栏和底栏均可以弹出设置。240331：网上已有去广告插件，配合这个就行了，微博变来变去的，最近几月版本我都没去广告
+Author: 来了老弟 X：h_h_x_t
+Name: 微博绿化-rootless
+
 Package: cn.llld.wxx
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1006,6 +1347,134 @@ Description: 微信小布丁1.0版本，可注入可越狱使用。自定义气�
 Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootless
 
+Package: cn.llld.wxx
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/微信小布丁-rootless_1.0_iphoneos-arm64.deb
+Size: 18680
+MD5sum: db0241bc12f08a7c3475422d56d3fc37
+SHA1: 7df8956caa53f39b100826e651de8bc9a2ff588a
+SHA256: 6a174ebd3dab96a5353c41206c3a1033b6fd74aa2c0bdca0a28f76590a518983
+Section: rootless-wx插件
+Description: 微信小布丁1.0版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告，屏蔽朋友圈广告，屏蔽越狱检测状态等功能。不整大杂烩，只更用的到.***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***当前只限8.0.31微信版本
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/微信小布丁-rootless_1.0.5_iphoneos-arm64.deb
+Size: 23930
+MD5sum: 96f1169fe77714b750f7fe1216feb2dc
+SHA1: 5def28ef464feca0bb3b27c5e781147402f0fbfa
+SHA256: be16ef9f345fa180519c3db896e1f1f08aa2b4068e7041376c926edc356075d5
+Section: rootless应用插件
+Description: 微信小布丁1.0.5版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
+Version: 1.0.5-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/微信小布丁-rootless_1.0.5-1-arm64.deb
+Size: 26574
+MD5sum: a8e933e15c705aeee1af434fe7cb47ca
+SHA1: 8b9facd9c861f8896c9c5a3250a49a4f73b84c2a
+SHA256: 1f81f9ef28e32ee86439f4de29f5ae9e0b576c5976f00ffac791259472de9eb6
+Section: rootless应用插件
+Description: 微信小布丁1.0.5版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/微信小布丁-rootless_1.0.6_arm64.deb
+Size: 26216
+MD5sum: d33158b07e10ca9345c1ae3fe0a77483
+SHA1: 6a60f5570978864599adc2b7b94509db24e5ff80
+SHA256: 116c1fcf3b49dbef84db2cf0bbf8ce1c9100901f986a03eb0a0529b4fe3f0b81
+Section: rootless应用插件
+Description: 微信小布丁1.0.6版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数，后台模糊，界面透明等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
+Version: 1.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/微信小布丁-rootless_1.0.6-1_iphoneos-arm64.deb
+Size: 26184
+MD5sum: a9c8647dbf8f0aa91584ea6512e951d6
+SHA1: bc44103cb839814e6790e096615e1f49ec9bdc5a
+SHA256: d52037b39386d9a00e694902679e20a73bbd7be3318ccc84a1b66ebe19e0821b
+Section: rootless应用插件
+Description: 微信小布丁1.0.6-1版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数，后台模糊，界面透明等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31---33版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 来了老弟 X：h_h_x_t
+Name: 微信小布丁-rootless
+
+Package: cn.llld.zfbb
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/支付宝步数XD-rootless_1.0_iphoneos-arm64.deb
+Size: 16540
+MD5sum: 2c0f80a159e7d906f574ac65b0d1fb75
+SHA1: 250a4ca4fa6b08e22ad4d8457d3144207a832b0e
+SHA256: 54bcee790dadeea301b587db51a039ab521de94656312b2324bd49c5d3c40108
+Section: rootless插件
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
+
+Package: cn.llld.zfbb
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/支付宝步数XD-rootless_1.1_iphoneos-arm64.deb
+Size: 18394
+MD5sum: 282331925b222819bdc28f0ebc25abd4
+SHA1: f19a8a9c197c0d0f996ad561b0fda5bf7c2aa060
+SHA256: a448b59d80f96fa9a557a6efb987676fb4647ce59f2c982cd1bd6c4970421bbb
+Section: rootless应用插件
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
+
+Package: cn.llld.zfbb
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/支付宝步数XD-rootless_1.2_iphoneos-arm64.deb
+Size: 18146
+MD5sum: 03fd95ce94a04af56965db05bb753b5a
+SHA1: e363486e15e9b68bec9ed9331e5d770097ed7395
+SHA256: 3dbabe90f6e82ae7103e4b827d550c6624ddef665601e5f0e77b4e298f4cc75b
+Section: rootless应用插件
+Description: 可注入可越狱使用。自定义步数，屏蔽越狱检测(代码半年没动了)，精简主页显示内容.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。0303:增加移除理财。自行设置里关了视频，底部就居中了
+Author: 来了老弟 X：h_h_x_t
+Name: 支付宝步数XD-rootless
+
 Package: cn.llld.zfbb
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -1021,6 +1490,102 @@ Section: rootless应用插件
 Description: 可注入可越狱使用。自定义步数，精简主页显示内容，视频内容下载.***长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置***,支持任意版本。250524:最好巨魔注入使用。260927:加个视频下载按钮
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
+
+Package: cn.llld.zyll
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/最右绿了注入版-rootless_0.1-arm64.deb
+Size: 15204
+MD5sum: 64e6b713519f4c4c80ee74f29d842fbc
+SHA1: 2dae452a41e396609da9ddedc219858d7abf5b73
+SHA256: a33daa0d6ed9fc98f577a31595a2221cca41e959b8531d7d5d6bfe4945125041
+Section: rootless插件
+Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多功能多款插件上料。
+Author: 来了老弟
+Name: 最右绿了注入版-rootless
+
+Package: cn.llld.zyll
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/最右绿了注入版或越狱-rootless_0.3-arm64.deb
+Size: 15184
+MD5sum: c331b06d9ea256ba6c8f39eef80cff1e
+SHA1: a1baca2a4a868940e8c1db54b7c489c22cc5a411
+SHA256: 5cb443f04a8cf2f86056485da855005396eb4fae1b16123a9e6dbac87f333266
+Section: rootless插件
+Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，排版以后再搞，要加的东西多***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，近期多款插件上料(20240121:更新修复长按评论区分享弹出编辑框问题)。
+Author: 来了老弟
+Name: 最右绿了注入版-rootless
+
+Package: cn.llld.zyll
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/最右绿了注入版-rootless_1.0-arm64.deb
+Size: 14806
+MD5sum: 167a3a6f0659447782f476daf733164a
+SHA1: 5553b08492768a433f887ce4107f7993dc2df52e
+SHA256: d727b526a729242cef4dce97500e3fe74543c98795999aaf7ef46ef9446e7f3f
+Section: rootless插件
+Description: ***给最右加点小功能，最右绿了注入版，可注入可越狱，去广告去水印啥的***。长按'我的'页面（插眼）或者（赞过）文字，弹出设置。Q群928481652，(20240121:更新修复长按评论区分享弹出编辑框问题)，20240126修改了下，确定下载没水印了。
+Author: 来了老弟
+Name: 最右绿了注入版-rootless
+
+Package: cn.llld.zyll
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/最右绿化-rootless_1.1_iphoneos-arm64.deb
+Size: 15914
+MD5sum: 63b2410a104e12f6fc944cfa7b149827
+SHA1: 931961cb4bd69457fc68b785a67b7159133eb888
+SHA256: 1bdc2dd160f109cea2be3304b7d9092418a3eeda92764734cf299ea56e85cddf
+Section: rootless插件
+Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。
+Author: 来了老弟
+Name: 最右绿化-rootless
+
+Package: cn.llld.zyll
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/最右绿化-rootless_1.2_iphoneos-arm64.deb
+Size: 16180
+MD5sum: 7af081c79145b6c6e80ee0a361272c34
+SHA1: 4c21ed0530d44916cd3e0e3e45b399d6b19f46fb
+SHA256: d74582cb95a93eb9d0b572ee4c7d480ec9042dde77481c2e3e0df2d510c137b0
+Section: rootless插件
+Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。
+Author: 来了老弟
+Name: 最右绿化-rootless
+
+Package: cn.llld.zyll
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/最右绿化-rootless_1.3_iphoneos-arm64.deb
+Size: 16184
+MD5sum: 7e4a59133e6957a2de0b50654b8cb8ef
+SHA1: 413af245da8c12a7b1cf8969a5147055ab1e5c23
+SHA256: b0f5074845f3168b856bb2079fc26d672f1d59a8c2deda75e5c9436f91e51abc
+Section: rootless插件
+Description: 可注入可越狱使用。去除启动页视频图片摇一摇广告，去除首页推荐和帖子评论区广告，去除帖子下群组社区推荐，禁用首页左上角话题，禁用首页右上角搜索，禁用推送广告，禁用消息角标，开启全屏视频浏览模式，开启视频下载无水印，等等。***'我的'页面长按头像下方控件或首页顶栏或任意帖子内顶部，弹出设置***。建议用6.0.9版本或以内的，新版本除了臃肿增加广告以外，一无是处。
+Author: 来了老弟
+Name: 最右绿化-rootless
 
 Package: cn.mg.adsspee
 Version: 1.1.5
@@ -1817,6 +2382,23 @@ Section: 嗨-工具
 Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
 Name: BigShot 长截图(rootless)
+
+Package: com.dao.purifyads
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Mo & 刀刀
+Installed-Size: 168
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.daodao.rootless.vfa, ccom.iosnet.Purifyads
+Filename: ./debs/微信免广告(rootless)_1.1.deb
+Size: 4718
+MD5sum: d2ff9ff5aeb71b9c1c41f60e0335b765
+SHA1: 5a4ff769a7336680989e7ba1ee089bd69420ddd9
+SHA256: 8088baebd9414ed4ac0335eac1f27e286e0f4d047e3e3ce551af13042b557c90
+Section: 嗨-工具
+Description: 去除微信的公众号/订阅号/文章的广告。
+Author: 秋名山
+Name: 微信免广告(rootless)
 
 Package: com.daodao.wicellswitcher
 Version: 1.2
@@ -3160,6 +3742,22 @@ Author: huami
 License: MIT
 Name: XHSTranslator
 
+Package: com.huayuarc.rootless.vfa
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Mo <cydia778899@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/微信公众号去广告-Rootless.1.1.deb
+Size: 4852
+MD5sum: 17528018ec6d891dc23b462ac0bd1d23
+SHA1: 685418d424715463a9b42237da2f87a320e46fdd
+SHA256: 9df66adc360774f34c92f65fc1e4cb55a02181913ae50a5e12725ada7b3c873a
+Section: A - WeChat
+Description: 原作者：糖醋丶炒排骨，Mo编译支持rootless，去掉微信公众号文章内置、底部的广告，无设置。
+Author: Mo
+Name: 微信公众号去广告-Rootless
+Sponsor: Mo <cydia778899@gmail.com>
+
 Package: com.ichitaso.primalfolder2
 Version: 0.1.1
 Architecture: iphoneos-arm64
@@ -4358,6 +4956,30 @@ Description: Aweme HomePage Full Screen. Supported only for version 34.7.0 and a
 Author: Netskao
 Name: AwemeFullScreen
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
+Package: com.netskao.awemenoads
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 140
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/抖音去广告 AwemeNoAds_1.1-3_iphoneos-arm64.deb
+Size: 32772
+MD5sum: 392b335c387b1a5acfd161ab785de530
+SHA1: bdedbde565b26fc66fb0968720f6cee7497ef9c0
+SHA256: 75c0be81c9267ebe98968ed1438ecfe7ef8e1845f06e57f7029d78d2f1dbdec1
+Section: 抖音插件
+Description: 抖音去广告插件
+ * 默认生效
+ * 去启动广告
+ * 去视频流广告
+ * 去青少年提醒
+ * 小程序跳广告，单独开关控制
+ * 内存清理功能，单独开关控制
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/icon.png
+Name: 抖音去广告 AwemeNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/js.json
 
 Package: com.netskao.awemevideotime
 Version: 1.1-2
@@ -6600,6 +7222,23 @@ Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.dyhook
+Version: 1.2.3-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1672
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/抖音图层1.2.3-1无根.deb
+Size: 440506
+MD5sum: fc0b2f8f70fedb984c73cdd5f0b6a6c5
+SHA1: ebbb873c281c88f863fccd612616563683e81ac5
+SHA256: 9e641b71fba3347d8bf63e8812db83810f6a483bb59258a640680b4ba669e422
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
 Version: 1.2.4
 Architecture: iphoneos-arm64
 Maintainer: x✨
@@ -6983,6 +7622,22 @@ Author: x✨
 Name: 抖音图层
 
 Package: com.xx.dyhook
+Version: 2.0.8+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/抖音图层2.0.8+8_离线版-arm64.deb
+Size: 2892908
+MD5sum: 0a32404024af6ca7a76b6004d7c53c8a
+SHA1: 06e4f03c389331bd4bc822d65516e99caad81a46
+SHA256: 8f3b5d655940074537d0751c4d98a735fdaf64f95826158203cc661c8fdb03e9
+Section: Tweaks
+Description: 离线版本，长期使用，真正无限制的使用！
+Author: x✨
+Name: Fuck·抖音图层
+
+Package: com.xx.dyhook
 Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: x✨+逆无止境
@@ -7026,6 +7681,22 @@ SHA1: d5bff4793d227d31ab682264e610a51b25e5be7e
 SHA256: ccd523d077a2c349fa9a197ea22721b496a2ccb7e5cd22b6cc68b3ba951a2d28
 Section: Tweaks
 Description: 屏蔽1.1.3 | 1.1.4版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
+Author: x✨
+Name: 数字人民币屏蔽越狱
+
+Package: com.xx.ecnyhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/数字人民币屏蔽越狱.1.0.2.deb
+Size: 23412
+MD5sum: 1a34a50777b8133de72c8904f953c20a
+SHA1: 8fb4237feb4368d5b82d15eb096046a8851d03cd
+SHA256: 0a20816480e420990d80c1c33f7eabfd490125c08995f439831b9b6f489a729d
+Section: Tweaks
+Description: 屏蔽1.1.3 - 1.1.5版本越狱检测
 Author: x✨
 Name: 数字人民币屏蔽越狱
 
@@ -7122,6 +7793,22 @@ SHA1: da295e160c1ff97c6f9cf9cef48bb4dd1688cecc
 SHA256: 25167a095af83217b12b85d97f6357c00d3087525b49457976a7682d8f69bae8
 Section: Tweaks
 Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.2更新内容：优化首页搜索下方无用视图移除
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.gaodehook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 340
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/高德地图优化.1.0.3.deb
+Size: 101168
+MD5sum: 64ccb83d37195ae73716cc48b0d29c4d
+SHA1: 9739384fd4557170133bf2a4d50996640a09b446
+SHA256: 5e81801f98eb591ef4f67e49cc338e0789becd1731ac7126aacfc7451f4fc391
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.3更新内容：对我的页面一些板块进行移除(功能并不是默认开 自行开启)
 Author: x✨
 Name: 高德地图优化
 
@@ -7365,6 +8052,22 @@ Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一
 Author: x✨
 Name: 今日头条Hook
 
+Package: com.xx.jrtthook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 644
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/今日头条Hook.1.0.4.deb
+Size: 179952
+MD5sum: f48f6192779af40d124374ffc9f06f71
+SHA1: 3388e72de60a6f607f40553595ea4e25285a4f08
+SHA256: 979d74dceef87922eb14ad3997c3ce745b483406d5f28f0be6fd716afda48a95
+Section: Tweaks
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.4更新内容：尝试修复一些已知问题
+Author: x✨
+Name: 今日头条Hook
+
 Package: com.xx.kshook
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -7410,6 +8113,22 @@ SHA1: bf0c287a1170a8cd586dfb4d535d91b2068b7328
 SHA256: 17c57991774ecf16e2d28fbeb74787ddac4b8ef5ed0b6a78b5b31b3d0b41ae25
 Section: Tweaks
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.3更新:fix bug
+Author: x✨
+Name: 快手Hook
+
+Package: com.xx.kshook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 692
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/快手图层1.0.4无根.deb
+Size: 196780
+MD5sum: bcef9761c549c312c95d5af26e35fb2f
+SHA1: 73e3f437a297a92903820a4ea5495a3740d3b31d
+SHA256: 1d86370cd37b1b64bbe0e760f80bbf5677c65f5eda77056e0c9809f61fedbb22
+Section: Tweaks
+Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.4:移除底部拍摄 | 显示视频发布时间 | 版本号
 Author: x✨
 Name: 快手Hook
 
@@ -7552,6 +8271,22 @@ Size: 95226
 MD5sum: 42475eda492d101485e616c45c8c12f5
 SHA1: a51df835ae1a860087eaa35edc3a27f3c53f0a67
 SHA256: 57f0637d9b79c6ef136a4a902a7755775c5161046d9e8e1894e024cd0ab84872
+Section: Tweaks
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单'
+Author: x✨
+Name: 皮皮虾优化
+
+Package: com.xx.ppxhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 340
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/皮皮虾图层1.0.1无根.deb
+Size: 101810
+MD5sum: c0ae56568b7f484e113c3aacf5c4bed0
+SHA1: 696882b10675948099be9a0c1db6ac09cb7e6fa6
+SHA256: 63dbc5ee47c8c7309223e012c430375bec7c526758b568a9587748b4a264a1b0
 Section: Tweaks
 Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单'
 Author: x✨
@@ -8084,6 +8819,22 @@ Section: Tweaks
 Description: 默认开启CallKit 有需要WeChat_8.0.56.i64(8G) 可以找我
 Author: x✨
 Name: WeChatCallKit
+
+Package: com.xx.xhshook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/小红薯_1.0.1_无根.deb
+Size: 92650
+MD5sum: 08bc3278983ee4f93472a888fae46016
+SHA1: 87ede51110fc98b14cf45951bdf3289996c3a99c
+SHA256: 9eb98a4dc39f1c3058293e326bb661e73441ece9993fc155528fbff1ec814156
+Section: Tweaks
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题
+Author: x✨
+Name: 小红薯调整
 
 Package: com.xx.xhshook
 Version: 1.1.0
@@ -8911,6 +9662,42 @@ Author: Hitori
 Icon: https://repo.cypwn.xyz/packages/Hikari-Rootless/icon.png
 Name: Hikari
 
+Package: hongguofn
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 5052
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/红果净化_2.2.0_arm64.deb
+Size: 2197328
+MD5sum: fdc215d65e38d5a148d07b811c53ead7
+SHA1: ad4be7442dec56260cec222486f982e2dc782df0
+SHA256: faa0b5f9ecfc3d3d87da2bcff793f3e9153a833e1e3a411039fa5608725442a4
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 兼容红果短剧与红果漫剧 7.4.1，提供界面净化、广告控制、倍速清屏与视频保存。
+ 兼容红果短剧与红果漫剧，版本适配7.4.1，低版本可能存在兼容问题不再适配，请更新至7.4.1版本使用。
+Author: Junhong
+Name: 红果净化
+
+Package: hongguofn.roothide
+Version: 2.2.0
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 5068
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/红果净化_2.2.0_arm64e.deb
+Size: 2192494
+MD5sum: 78f6b7e593cd13468d62c0bba242c401
+SHA1: 7809b9cddefed84932b41af44cc4741592330081
+SHA256: f39d8b7079c7dda9d7d6515503e3b994acb81a66f87a18ef1b7f9a594eab8f3f
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 兼容红果短剧与红果漫剧 7.4.1，提供界面净化、广告控制、倍速清屏与视频保存。
+ 兼容红果短剧与红果漫剧，版本适配7.4.1，低版本可能存在兼容问题不再适配，请更新至7.4.1版本使用。
+Author: Junhong
+Name: 红果净化 (Roothide)
+
 Package: hydra
 Version: 2.1
 Architecture: iphoneos-arm64
@@ -9331,6 +10118,23 @@ Description: 受iOS 16启发，在锁屏上设置实时活动计时器进行调�
 Author: 0xkuj
 Icon: https://media.havoc.app/6303ffb0d397cb77e56aa8f1
 Name: Live Activities
+
+Package: llld.keyboard
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/强制密码框第三方键盘-rootless.1.0.deb
+Size: 5844
+MD5sum: d121857c0e364db196c12e46e440098f
+SHA1: 63952edf9ca226ee09951dca93ce817e38ecd550
+SHA256: c4bb50fb59abcb454267e5bab29a327624e344b63778dc460f5b8861f3518d2c
+Section: rootless插件
+Priority: optional
+Description: 在很多时候输入，手机总默认自带键盘，且不能更换第三方，有了这插件，你想用啥键盘用啥键盘(第三方输入法都可以，使用场景：密码框)
+Author: 来了老弟
+Name: 强制密码框第三方键盘-rootless
+Sponsor: 33225753@qq.com
 
 Package: llld.keyboard
 Version: 2.0
@@ -11099,6 +11903,36 @@ Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢
 Author: 预言小猫
 Name: 一键备份和恢复工具-Rootless
 
+Package: tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64
+Maintainer: 预言小猫
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/一键备份和恢复工具-Rootless_2.0.0-beta_iphoneos-arm64.deb
+Size: 10580
+MD5sum: b6a95d49b6880a820f07e7f59d5bd5b6
+SHA1: 00f00ff5a660eee04e85db57ce98660a3178a0d9
+SHA256: 52a20a4e38901bbe5260dad3668aece3aea35cd915c0ffc086f3751f698b12a0
+Section: Tweaks
+Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具。Filza进入/var/mobile/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件即可。
+Author: 预言小猫
+Name: 一键备份和恢复工具-Rootless
+
+Package: tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64e
+Maintainer: 预言小猫
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/一键备份和恢复工具-Relaxin_2.0.0-beta_iphoneos-arm64e.deb
+Size: 11412
+MD5sum: 1afa9051f0968eae6bdfee667d749714
+SHA1: c0f5138fd913c9c3b019b509cc6428938eb86ca0
+SHA256: 42eb88ced480b1bd4b99489d0e7909dba4cd665fccb7a3b172d0705b548f49ff
+Section: Tweaks
+Description: 适合Relaxin越狱的插件及其配置的一键备份恢复工具（隐根版）。Filza进入/var/mobile/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件即可。
+Author: 预言小猫
+Name: 一键备份和恢复工具-Relaxin
+
 Package: twitter.nowesr1.photosplus
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -11227,6 +12061,22 @@ Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝信�
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator
+
+Package: wechatplugin
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/微信登录_2.0.deb
+Size: 5356
+MD5sum: b51a719c5ed2e4377825a92e21720fe2
+SHA1: a2b2d7fcbf341f040d1d9e83ec7db03eb3cd64de
+SHA256: 7bdb3c76fe0a0b0f27f4b819cf27432efde6524567705dee7863f40f7779868f
+Section: rootless微信插件
+Description: 微信电脑扫码，手机自动确认登录.
+Author: M哥
+Name: 微信登录_rootless
 
 Package: weifengqad
 Version: 1.2
