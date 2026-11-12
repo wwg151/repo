@@ -1,4 +1,10 @@
 {"events":[
+{"type":"added","date":"2026-11-12 14:15","package":"wiki.qaq.irisin_5.0.3_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:15","package":"wiki.qaq.irisin_5.0.3_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-12 14:15","package":"wiki.qaq.irisin_5.0.4_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:15","package":"wiki.qaq.irisin_5.0.4_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-12 14:15","package":"wiki.qaq.irisin_5.1.1_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:15","package":"wiki.qaq.irisin_5.1.1_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-12 14:08","package":"willow_1.2.14_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:08","package":"ws.hbang.alderis_1.2.3_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:08","package":"zeppelinreborn_1.0_iphoneos-arm64","version":""},
@@ -42,11 +48,5 @@
 {"type":"added","date":"2026-11-12 13:54","package":"tweaktool_1.6.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:54","package":"tweaktool_1.6.3_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:54","package":"twitter.nowesr1.photosplus_0.0.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"ve_2.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"velvet2_2.1.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"visibleisland_2.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"vkshortcuts_11.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"volumepercent_1.0.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"vpnindicator_1.1.7-1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"weifeng.rootless_7.0","version":""}
+{"type":"added","date":"2026-11-12 13:54","package":"ve_2.0_iphoneos-arm64","version":""}
 ]}
