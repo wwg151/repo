@@ -6115,6 +6115,389 @@ Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
 
+Package: com.xx.dyhook
+Version: 2.0.8+1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 14896
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_2.0.8+1_iphoneos-arm64.deb
+Size: 5144136
+MD5sum: d1eecfd7d10b5f3f20b7fe1d1f949fc9
+SHA1: 9ea8e35e4b2fa0c86e0716f6f571fb8f7c4802dd
+SHA256: cbe89f5f00067c70e3ed9009779ccc8efb7ceda37f14ee4b0a4c9a4c3ef1fe51
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.8+3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9072
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_2.0.8+3_iphoneos-arm64.deb
+Size: 2782996
+MD5sum: c1567316c39d5b0a91580f9c5bba089d
+SHA1: 78aa1d9ab1e321bbe709c473a5f9489782c64395
+SHA256: b33286327e7355eb1e9301bbf2e5f039769de3522d441f0f649a7a8580253032
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.8+5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9024
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_2.0.8+5_iphoneos-arm64.deb
+Size: 2765300
+MD5sum: 68845f8c11025b6c8e24a71a3275a9cc
+SHA1: 30c25229eaf5ee94d09b51e1655ef32749b0a906
+SHA256: 8e6242e4c43db55b02921888ef4458a0fbb31b867fbb13ef55ae1f7b2801a54c
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: x✨+逆无止境
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_2.1.0_iphoneos-arm64.deb
+Size: 2835216
+MD5sum: 17c28831e974c11b9c2ceb2442c444f4
+SHA1: ca9e29d42a78e7ce591028d3397d6202bbc9d10b
+SHA256: 1a0d27bd20fda54c235ac6f0d2c92c33bc5118ec6644ffecf1f4626c1b66fd85
+Section: Tweaks
+Description: 仅越狱食用，逆无止境破解使用期限！
+Author: x✨+逆无止境
+Name: 抖音图层畅快用
+
+Package: com.xx.ecnyhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.ecnyhook_1.0.0_iphoneos-arm64.deb
+Size: 18668
+MD5sum: 3f22871d29bc11ef1cb255b573f30ec9
+SHA1: 88fa43f56b073f5c3626e52ccda9a90dd5486526
+SHA256: a72d854e1ce2742292ff3526c2e470eb15969a76aa2f3228f5dcc2d38973bc18
+Section: Tweaks
+Description: 屏蔽1.1.3版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
+Author: x✨
+Name: 数字人民币屏蔽越狱
+
+Package: com.xx.ecnyhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.ecnyhook_1.0.1_iphoneos-arm64.deb
+Size: 18698
+MD5sum: 005c5f1c6d541dca8b6269ddbfd4a669
+SHA1: d5bff4793d227d31ab682264e610a51b25e5be7e
+SHA256: ccd523d077a2c349fa9a197ea22721b496a2ccb7e5cd22b6cc68b3ba951a2d28
+Section: Tweaks
+Description: 屏蔽1.1.3 | 1.1.4版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
+Author: x✨
+Name: 数字人民币屏蔽越狱
+
+Package: com.xx.fqxshook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.fqxshook_1.0.0_iphoneos-arm64.deb
+Size: 31296
+MD5sum: 3ccc959e54118f588ff84624c3fed0b0
+SHA1: 9fec04f7d80eff84e80a5f8524457c965af3ab2c
+SHA256: 6beba8f82b3529d966af507c8766150018f7dd9e16fec61c0dc493dddf2c9c68
+Section: Tweaks
+Description: 自用 | 去除一些广告 | 秒过激励视频 | 仅在6.0.8版本测试
+Author: x✨
+Name: 番茄小说优化
+
+Package: com.xx.fqxshook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.fqxshook_1.0.1_iphoneos-arm64.deb
+Size: 51158
+MD5sum: 3a37a3100bccb3d726575d8f24d50e91
+SHA1: 24bc73fcc13a4412c1df08749af273b2b03c313d
+SHA256: 38feac5a4c88a4d5b078344b193d2e69febb7c5cf5cb20ba6e0b59a499c006c5
+Section: Tweaks
+Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告
+Author: x✨
+Name: 番茄小说优化
+
+Package: com.xx.fqxshook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.fqxshook_1.0.2_iphoneos-arm64.deb
+Size: 48050
+MD5sum: 638ec517c7c4eb324907ea68442a6c19
+SHA1: aeacb613fff9deaed166a88e919e2a556e3001b4
+SHA256: 1e11bf6bc85c9071a5b186fce1ab83afd96a47e5fb030106f479594b37c14d42
+Section: Tweaks
+Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
+Author: x✨
+Name: 番茄小说优化
+
+Package: com.xx.gaodehook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.gaodehook_1.0.0_iphoneos-arm64.deb
+Size: 83400
+MD5sum: db2e5d898e48ed189a0dd0e87b9f016c
+SHA1: cd0f03dd94d36ea74310c1b43f95b7ecee58a14b
+SHA256: 90acc4fe1386147db8d73091c726de9d1c17afebc943422b5266b3a339ded537
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.gaodehook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.gaodehook_1.0.1_iphoneos-arm64.deb
+Size: 93096
+MD5sum: 27e0ce3698dfaff5cfa399cb56b4ab95
+SHA1: bb132c6789362b506c9ed1f17fd130af72adfbb4
+SHA256: eeecb6577762b27a7b56d67eeaafe74b993f1269e54f4bee16c4000e02a1b64f
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.1更新内容：增加移除底部附近 | 首页搜索下方无用视图移除
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.gaodehook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.gaodehook_1.0.2_iphoneos-arm64.deb
+Size: 94670
+MD5sum: fa85c58d798438453aa2e38dce6f9d82
+SHA1: da295e160c1ff97c6f9cf9cef48bb4dd1688cecc
+SHA256: 25167a095af83217b12b85d97f6357c00d3087525b49457976a7682d8f69bae8
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.2更新内容：优化首页搜索下方无用视图移除
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.gaodehook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 900
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.gaodehook_1.0.4_iphoneos-arm64.deb
+Size: 357780
+MD5sum: c89a41bc384219f4cd73ce233a935b3d
+SHA1: 780ea948357fb172a62aca902cf6062ff577148d
+SHA256: 107eacc4a334967c62ed514afe2d7f258a268edbbbf7a81b52bab0ebac13a9b0
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.4更新内容：修复问题
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.iboxhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.0_iphoneos-arm64.deb
+Size: 20354
+MD5sum: ab118c359e4f3b77a267b6272bc12c15
+SHA1: a44c528b01f71eb1acec1934def9a0dd559fdc67
+SHA256: bc13e599900fc9786cd2c2c4395d02ba72597ffb86a54a5fe1180a74439a8292
+Section: Tweaks
+Description: 自用 | 去除观看广告 | 去除越狱检测 VPN检测 | 仅适配2.0.7 插件仅越狱使用 | 免越狱IPA版本网盘或者QQ群有
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.1_iphoneos-arm64.deb
+Size: 42600
+MD5sum: b5ff5b3661250d79f7db47856a66397e
+SHA1: 14dfa4398ab42d4ef7e4af4d98ec6e9ea5b259b6
+SHA256: a7489345e5c90ed93dbf8657c4656f7e7c825aa58a6bfd2ae53946b703fb4dff
+Section: Tweaks
+Description: 自用 | 去除观看广告 | 去除越狱检测 VPN检测 | 仅适配2.0.7 插件仅越狱使用 | 免越狱IPA版本网盘或者QQ群有 || 101更新修短剧听书 现在可跳过广告
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.2_iphoneos-arm64.deb
+Size: 35138
+MD5sum: 2991239bc08de758b63b2f88d061823d
+SHA1: ad8f2857d04ac74b5eab0e7ce112e7804e7d73c8
+SHA256: 61b84de0f9f9fb54bfe072267b84370203ce633c4f2c21fd500ce8412ea063b6
+Section: Tweaks
+Description: 自用 | 广告一闪而过 | 去除一些检测 VPN检测等 | 仅适配2.0.8 插件仅越狱使用
+Author: x✨
+Name: iBoxSkipAds
+
+Package: com.xx.iboxhook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.3_iphoneos-arm64.deb
+Size: 30760
+MD5sum: 98680243321df5fd0486953131e99e06
+SHA1: 5bf0e96f1165a18e018a04345ce892b4f4be445e
+SHA256: 747e924e15266eeb3e76ec2737b39d9d83d56abf9bcb79f48d5b107eaafddd35
+Section: Tweaks
+Description: 自用 | 仅看剧无广告 无去除任何检测(短剧听书没做 本人不用) | 仅越狱使用 仅209版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 192
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.4_iphoneos-arm64.deb
+Size: 33728
+MD5sum: 5871b75cef4329cc76bdafecbd312341
+SHA1: 71f895c754377f145e7bfd2df7f4197483ad2d98
+SHA256: 07da65f00e1dc6dbdd26620511c10ab1fe7c08eeb648352a4c77ebd7635677ef
+Section: Tweaks
+Description: 自用 | 看剧短剧听书无广告 无去除任何检测 | 仅越狱使用 仅支持210版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.5_iphoneos-arm64.deb
+Size: 20478
+MD5sum: 010802fbaaf8ccc8b62b64f4ec605185
+SHA1: e0b3c5db03e4b23c48a40bcfd4c1eb0cafb0dab4
+SHA256: ad76660c0b0f9f722ca38db241c7375d2e1aa84c3e0a7f4558a67479ab3a1e5b
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 无广告 无去除任何检测 | 仅越狱使用 仅支持212版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.6_iphoneos-arm64.deb
+Size: 27988
+MD5sum: 333656c05e2db811299b57027bdc6c30
+SHA1: cb5a6f2a0a5e59cc99920cf4b94a15b727662473
+SHA256: 6c1936352c38cabf75d3ff9082f405b728dfa87c9fdacd7a1d25377cc13c6f72
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持213版本(不支持任何优化版)
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 680
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.7_iphoneos-arm64.deb
+Size: 200448
+MD5sum: 9b343add7665a9cac873db76bef6bb69
+SHA1: 331fd5bfabb9edc781f3e00512d2d6b411146efa
+SHA256: 4ad4a0edde5719cf1aadead0366e2d299aa2db9bfa01570b8695ef2041ff9ce1
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持214版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.8_iphoneos-arm64.deb
+Size: 141322
+MD5sum: 722f01f35c17496dad7bf414802608f7
+SHA1: e4ceb81dcbac4cebac14bf3b4ca86a544dd44fe3
+SHA256: dd185b4549ac15fe0dfc155377650aaada992f53dc4995088acc5116abff87a4
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持215版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.8-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.8-1_iphoneos-arm64.deb
+Size: 135298
+MD5sum: 234684217e4c28dd2e9121c8b307c029
+SHA1: d528fc94dc617940308966893e69aba04252e505
+SHA256: 85608ef8c29e92c6b9b6dd8143f42a3c0cbf5c6b88e386bee6203f9e993a53bd
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持215版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.iboxhook_1.0.9_iphoneos-arm64.deb
+Size: 88348
+MD5sum: c558aefb19cd0cb089b3334a7cc9106d
+SHA1: 821f7b12497ae838b8c705df1ca333474bee4a5d
+SHA256: 093a4fcd16b84f50ee3a9efcefb8a2bd2485ee705f0dbf993367c0e4caccb6b5
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除VPN检测 移除开屏Ads | 仅越狱使用 更新支持216版本
+Author: x✨
+Name: iBoxNoAds
+
 Package: netskao.3dnetworkfixer-rootless
 Version: 1.1-8
 Architecture: iphoneos-arm64
