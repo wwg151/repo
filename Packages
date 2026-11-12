@@ -4526,6 +4526,794 @@ Description: 音量管理，就是这么简单。包含功能：混响、多元�
 Author: sunshinesong
 Name: VolumeManager
 
+Package: com.susu.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.nopreferencetips_1.0.4_iphoneos-arm64.deb
+Size: 5386
+MD5sum: b9e7e36b4800edff79ce0540e800e81d
+SHA1: d6a55d46e3233007838ecdb4e13a13914f580f89
+SHA256: f5830ad34a7c4b1e63cd2af2dac0d8da13d949481b56dfb145fd9d704592003d
+Section: 调整
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 支持 iOS15-iOS16
+   * 移除“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
+Package: com.susu.photos
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susu.photos_1.0_iphoneos-arm64.deb
+Size: 4016
+MD5sum: 6088123f6b576f8fb7984a621ec76401
+SHA1: acfb1420c828293c5a593cd559f7a60623091644
+SHA256: 210facad9279d3f407b2694d469e2be6c19bc612263e4d58185b15067a1c9dc6
+Section: 系统
+Author: 苏苏
+Icon: https://www.susubaby.top/images/photos.png
+Name: 相册增强
+
+Package: com.susu.springanimation
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.springanimation_1.0.7_iphoneos-arm64.deb
+Size: 7820
+MD5sum: 2c1bd9e0c6905c4d929853e68f50de41
+SHA1: 494fa24dbe045343971f25d49bfc97da9e9fc6e1
+SHA256: 5c35bb1e3063487b2322daa259eed437f8169961ed7de4f0a35a4933a1c1a19a
+Section: 插件
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
+Package: com.susu.suawemehook
+Version: 1.2
+Architecture: iphoneos-arm64
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2_iphoneos-arm64.deb
+Size: 20268
+MD5sum: ed95667f0038353475753e19339b6c43
+SHA1: 8893da4ca5a7111662fd0b8605a9425f0e59f043
+SHA256: 2fdec37056a3d5581f5c2fb114299a098da3c63e52dd6c729c84ac2c2dccf37d
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-1_iphoneos-arm64.deb
+Size: 20496
+MD5sum: dd6b2e8733cff98074edd2f13fdedd87
+SHA1: 1369ffee80a447deaddf197428eff643707efc85
+SHA256: 6b25a5faa1d38e4098f59a47ce6205893114b769cfa61b68c4b26b02fa2d3644
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
+Package: com.swing.aweme
+Version: 1.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.aweme_1.0.6-1_iphoneos-arm64.deb
+Size: 64944
+MD5sum: 9e401729ef07dc8c91a4d9204b5225e4
+SHA1: 5a792a55bd20d5fc3fde0afedca50180439847d9
+SHA256: a56cf1031a00f282581c07e7ba57346545455552e9a02166e99574040b971a81
+Section: Tweaks
+Description: An awesome tweak for Aweme!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.aweme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.aweme/icon.png
+Name: Amazing Aweme
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.aweme.json
+
+Package: com.swing.bilibili
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.bilibili_1.0.0_iphoneos-arm64.deb
+Size: 7680
+MD5sum: bdb0f3032ede55270c3212b1b04d6c36
+SHA1: 41f6fbafe1229220cd5a83d146acc3cd2d2b4008
+SHA256: 5a52c295bddd35fbfd996a724896cd53dd7ce3f9a7c4d9c120fde9474c1ad4f8
+Section: Tweaks
+Description: 哔哩哔哩国际版去广告，解锁4K画质!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
+Name: 哔哩哔哩NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
+
+Package: com.swing.bilibili
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.bilibili_1.0.1_iphoneos-arm64.deb
+Size: 11462
+MD5sum: 7d1a76583245167d2200137d65c687c8
+SHA1: 6e38ecf91ccc997a372ae0af0c02c880222888ee
+SHA256: 2083cd2c137d585410321e02544a8259584c424c582fefe5f1cbc4d822b1d0ab
+Section: Tweaks
+Description: 主要针对哔哩哔哩国际版去广告，解锁4K画质!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
+Name: 哔哩哔哩NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
+
+Package: com.swing.bilibili
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.bilibili_1.1.0_iphoneos-arm64.deb
+Size: 15132
+MD5sum: 5e2c50aa3a9d174eb396b4839affe6f9
+SHA1: 9d5238a519d2bfe816219eda4e2381e052d20ff2
+SHA256: 1262c89fb90bbdb80e54c685f227542743edafbd1ad0ebb6c24a0a648cb9151f
+Section: Tweaks
+Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
+Name: 哔哩哔哩NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
+
+Package: com.swing.bilibili
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.bilibili_1.1.2_iphoneos-arm64.deb
+Size: 14574
+MD5sum: 8d702292835231982dc3f219e35ee977
+SHA1: 0a4654ef43ad22680e4c60ced4b6d5c5bae17b30
+SHA256: e681ce92dca1e3d8ebfa41cc4e44c431c91b40df51937054f309998e4257eb4e
+Section: Tweaks
+Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
+Name: 哔哩哔哩NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
+
+Package: com.swing.bilibili
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.bilibili_1.1.3_iphoneos-arm64.deb
+Size: 18856
+MD5sum: 24fee776a6c704854cede9d535563d0c
+SHA1: 325006214e2cbe9900525c4f8201375ded81ce71
+SHA256: 92050d4c0c401da47bc62e5f074e32907f0b3c5aae292a1c9209baeefd569868
+Section: Tweaks
+Description: 哔哩哔哩（国内版）净化相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
+Name: 哔哩哔哩NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
+
+Package: com.swing.bilibili
+Version: 1.1.4-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.bilibili_1.1.4-1_iphoneos-arm64.deb
+Size: 3700
+MD5sum: d887954c0bbaf911c85647a755df9352
+SHA1: 65f1a1f5971ccd0ace8c032fbf16edc281002f78
+SHA256: 4b3cb6f8bd1e7ea1ed48b1a621de9f8092bd5ca7432e24d02c6d56f7fe09cecd
+Section: Tweaks
+Description: 哔哩哔哩（国内版）净化相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
+Name: 哔哩哔哩NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
+
+Package: com.swing.bililite
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.bililite_1.0.0_iphoneos-arm64.deb
+Size: 10656
+MD5sum: c539ce15f5c75810cb576b012ec1228a
+SHA1: 2212c3b91d35d5cb6d38cc3edd6245906884b47a
+SHA256: dcf12c5bf509919395d177ef21282ec791b7996b63f0f909b26ebffb1cc9927a
+Section: Tweaks
+Description: 哔哩哔哩国际版净化相关页面与广告，默认播放会员4K画质。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bililite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bililite/icon.png
+Name: 哔哩哔哩国际版NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bililite.json
+
+Package: com.swing.dpnoads
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.dpnoads_1.1.0_iphoneos-arm64.deb
+Size: 11936
+MD5sum: 13f595530fd39729c8c62bc0e64fbc2d
+SHA1: 506fee3cccf04db9a988e7014eebebf82bf92832
+SHA256: 80bea6e704cb08f6bb3c654600179ee444d96b2e9371cf772ff0f1c1cb779ffc
+Section: Tweaks
+Description: 百度网盘去广告，优化文件传输页面使用系统App来打开文件!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.dpnoads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.dpnoads/icon.png
+Name: 百度网盘NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.dpnoads.json
+
+Package: com.swing.eleme
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.eleme_1.0.0_iphoneos-arm64.deb
+Size: 6254
+MD5sum: 9905866050431fa503432e4b45da81e3
+SHA1: 41222b79993cd93a5ff51147cfc38cf833f6f680
+SHA256: 5419c37b1f11bcadbdc0d2ccfaf4dc751b6343d433e264bb088607d938f80b2c
+Section: Tweaks
+Description: 饿了么去广告，感谢AE86的奶茶!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.swing.eleme
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.eleme_1.0.1_iphoneos-arm64.deb
+Size: 6632
+MD5sum: 914accd4d68ea9b0bfff185a8052ab4c
+SHA1: 92e9ffb7507c645d0568c2271fba511bb73ec350
+SHA256: fd651b6bd4e417644c649a0ab155593e87618c8f50ce3e334e0fd0230b24411a
+Section: Tweaks
+Description: 饿了么去广告，新增精简全能超市!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.swing.eleme
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.eleme_1.0.2_iphoneos-arm64.deb
+Size: 10662
+MD5sum: 25835810414072b7ed519fc5b18cca14
+SHA1: 69e672c2fae7c4879373af66395514627eb9da3e
+SHA256: b798135965cf55683ecd7314b0db4a28ffade9237e5a5e9fc7f4c3d787b48de4
+Section: Tweaks
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.swing.eleme
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.eleme_1.0.3_iphoneos-arm64.deb
+Size: 12492
+MD5sum: af29adb61529a398e118ca15cc66c2d7
+SHA1: 381bb579df5cd121651405387464ac5996190f83
+SHA256: cd8e3479aff3d1f03dc211bcf68399f1ac3afaef4747dacce0ec38ec1d615232
+Section: Tweaks
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.swing.eleme
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.eleme_1.0.4_iphoneos-arm64.deb
+Size: 11398
+MD5sum: bc9f8024141d997243bdc56337237b58
+SHA1: 84bcf9b8276a4e8b255386702e0bdcb22deac28c
+SHA256: 636131b9cc28a3006af77ce5ea37ce930ff39bf78c981376980bfba2c130c344
+Section: Tweaks
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.swing.jump
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.jump_1.0.0_iphoneos-arm64.deb
+Size: 5930
+MD5sum: d311c05cf65706006f2ed02990310942
+SHA1: e5f446b5c8ae4f3b30501bd35a80daace3a0d60a
+SHA256: b384ab744d63d352127a4a9d46622b4caedea26a4a543a52fd32df2cef4987c8
+Section: Tweaks
+Description: JumpApp去广告插件
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.jump
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.jump/icon.png
+Name: Jump去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.jump.json
+
+Package: com.swing.padswitcher
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.swing.padswitcher_1.0.1_iphoneos-arm64.deb
+Size: 26324
+MD5sum: 68c4c719b315902cc82c8c7b7e3e5f48
+SHA1: 6f125062c482a2d67f09d890761cf32a8bfd8e1c
+SHA256: b983649283f2df5cba300b4a9818523246db86740e5241aad6395803a1aa29ed
+Section: Tweaks
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
+Name: PadSwitcher - iPad多任务
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+
+Package: com.swing.puretieba
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.puretieba_1.0.0_iphoneos-arm64.deb
+Size: 8094
+MD5sum: ab36f474bf634f5bd551dfcff54922a9
+SHA1: b83b138278ff6249fd33d67560a4f09e9131803c
+SHA256: 2f67d375fdd782a0847d8dc241b1a7fa12f1743ff5ac4b629dc50e754270f2b1
+Section: Tweaks
+Description: 百度贴吧去广告插件！
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.puretieba
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.puretieba/icon.png
+Name: 百度贴吧去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.puretieba.json
+
+Package: com.swing.puretieba
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.puretieba_1.0.1_iphoneos-arm64.deb
+Size: 8972
+MD5sum: 2004902cbb8f36b8ad94801727a936b3
+SHA1: 27b712840de5cdaf4236be144a35fc47fe712e5a
+SHA256: 8aeb1556f1a363b80b2cc461e9895e255e4ba28e19867519a199b05da4df65ca
+Section: Tweaks
+Description: 百度贴吧去广告插件！
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.puretieba
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.puretieba/icon.png
+Name: 百度贴吧去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.puretieba.json
+
+Package: com.swing.puretieba
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.puretieba_1.0.3_iphoneos-arm64.deb
+Size: 13494
+MD5sum: 6c23f4c5171fda399bf9da3971366329
+SHA1: a62843c4db78d17f2004d749c1c287c1e92a07e9
+SHA256: be72b377e10383d40ef8a2075d6863d0b946966ab762ca202e5982109346194f
+Section: Tweaks
+Description: 百度贴吧去广告插件，更新适配 v12.61.3
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.puretieba
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.puretieba/icon.png
+Name: 百度贴吧去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.puretieba.json
+
+Package: com.swing.qqmail
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.qqmail_1.0.0_iphoneos-arm64.deb
+Size: 5510
+MD5sum: 312b6066291a3b437ec3ac5778215b66
+SHA1: 2ba3a52e4618ef577e64de33230345f47302fca2
+SHA256: 7fa76abb24958796415f025f4579bcc60a6870adc85e525b6406540e7acce145
+Section: Tweaks
+Description: QQ邮箱去广告插件。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.qqmail
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.qqmail/icon.png
+Name: QQ邮箱去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.qqmail.json
+
+Package: com.swing.wechat.noads
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_0.0.1_iphoneos-arm64.deb
+Size: 9886
+MD5sum: 5fe56e33f4b56a3ce2b56593080aa6e7
+SHA1: f8f3ce7bed7ae8aacf2ae91f2810f7b7e44a69e6
+SHA256: b40e6d3c8e548779573b506852b240af1fe4ba0b70fdb4e5765fc8cd97fd6d83
+Section: Tweaks
+Description: 微信去广告插件测试版，支持v8.0.49!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.wechat.noads
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.0.0_iphoneos-arm64.deb
+Size: 15464
+MD5sum: d6c1aefc503a217a5a7a75ceaec36b9d
+SHA1: d45964d7ef644aa3fff4483c1e6dd995e7151b16
+SHA256: 955c64de3414149cbeec875d8fbd655de12b70a4046e390e71c5e9dac7c54d73
+Section: Tweaks
+Description: 微信去广告插件测试版，基于v8.0.49开发!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.wechat.noads
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.1.0_iphoneos-arm64.deb
+Size: 13556
+MD5sum: 220b10e13ac1175bbf81747fe3038f08
+SHA1: 2e7e5815d3d9dcf8e454c836d710943321ae2561
+SHA256: a4e2108076dca2b00514131b5e6e650c6d1eb5dce1c5cd61e14b0603be96e70e
+Section: Tweaks
+Description: 微信去广告插件测试版，基于v8.0.49开发。删除新版公众号列表、文章中间和底部的广告，删除朋友圈广告，删除小程序的广告!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.wechat.noads
+Version: 1.1.4-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.1.4-1_iphoneos-arm64.deb
+Size: 12030
+MD5sum: 519463e0732996f315b007fdbf5f252c
+SHA1: 6f793b992dbc865ea4e693999bc4556caf909fa1
+SHA256: 9febda3cf1449d7886b7c9d44e5a21b389fe3a9ff06aafa26737d1cd41de8fd4
+Section: Tweaks
+Description: 最新版微信（v8.0.49）去广告插件。删除公众号列表广告、看一看、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.wechat.noads
+Version: 1.1.5-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.1.5-1_iphoneos-arm64.deb
+Size: 14610
+MD5sum: 2c9356b4b9c327328fd0000779efae38
+SHA1: 38d724d13e4a13383dd08bd976d2a5db99c2e9a7
+SHA256: d9636720015947d6cafbaeea8347381b2854421bdf28cd6cf4589a8ed0b7437f
+Section: Tweaks
+Description: 最新版微信（v8.0.49）去广告插件。删除公众号列表广告、看一看、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.wechat.noads
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.1.6_iphoneos-arm64.deb
+Size: 16114
+MD5sum: 0ba86152606f307981532bc45ccd6b8e
+SHA1: abc718100e518aa253e3f653836e94a1edd384c5
+SHA256: 1f8562cc96a5d189455f5e03608a5880d92faeb078a77bfb72686e07b68ae341
+Section: Tweaks
+Description: 最新版微信（v8.0.49）去广告插件。删除搜索页面的广告，删除公众号列表广告、看一看、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.wechat.noads
+Version: 1.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.1.7-1_iphoneos-arm64.deb
+Size: 19184
+MD5sum: 51cab626de4d3887bacb015bea53ba01
+SHA1: 27b3a715d145f205a472dd35c0f7756d9b79ce4a
+SHA256: 48e2ded1cfda869090a42c846507165821b0e001146e2ad77ff0ca1455519572
+Section: Tweaks
+Description: 最新版微信（v8.0.49）去广告插件。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.wechat.noads
+Version: 1.1.8-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.1.8-1_iphoneos-arm64.deb
+Size: 6400
+MD5sum: 41108cd12daa9d40b104ab8ab86fed22
+SHA1: bc55331e005490492cc511b7c1b6193555cabfb2
+SHA256: be4aa3f2078be6f0bfb4ec8ac4ef2b515850ee07d48fa997964a62277a62da35
+Section: Tweaks
+Description: 最新版微信（v8.0.49）去广告插件。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.weibo
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.weibo_1.2.1_iphoneos-arm64.deb
+Size: 25904
+MD5sum: 391e9b5e71fc856a52c689063a64f62d
+SHA1: 294f0a318406c42f830fe41c0280e1f974de8560
+SHA256: 0cc311aeb62992c5a36aa92e8fd93d4bfd5ec48c0745f39331a9da112c410b88
+Section: Tweaks
+Description: 删除启动页、信息流、视频流、评论列表、发现等页面的广告，支持修改设备型号。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibo
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibo/icon.png
+Name: 微博去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibo.json
+
+Package: com.swing.weibo
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.weibo_1.2.3_iphoneos-arm64.deb
+Size: 28222
+MD5sum: e9b3cd8b23abdb4f1d036be520ae7a52
+SHA1: cdc64fdb09a80e250f0ac6c437ba3879d66246bd
+SHA256: f019a83cd9f292a0bb6fed4b3f54a8a5abb4bc415f64a52c887e93e4eed403c4
+Section: Tweaks
+Description: 删除启动页、信息流、视频流、评论列表、发现等页面的广告，支持修改设备型号。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibo
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibo/icon.png
+Name: 微博去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibo.json
+
+Package: com.swing.weibolite
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.weibolite_1.0.0_iphoneos-arm64.deb
+Size: 11330
+MD5sum: f0b870192f9bb5332579819519f017ea
+SHA1: f7bc11a8715bcc66af6a137a2fa7245a9df4b753
+SHA256: bf119714e3b4e26985c072ed9da002d4ad3f8c2691d76455f6bcee7cf5c8853d
+Section: Tweaks
+Description: 微博轻享版去广告去广告插件。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibolite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
+Name: 微博轻享版去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
+
+Package: com.swing.weibolite
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.weibolite_1.0.1_iphoneos-arm64.deb
+Size: 11310
+MD5sum: 07c8fb0fc4b0a489cbeaa8b7c7294436
+SHA1: 113ee50bf15e6225e021c7b3e56e82965272bf1c
+SHA256: 97273b63c7f400bf316d2efbb1a09f9af700cd162ef1316951c7a034e401b6b6
+Section: Tweaks
+Description: 微博轻享版去广告去广告插件，TG：https://t.me/abox1993/1
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibolite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
+Name: 微博轻享版去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
+
+Package: com.swing.weibolite
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.weibolite_1.0.2_iphoneos-arm64.deb
+Size: 10526
+MD5sum: fb98f3d5ecee63aa9e557879dc9f483b
+SHA1: ed459f08cb68ba2553f88403e661a3615e751875
+SHA256: 6b10d208583931f5a21c7ad2934bb1e49a14e43df3934466b5def0fd1b0b0d09
+Section: Tweaks
+Description: 微博轻享版去广告去广告插件，TG：https://t.me/abox1993/1
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibolite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
+Name: 微博轻享版去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
+
+Package: com.swing.zhihu
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.zhihu_1.1.0_iphoneos-arm64.deb
+Size: 12898
+MD5sum: aa70342dd1bf15b9f633e810a99b0a3b
+SHA1: 72c56543fac4936fd0403af81d5f43648ad0402d
+SHA256: 97fe435ac6a4359b72f3c0362284a37331613770e27ec682ffbffcec222ea4bb
+Section: Tweaks
+Description: 知乎去广告插件
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.zhihu
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.zhihu/icon.png
+Name: 知乎去广告-Rootless
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.zhihu.json
+
+Package: com.swing.zhihu
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.zhihu_1.1.2_iphoneos-arm64.deb
+Size: 14274
+MD5sum: 71145846ada428477920da6fc7046a30
+SHA1: d0cdd370fab1e83979a729e119df50b768a37a8b
+SHA256: c23298fcf99f2bce286697a62b764282239184a85d27ce307352700da1456055
+Section: Tweaks
+Description: 知乎去广告插件
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.zhihu
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.zhihu/icon.png
+Name: 知乎去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.zhihu.json
+
+Package: com.swing.zhihu
+Version: 1.1.3-3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.zhihu_1.1.3-3_iphoneos-arm64.deb
+Size: 3558
+MD5sum: 97713761067d3e615d919020eb8f89d4
+SHA1: 55a1e0266713a15f3c124e3e2a702028f5d31e00
+SHA256: 15d2b2970b32d55fb4b2875fb85f3707f1ae46ab7f64034ea52b2932f4bc7a90
+Section: Tweaks
+Description: 知乎去广告插件
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.zhihu
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.zhihu/icon.png
+Name: 知乎去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.zhihu.json
+
+Package: com.switchbackground
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.switchbackground_1.1_iphoneos-arm64.deb
+Size: 3076
+MD5sum: 2dbfb7c5d6c7bf9f79eea252e6d11946
+SHA1: 823ff8dbc5b009e5685386a8a90dc395fb75359d
+SHA256: 1b7b3145222a3901e2cd5a33a10e7673d0b891d57e557da0df5ac2cf98fee3c3
+Section: Tweaks
+Description: 多任务后台透明、iPad卡片式后台、后台隐藏图标标签
+Author: M哥
+Name: 多任务后台-rootless
+
 Package: com.turann.randy420.appfetch
 Version: 0.1
 Architecture: iphoneos-arm64
