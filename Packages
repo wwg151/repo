@@ -3095,36 +3095,6 @@ Version: 1.7-4
 Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./WCPulse_1.7-4-arm64.deb
-Size: 4923632
-MD5sum: 2ce264fc89faedf0091a37ff23e7f8f6
-SHA1: c9014e0c029b3f404bd210b988e89ad5117030b9
-SHA256: 67f93336b131f07eeac4505e3d45e28ed6be358ce45c884e2a40939e66b1e575
-Section: Tweaks
-Description: WCPulse
-Author: huami
-Name: WCPulse
-
-Package: com.huami.WCPulse
-Version: 1.7-4
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./WCPulse_1.7-4-arm64e.deb
-Size: 4923614
-MD5sum: 1a64a71db28efced62b4b3acb848242f
-SHA1: 07ed6e8b12ec50440956e4baa8abf32757a64adb
-SHA256: a3a5c72962f55eadfd0e0781bf5b20ddece518392709bb7e15514e33cda27275
-Section: Tweaks
-Description: WCPulse
-Author: huami
-Name: WCPulse
-
-Package: com.huami.WCPulse
-Version: 1.7-4
-Architecture: iphoneos-arm64
-Maintainer: huami
-Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/WCPulse_1.7-4-arm64.deb
 Size: 4923632
 MD5sum: 2ce264fc89faedf0091a37ff23e7f8f6
@@ -7390,25 +7360,6 @@ Section: Tweaks
 Description: 禁止通知中心信息堆叠，不重叠可以连续显示
 Author: M哥
 Name: 通知分组堆叠iOS15-rootless
-
-Package: com.udevs.dockx
-Version: 2.4.6
-Architecture: iphoneos-arm64
-Maintainer: udevs
-Installed-Size: 1596
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Conflicts: com.restiveconch.actionbar
-Filename: ./DockX_2.4.6_rootless.deb
-Size: 293776
-MD5sum: 71aa5460020532a3e8fe52929f6e8e53
-SHA1: f4725aadbe9f90706e8da8492909dfe3e5a33933
-SHA256: 240838df678c6c982302da4e9d93cbf48b5c391c6d9bc850b53bd211d6f1180c
-Section: Tweaks
-Description: Pasteboard shortcuts on your keyboard dock!
-Author: udevs
-Depiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Name: DockX
 
 Package: com.udevs.dockx
 Version: 2.4.6
@@ -13809,26 +13760,6 @@ SHA256: e53324b24b2c823ed748b6cbe6fd8e46c5e6ab59f1e0e0e630bb799fc1b8e2e3
 Section: tweaks
 Description: 威锋会员VIP，去掉广告，理论支持7.0以上版本。
 Name: 威锋VIP_rootless
-
-Package: wiki.qaq.chromatic.rootless
-Version: 2.1-REL-1714140359.07c7d6e
-Architecture: iphoneos-arm64
-Maintainer: Saily Team <support.0xa1@qaq.wiki>
-Pre-Depends: firmware (>= 13.0), dpkg, uikittools
-Conflicts: wiki.qaq.chromatic
-Filename: ./wiki.qaq.chromatic.rootless_2.1-REL-1714140359.07c7d6e_iphoneos-arm64.deb
-Size: 3485640
-MD5sum: 4a328a7fb4944bc5be6c7e3f174356d5
-SHA1: 57b8f4d1d861ed8a2689955342c8673401e494b7
-SHA256: 63c5e153b11d7f2996674425390831308b53675ed4f96d1bfc56e8789dadf72a
-Section: Applications
-Homepage: https://sailyteam.github.io/Saily/index.html
-Description: Modern. Fast. Beautiful.
-Author: Saily Team <support.0xa1@qaq.wiki>
-Depiction: https://sailyteam.github.io/Saily/index.html
-Icon: https://sailyteam.github.io/Saily/Resources/icon.png
-Name: Saily - rootless (zp)
-Website: https://sailyteam.github.io/Saily/index.html
 
 Package: wiki.qaq.chromatic.rootless
 Version: 2.1-REL-1714140359.07c7d6e
