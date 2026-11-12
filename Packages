@@ -5237,22 +5237,6 @@ Architecture: iphoneos-arm64
 Maintainer: nicho1asdev
 Installed-Size: 1952
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Filename: ./com.nicho1asdev.bigsurcenter_1.4.3_iphoneos-arm64.deb
-Size: 768836
-MD5sum: a5fb9ba8f45df8cc76d53f435ec0bd55
-SHA1: 1e54c8a7e26e9117ee4cd699d6ddb3abb014ed2b
-SHA256: 3c81dd250a5d4fe1f4c6b265fab37c267663e8d942d87b70661cfeeb352e6bae
-Section: Tweaks
-Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the control center in MacOS Big Sur
-Author: nicho1asdev
-Name: BigSurCenter
-
-Package: com.nicho1asdev.bigsurcenter
-Version: 1.4.3
-Architecture: iphoneos-arm64
-Maintainer: nicho1asdev
-Installed-Size: 1952
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Filename: ./debs/com.nicho1asdev.bigsurcenter_1.4.3_iphoneos-arm64.deb
 Size: 768836
 MD5sum: a5fb9ba8f45df8cc76d53f435ec0bd55
@@ -14274,58 +14258,6 @@ Section: Applications
 Priority: optional
 Homepage: https://github.com/Lakr233/Irisin
 Description: Modern package manager for roothide custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 5.1.1
-Architecture: iphoneos-arm64e
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 23104
-Depends: firmware (>= 15.0)
-Filename: ./wiki.qaq.irisin_5.1.1_iphoneos-arm64e.deb
-Size: 6300244
-MD5sum: 28eb79f558d2825e57fcc9571be9655c
-SHA1: e202ebc7e03dcf9169b80652b0fcb6a8dd373725
-SHA256: 195ad865b8bc1373b50d23e8cf4f5db2b6d9c1c3a2ca9bdcb5d828864d1bbabf
-Section: Applications
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for roothide custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 5.1.1
-Architecture: iphoneos-arm64
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 23104
-Depends: firmware (>= 15.0)
-Filename: ./wiki.qaq.irisin_5.1.1_iphoneos-arm64.deb
-Size: 6301028
-MD5sum: 92239931c6948698de1a9f232769fc0d
-SHA1: 14b2fc193412af7535deb19a04b27b7d3a22b7c1
-SHA256: 985d1ecacea37f3682beec55cbac0d984aaf154c308475d744843881305a4436
-Section: Applications
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for rootless custom firmware
  Browse your repositories, install and remove packages, keep tweaks updated
  and read every depiction, on iPhone and iPad. The app runs without root;
  installs go through a small on-demand root daemon whose helper installs
