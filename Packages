@@ -4454,10 +4454,10 @@ Maintainer: M哥
 Installed-Size: 648
 Depends: mobilesubstrate
 Filename: ./debs/com.mg.adskip_1.1.0_iphoneos-arm64-rootless.deb
-Size: 118176
-MD5sum: a2ed0780631258e2a87c678d8abc1f37
-SHA1: 631063aeb2f7b5a0c7ff270baec8e378a7294dd3
-SHA256: 12b31d921a6ea96f9d428416b4767578739071600535c39c5dc8ee00c977073b
+Size: 117940
+MD5sum: d038df40731ca028d6ea806d1d5cbe21
+SHA1: 1dd1f43f606486d2613c1528eaf7d693c6ed8682
+SHA256: e502d5d4c3566a554ad2ddf9c67ba79d46d506882e1a326a1689c2e01e28ee68
 Section: Tweaks
 Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
 Author: M哥
@@ -4471,10 +4471,10 @@ Maintainer: M哥
 Installed-Size: 648
 Depends: mobilesubstrate
 Filename: ./debs/com.mg.adskip_1.1.0_iphoneos-arm64e-roothide.deb
-Size: 118392
-MD5sum: bd6f3a37187b98af2161976d0b764e29
-SHA1: e9085d2e6f5906a9adbddcd25d86df5b6f0e34e8
-SHA256: 1ce2fa9c53ca300513835d9f8947a88dae047c5511fac6cb144655036b9d6c2c
+Size: 118236
+MD5sum: deb6e100ea3650d7d394083fdc1d916e
+SHA1: 6775a13333c12bf7af79684c40039a07e8bdc805
+SHA256: 1dd8c0b6f630dec6449fe4b4622e8b61a7e860ddca91ff5f55908565cff32c78
 Section: Tweaks
 Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
 Author: M哥

@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-12 09:52","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
+{"type":"added","date":"2026-11-12 09:52","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
 {"type":"added","date":"2026-11-12 09:41","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
 {"type":"added","date":"2026-11-12 09:41","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
 {"type":"added","date":"2026-11-12 09:29","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
@@ -46,7 +48,5 @@
 {"type":"removed","date":"2026-11-12 15:11","package":"com.velocarpooling_1.0_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.violetpro_1.0.0_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.waimai_1.0_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.wangdonghua.backgroundretainer_0.0.1-6+debug_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.weibo_1.0_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.weifeng_1.2.1_iphoneos-arm64","version":""}
+{"type":"removed","date":"2026-11-12 15:11","package":"com.wangdonghua.backgroundretainer_0.0.1-6+debug_iphoneos-arm64","version":""}
 ]}
