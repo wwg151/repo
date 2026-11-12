@@ -2006,6 +2006,22 @@ Author: aronsz26
 Name: LockScreenRestore
 Sileodepiction: https://wwg151.github.io/repo/depictions/com.aronsz26.lockscreenrestore.json
 
+Package: com.aronsz26.lockscreenrestore
+Version: 1.9.5-1
+Architecture: iphoneos-arm64
+Maintainer: aronsz26
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64.deb
+Size: 130796
+MD5sum: eb4b4dfe015fa8dd0d7a34b9d45341ff
+SHA1: eba9eed3b19523670412e122e292baba0871c0b6
+SHA256: ac777668a4000c7e626b1edba8e50012d055beba09205eac6491ed8ff1d0c766
+Section: Tweaks
+Description: 在 iOS 16 上复刻 iOS 15 风格锁屏：时钟、日期、挂锁图标、专注模式胶囊提示、通知从顶部弹出、iOS15 音乐播放器、解锁动画、iOS15 图标标签阴影、实况与动态壁纸，以及带壁纸下载功能的 iOS15 样式「设置 > 墙纸」页面。所有组件均可在设置里单独关闭。.
+Author: aronsz26
+Name: LockScreenRestore
+Sileodepiction: https://wwg151.github.io/repo/depictions/com.aronsz26.lockscreenrestore.json
+
 Package: com.autounlockface
 Version: 1.1
 Architecture: iphoneos-arm64
