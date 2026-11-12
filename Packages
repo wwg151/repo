@@ -519,6 +519,70 @@ Icon: file:///var/jb/Applications/appfix.app/AppIcon60@3x.png
 Name: 应用修改器
 
 Package: cn.llld.bbqzr
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/芭比Q注入版-rootless_0.1_iphoneos-arm64.deb
+Size: 10590
+MD5sum: 3047b16511c379e2e529fe1fda26e54c
+SHA1: 0e5fd7547dde9a99a0454a269cb4aae6b593b7d9
+SHA256: 059ebec3d90c5840bf3eb693276b8ad672a9efad8cdfe48640a2112ca374c814
+Section: rootless插件
+Description: ***芭比Q注入版，浓缩版，轻喷，本来是给自己做个游戏挂，就顺便也写个注入版***。长按消息页面的（搜索）或者侧边栏（设置）的文字，弹出设置
+Author: 来了老弟
+Name: 芭比Q注入版-rootless
+
+Package: cn.llld.bbqzr
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/芭比Q注入版-rootless_0.2_iphoneos-arm64.deb
+Size: 19538
+MD5sum: a284c376e88a211ace6a54109ce47a47
+SHA1: 77fe037895cb80a33a69ac8edb6b31b202f8a812
+SHA256: 7959d892b0f870ff90cd272083adfd245382ac0bfae321c50d10855c5809425c
+Section: rootless插件
+Description: ***给QQ加点小功能，芭比Q注入版，浓缩版，轻喷，设置排版以后再搞，近期要加的东西多***。长按主页消息页面的（搜索）或者侧边栏（设置）的文字，弹出设置
+Author: 来了老弟
+Name: 芭比Q注入版-rootless
+
+Package: cn.llld.bbqzr
+Version: 0.3-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: ./debs/芭比Q注入版-rootless_0.3-1-arm64.deb
+Size: 27198
+MD5sum: 6828d3c5c0787494cd1ab97ab3a0395f
+SHA1: 6f29d6b19a21d04919579c6542d9c1c156dc0691
+SHA256: eb9b59a996716155a96914e1da590ab258137893754d591c778caf8a3a36e152
+Section: rootless插件
+Description: ***给QQ加点小功能，芭比Q注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按侧边栏的（日间）或者侧边栏的（设置）文字，弹出设置，cydia装不了的进Q群928481652，多款插件即将到来。
+Author: 来了老弟
+Name: 芭比Q注入版-rootless
+
+Package: cn.llld.bbqzr
+Version: 0.3-3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: ./debs/芭比Q注入版-rootless_0.3-3-arm64.deb
+Size: 30548
+MD5sum: 4ef3707c1f9ed7321d02f8d83deb834b
+SHA1: c6ad5651195cc13e921d7150c221c0a6b963078d
+SHA256: a72b00bc1699105a724294b4a0def729f437fec20b3d46468c15c0cba4195a66
+Section: rootless插件
+Description: ***给QQ加点小功能，芭比Q注入版，可注入可越狱，排版以后再搞，近期要加的东西多***。长按侧边栏的（日间）或者侧边栏的（设置）或任何界面的（收集表）或（精华消息）文字，弹出设置，cydia装不了的进Q群928481652
+Author: 来了老弟
+Name: 芭比Q注入版-rootless
+
+Package: cn.llld.bbqzr
 Version: 0.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -733,6 +797,24 @@ Name: 芭比Q-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
 Package: cn.llld.qqdsq
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 300
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/芭比Q-rootless_1.1_iphoneos-arm64.deb
+Size: 73840
+MD5sum: bb544cdfcc7d03ebec12f19857f7bdd8
+SHA1: 7c211e3096731ffa9806e3fad9fa800d5b8151e3
+SHA256: 80c9a1dda1c66c30f7c58580dbf7cdebb86b41a9359a0d3acf87691ddd61cf3b
+Section: rootless插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
 Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
@@ -769,6 +851,24 @@ Name: 芭比Q-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
 
 Package: cn.llld.qqdsq
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/芭比Q-rootless_1.3.1_测试版-arm64.deb
+Size: 102864
+MD5sum: f0bd116c75dc3524d422ff1440ceb787
+SHA1: ceec27a30995cb0a8664a0963f79d7fd48ecc0c3
+SHA256: 06016ad2db66c2136a7a200ae829b835f782048768a93fea913ea439272b18b3
+Section: rootless插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
 Version: 1.3.3
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
@@ -785,6 +885,41 @@ Author: 来了老弟 X：h_h_x_t
 Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
 Name: 芭比Q-rootless
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsq
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/芭比Q-rootless_1.3.5-arm64.deb
+Size: 93830
+MD5sum: c93303e8acdafa015c73c06e3d9c2570
+SHA1: e02b5e8448a8255b5b21f584fe8e0f9aa4daddb8
+SHA256: a0b0d080c9cf25acd1e53f68b18031bcb516332011552540fedbacc95820536d
+Section: rootless应用插件
+Description: 功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-rootless
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
+Package: cn.llld.qqdsqqc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/芭比QQ精简版-rootless_1.0-arm64.deb
+Size: 79068
+MD5sum: 5092259688049aa7206ad175491d1879
+SHA1: dfebd75abf34f2bc80320e2fc34a756b3146c73d
+SHA256: 0bb960861f1dee187d68c142a2244a6e4d3e803aaa217d8612e10ab06020922b
+Section: rootless应用插件
+Description: 芭比Q精简功能版，去除 全局视图颜色控制和全局视图透明调节 功能。插件功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.20，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比QQ精简版-rootless
 
 Package: cn.llld.qsyy
 Version: 1.2
@@ -5884,6 +6019,27 @@ Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weib
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
 Name: 微博轻享版去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
+
+Package: com.swing.zhihu
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zhihunoads_1.0.0_iphoneos-arm64.deb
+Size: 12656
+MD5sum: db37f3d50896c555f8f7c1294e90eec3
+SHA1: ceac4fd97bf208d295e46d48e28bd3b214694162
+SHA256: 1fdb7beb9655173862745437b94267c6c0808d5055ef60a843aa90377a81e8b8
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=zhihunoadsDp
+Description: 知乎去广告插件，如果失效请联系WeChat：420408858
+Tag: purpose::extension
+Author: SWING <swing1993@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=zhihunoadsDp
+Dev: swing
+Name: 知乎去广告-Rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.swing.zhihu
 Version: 1.1.0
@@ -11591,6 +11747,44 @@ Icon: https://lakr233.github.io/Irisin/icon.png
 Name: Irisin
 Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
 
+Package: willow
+Version: 1.2.14
+Architecture: iphoneos-arm64
+Maintainer: M 哥
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Filename: ./debs/willow_1.2.14_iphoneos-arm64.deb
+Size: 277968
+MD5sum: 467f3cfdc1c018cb51340a36872230ea
+SHA1: d17c9b8eb2022c9aa7023eb8028512f988727319
+SHA256: 12fd0cb2d8ceb9035ac2042bdb1bc53d56ed710ea688ee655d173dc15dcc4cde
+Section: Tweaks
+Description: 一个全新的，不引人注目的，OLED友好的音量HUD。（由 M 哥汉化）
+Author: Ayden Panhuyzen
+Name: Ultrasound
+
+Package: ws.hbang.alderis
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 2463
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
+Filename: ./debs/ws.hbang.alderis_1.2.3_iphoneos-arm64.deb
+Size: 290546
+MD5sum: 3f9e6b11866f656255a80d57ddb7f258
+SHA1: 9f3243b042f64f1a36509be4c198148547148336
+SHA256: cdd1f47c08843bde9b0e34ec07697a29dcdd56f8493fe5503f8085e7c1d5fb76
+Section: Development
+Description: Color picker support library for tweaks
+Tag: role::developer, compatible_min::ios12.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/alderis
+Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
+Name: Alderis Color Picker
+Support: https://hashbang.productions/support/
+
 Package: ws.hbang.common
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -11661,4 +11855,107 @@ Depiction: https://repo.cypwn.xyz/depiction/1481
 Icon: https://img.chariz.cloud/icon/joe/icon@3x.png
 Name: Joe
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1481
+
+Package: zeppelinreborn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/zeppelinreborn_1.0_iphoneos-arm64.deb
+Size: 656880
+MD5sum: 8f53642e73fcd4b7582ac75e23a2ff0d
+SHA1: e316460e2f141beef6c8a7ba726f08829cadadbb
+SHA256: 3f301eb6271afb6c5cab0b15a14fc9007ecdd7963c4f506a0a949b5f7ce0280d
+Section: Tweaks
+Description: 在运营商文本或时间旁边添加图像或GIF！
+Author: Hitori
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+
+Package: zeppelinreborn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/zeppelinreborn_1.1_iphoneos-arm64.deb
+Size: 988144
+MD5sum: e154442421d08e2710c82190e4a0a0cc
+SHA1: aaea6b5e9f824b1c00944adf60b765c40025a581
+SHA256: d2e9ccfcacbf5bd32915a23d809d336ec53b0e2ddc81eae05a69bc4a52d7accf
+Section: Tweaks
+Description: 在运营商文本或时间旁边添加图像或GIF！
+Author: Hitori
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+
+Package: zeppelinreborn
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/zeppelinreborn_1.2_iphoneos-arm64.deb
+Size: 2347020
+MD5sum: 1effd4734fd0f0476147081626ed6f2a
+SHA1: 0f641e18f09eb958996e688289bfdb40012cba9a
+SHA256: b17c522066803e8b8d865032a08fea1286bc68a26c6ff802a445a554a306fc2b
+Section: Tweaks
+Description: 在运营商文本或时间旁边添加图像或GIF！
+Author: Hitori
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+
+Package: zeppelinreborn
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/zeppelinreborn_1.4.1_iphoneos-arm64.deb
+Size: 2984136
+MD5sum: 376c163f18c75cf37b4297da6285ea58
+SHA1: 9e039e9eecd3b5588586cbd4dbd963b7900a9698
+SHA256: 45214c59105e4d9246265de8f13169959848872c921fd71e0599a574ded905bd
+Section: Tweaks
+Description: 在运营商文本或时间旁边添加图像或GIF！
+Author: Hitori
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+
+Package: zeppelinreborn
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/zeppelinreborn_1.4.2_iphoneos-arm64.deb
+Size: 2980628
+MD5sum: 4655c540769e3fd4fec921ad6931565e
+SHA1: 90ead3affc1e07b33d00eff336485b6dccd3d949
+SHA256: 0c66f5491c997170085a9f7775b69ce504ecae12f463411e20073f6f33a5a6f5
+Section: Tweaks
+Description: 在运营商文本或时间旁边添加图像或GIF!
+Author: Hitori
+Icon: https://repo.cypwn.xyz/packages/ZeppelinReborn-Rootless/icon.png
+Name: Zeppelin Reborn
+
+Package: zetsu
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 11675
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/zetsu_1.6_iphoneos-arm64.deb
+Size: 10084720
+MD5sum: 5eed4b0cef64a64597ef9fdd6aa08654
+SHA1: 6eacc850cd93ad9ecde2d1150aa03144bbfe0edf
+SHA256: ff41964d9ccf835ec2726c4991b8aa2702a4cd27b79c75400bba20707cad51f8
+Section: Tweaks
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/get/zetsu
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Name: Zetsu
 

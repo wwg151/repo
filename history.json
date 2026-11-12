@@ -1,4 +1,13 @@
 {"events":[
+{"type":"added","date":"2026-11-12 14:08","package":"willow_1.2.14_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:08","package":"ws.hbang.alderis_1.2.3_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:08","package":"zeppelinreborn_1.0_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:08","package":"zeppelinreborn_1.1_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:08","package":"zeppelinreborn_1.2_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:08","package":"zeppelinreborn_1.4.1_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:08","package":"zeppelinreborn_1.4.2_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:08","package":"zetsu_1.6_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-12 14:08","package":"zhihunoads_1.0.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:05","package":"wiki.qaq.irisin_5.0.3_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:05","package":"wiki.qaq.irisin_5.0.3_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-12 14:05","package":"wiki.qaq.irisin_5.0.4_iphoneos-arm64","version":""},
@@ -39,14 +48,5 @@
 {"type":"added","date":"2026-11-12 13:54","package":"vkshortcuts_11.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:54","package":"volumepercent_1.0.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:54","package":"vpnindicator_1.1.7-1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"weifeng.rootless_7.0","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"weifengqad_1.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"wicellswitcher_1.2","version":""},
-{"type":"added","date":"2026-11-12 13:54","package":"wiki.qaq.chromatic.rootless_2.1-REL-1714140359.07c7d6e_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 05:52","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-12 05:36","package":"com.mg.adskip_1.0.18_iphoneos-arm64-rootless","version":""},
-{"type":"added","date":"2026-11-12 05:36","package":"com.mg.adskip_1.0.18_iphoneos-arm64e-roothide","version":""},
-{"type":"added","date":"2026-11-12 05:27","package":"com.mg.adskip_1.0.18_iphoneos-arm64-rootless","version":""},
-{"type":"added","date":"2026-11-12 05:27","package":"com.mg.adskip_1.0.18_iphoneos-arm64e-roothide","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"Phoenix.1.0.4","version":""}
+{"type":"added","date":"2026-11-12 13:54","package":"weifeng.rootless_7.0","version":""}
 ]}
