@@ -1,4 +1,5 @@
 {"events":[
+{"type":"removed","date":"2026-11-12 14:50","package":"com.news_1.0_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 14:49","package":"WCPulse_1.7-4-arm64e","version":""},
 {"type":"removed","date":"2026-11-12 14:49","package":"WCPulse_1.7-4-arm64","version":""},
 {"type":"removed","date":"2026-11-12 14:48","package":"DockX_2.4.6_rootless","version":""},
@@ -47,6 +48,5 @@
 {"type":"added","date":"2026-11-12 14:35","package":"com.wkk.gaodehook_1.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:35","package":"com.wkk.txsphook_1.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 14:35","package":"com.wwg135.leisu_1.0.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:35","package":"com.wwg135.zhibo8_1.0.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 14:35","package":"com.xina.blacklist_0.0.2-10_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 14:35","package":"com.wwg135.zhibo8_1.0.0_iphoneos-arm64","version":""}
 ]}

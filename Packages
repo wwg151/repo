@@ -5221,22 +5221,6 @@ Architecture: iphoneos-arm64
 Maintainer: M哥
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./com.news_1.0_iphoneos-arm64.deb
-Size: 4600
-MD5sum: db2d896dd94cf876ae9cd587110b2b38
-SHA1: ea32317bcf29c3e0ac9acc004bd37b59984719be
-SHA256: 7c5870a1d75579e947e327235c81d76ea89ecc5f7df048967b5f46c6da874f7f
-Section: Tweaks
-Description: 今日头条去广告
-Author: M哥
-Name: 今日头条NoAd-rootless
-
-Package: com.news
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: M哥
-Installed-Size: 88
-Depends: mobilesubstrate
 Filename: ./debs/com.news_1.0_iphoneos-arm64.deb
 Size: 4600
 MD5sum: db2d896dd94cf876ae9cd587110b2b38
