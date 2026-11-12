@@ -654,6 +654,457 @@ Description: 可注入可越狱使用。自定义步数，精简主页显示内�
 Author: 来了老弟 X：h_h_x_t
 Name: 支付宝步数XD-rootless
 
+Package: cn.mg.adsspee
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/cn.mg.adsspee_1.1.5_iphoneos-arm64.deb
+Size: 110328
+MD5sum: 1e1b917317504946761b55037d6a52fb
+SHA1: ae4a314ac8652083b6621aed14dc3e79ff0b8985
+SHA256: 1e83a996485c2fa19ab2651fcaaa2400a66f8c7b432f35e633c9e4e23f029b62
+Section: 插件
+Description: 快速跳过激励视频广告！
+Author: lly
+Name: 跳过广告-Rootless
+Sponsor: M哥
+
+Package: cn.swing.trip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.swing.trip_1.0.0_iphoneos-arm64.deb
+Size: 4106
+MD5sum: f8810e087e7cb5b0779783201961460e
+SHA1: 227d6ab48a3c25f933345934d1a5827f84f2849f
+SHA256: 2fffa1b7b66a0ac3d8bf830881c43bd309c9d8882f512ce29c6b1f59fc5635cf
+Section: Tweaks
+Description: 智行火车票去启动闪屏，去底部活动TabItem!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=cn.swing.trip
+Icon: https://repo.abox.plus/api/packageinfo/cn.swing.trip/icon.png
+Name: TripNoSplash
+Sileodepiction: https://repo.abox.plus/depictions/native/cn.swing.trip.json
+
+Package: cn.zqbb.appdata
+Version: 1.3.6-2
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 340
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/cn.zqbb.appdata_1.3.6-2_iphoneos-arm64.deb
+Size: 75718
+MD5sum: b060712ca90a8d688db0571c31488abe
+SHA1: de6cc0cf5279e875621123060c60db0d2da57942
+SHA256: a84f1036a0cde178399e7f55c0cd2a14324ab59afb9d1e5dd3de9b1fc9f235c0
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Name: Hello AppData
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.appdata
+
+Package: codes.aurora.kayokos
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/codes.aurora.kayokos_2.7_iphoneos-arm64.deb
+Size: 123916
+MD5sum: 732103a195739806a8fb1e4da1e41c10
+SHA1: 1ffcbc75432877c2a740679e8e58e7fd7d4c4601
+SHA256: a1012fefb52c723d3b0893159ba45973d5506b8aa725538e8de5bb3b1a0d6d12
+Section: 乌龙工作室
+Description: iOS 剪切板越狱插件
+ * Clipboard manager for iOS.
+ * 由「乌龙工作室」修复支持 iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
+Package: colorfulwallpaperx
+Version: 4.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/colorfulwallpaperx_4.2_iphoneos-arm64.deb
+Size: 1213928
+MD5sum: a41d57435346932f1afbbe1a1a444e4f
+SHA1: a928741fe664e6ffb15fbf448e594cee44e6c9bb
+SHA256: d5e52d0af70629d855b2aaff96b4892c1992210c2e4864512fbbb83d1a1e53be
+Section: Tweaks
+Description: 具有彩色效果的动态壁纸。
+Author: Lessica
+Icon: https://repo.cypwn.xyz/packages/ColorfulWallpaperX-Rootless/icon.png
+Name: ColorfulWallpaperX
+
+Package: colorfulwallpaperx
+Version: 4.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/colorfulwallpaperx_4.6_iphoneos-arm64.deb
+Size: 1233496
+MD5sum: e4c19cbbc94364c0ef51c8aeb82f35ca
+SHA1: 2b4bfabc0e39d65cc6d150c079d77c988bddc0b1
+SHA256: a80fcd268f8f78011dcdfdfc326eebc2c2ac623e1234d9c3ca9d415299b7b178
+Section: Tweaks
+Description: 具有彩色效果的动态壁纸。
+Author: Lessica
+Icon: https://repo.cypwn.xyz/packages/ColorfulWallpaperX-Rootless/icon.png
+Name: ColorfulWallpaperX
+
+Package: com.82flex.noredirect
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/com.82flex.noredirect_1.3_iphoneos-arm64.deb
+Size: 44132
+MD5sum: a82e199a58162b365d3ca3c0ebec360a
+SHA1: 2dd6aa85e243fab2b1d2a10ae31e7e3f9e9f297b
+SHA256: 2f2fdb08089bf8914935868ef71acd2f66dd0e9c85ce351519d4a1e6dc013644
+Section: tweaks
+Description: 阻止指定的应用程序重定向到App Store、Safari或其他应用程序。
+Author: Lessica <82flex@gmail.com>
+Name: No Redirect
+
+Package: com.82flex.noredirect
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/com.82flex.noredirect_1.9_iphoneos-arm64.deb
+Size: 53972
+MD5sum: 51d8e057a058ced605b9e9df42ec747c
+SHA1: 1cba576bc07fb5d7fcc8b94dc86e37d53ed3ba07
+SHA256: db85b4e3a2e02107f8bbcb8779c93c8bc475d9014705bb14359e2d573b909efd
+Section: tweaks
+Description: 阻止指定的应用程序重定向到App Store、Safari或其他应用程序。
+Author: Lessica <82flex@gmail.com>
+Name: No Redirect
+
+Package: com.82flex.singlemute
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlemute_1.4_iphoneos-arm64.deb
+Size: 23634
+MD5sum: b155b1c0dd3bc84366aafe580a4c1cba
+SHA1: 551c96522acceb24764d114ccd985bad5a67b89e
+SHA256: c3af54a74b6c68b641558fb7d0e2915618394f55f03682701e1cd392a0b7d6a5
+Section: Tweaks
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+
+Package: com.82flex.singlevpn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.1_iphoneos-arm64.deb
+Size: 27340
+MD5sum: 52ab07eb12a0ea094eb26850c8535e83
+SHA1: 482c95b566ce203f589a1b4ed7c8403b0d44e3ba
+SHA256: ef76166c599c47fe1f958c641fb155bc60550525e34b37b29a730d5a7e7989a3
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
+Package: com.BeanbunsHelpers.DB
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Filename: ./debs/com.BeanbunsHelpers.DB_1.0-1_iphoneos-arm64.deb
+Size: 465804
+MD5sum: 0f86436caac0547a33cc3d9299d19da2
+SHA1: 21bb4e566c27286b4eca333177b212d31e7b8672
+SHA256: d2dd7a49c8de1ee6acb08f9dbca3b12763631f627e7dd45b4fa6a3c3a37a74e5
+Section: Tweaks
+Description: 豆包助手(DouYin)抖音项目（仅供逆向学习），给自己的小抖音添加一些小功能
+Author: Beanbuns
+Name: 豆包助手-Rootless
+
+Package: com.abox.puredouban
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.abox.puredouban_1.1.0_iphoneos-arm64.deb
+Size: 15580
+MD5sum: 98bd77c4de2e40aa552d200e5a20122f
+SHA1: 5d73f307339620f99de1c22a887d63ae9155b9b3
+SHA256: f0dd0dc2741e16f45a8f12e797652808c8c4b907466539aafe7890af7fc009d2
+Section: Tweaks
+Description: 去广告，无水印保存图片
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.abox.puredouban
+Icon: https://repo.abox.plus/api/packageinfo/com.abox.puredouban/icon.png
+Name: 豆瓣净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.abox.puredouban.json
+
+Package: com.abox.puredouban
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.abox.puredouban_1.1.1_iphoneos-arm64.deb
+Size: 16332
+MD5sum: 851a53d009520285b9091e7d2131c4ea
+SHA1: 46220ce9592dead3f4b784e8d39382a607e219a4
+SHA256: 4712498695925f6469a087f2f91163f4df3a9998e90402560dd905b2465f27ed
+Section: Tweaks
+Description: 去广告，无水印保存图片
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.abox.puredouban
+Icon: https://repo.abox.plus/api/packageinfo/com.abox.puredouban/icon.png
+Name: 豆瓣净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.abox.puredouban.json
+
+Package: com.abox.puredouban
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.abox.puredouban_1.1.2_iphoneos-arm64.deb
+Size: 6720
+MD5sum: dba7a90c507e7677a685a6ad0ca63e51
+SHA1: 484dee51f258ef0e580ddc8347ad119ef91e0927
+SHA256: 9271a93967c3bcd6f64432dbd7d7d4af1f06b6cfb988fdd6607d1e7bf6707e9f
+Section: Tweaks
+Description: 去广告，无水印保存图片
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.abox.puredouban
+Icon: https://repo.abox.plus/api/packageinfo/com.abox.puredouban/icon.png
+Name: 豆瓣净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.abox.puredouban.json
+
+Package: com.amap
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.amap_1.3_iphoneos-arm64.deb
+Size: 4768
+MD5sum: ddb888624ffb7dbbcfe0059216d245f2
+SHA1: dc6862289eafd70c71465bab485bec8329af8c9d
+SHA256: 63ef286815160b0479d13d80a89cb5297e0708fe53290d2d74773aad3a09c9ac
+Section: Tweaks
+Description: 高德地图（去广告+精简）
+Author: M哥
+Name: 高德地图（去广告+精简）
+
+Package: com.anthopak.sleepizy2
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 912
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.2)
+Conflicts: com.anthopak.sleepizy
+Filename: ./debs/com.anthopak.sleepizy2_1.3.1_iphoneos-arm64.deb
+Size: 227608
+MD5sum: 31b6003ebce630bbbac02a8d3cf112d3
+SHA1: 927d328a8e09a7e62a7205a01eb1635824782eb8
+SHA256: 16fa61a0ab5143d08b2d5100920e8ba5af99b35acf8e583e3d33c9d8409f48c7
+Section: Tweaks
+Description: Fall asleep with your music! Set a timer to stop your music directly from Control Center, with many features
+Tag: cydia::commercial, compatible_min::ios14.2
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://chariz.com/buy/sleepizy2
+Icon: https://img.chariz.cloud/icon/sleepizy2/icon@3x.png
+Name: Sleepizy 2
+
+Package: com.apple.wechat.noads
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.apple.wechat.noads_1.2.0_iphoneos-arm64.deb
+Size: 22144
+MD5sum: e8248239127538731242898270e2da68
+SHA1: 14c652e9fd175f1ada0cd3929e003866b59683c8
+SHA256: e0b0feb9310de3ebe7e2b25d3c6e509022be2f0200aef8076cd31ae63d559069
+Section: Tweaks
+Description: 插件开关已纳入微信插件管理页面。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!
+Author: Apple
+Name: 微信广告净化助手_Crack
+
+Package: com.aronsz26.lockscreenrestore
+Version: 1.9.4
+Architecture: iphoneos-arm64
+Maintainer: aronsz26
+Installed-Size: 700
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.4_iphoneos-arm64.deb
+Size: 112656
+MD5sum: 3607ae47c9a0fbd109ed2a99937bf06d
+SHA1: f3ce9aba3fc922931e197ee8c67e5582526bdfd1
+SHA256: af62ea53cfcd479dd920163732d6211b4ff0f86d135d86dbc5da942364babeb7
+Section: Tweaks
+Description: iOS 16上的iOS 15风格锁屏：时钟、日期、锁头、焦点药丸、顶部通知、iOS 15音乐播放器、解锁动画、实时和动态壁纸以及iOS 15设置>壁纸页面，可下载壁纸。每个部分都可以在设置中关闭。
+Author: aronsz26
+Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
+Name: LockScreenRestore
+Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/sileo.json
+
+Package: com.aronsz26.lockscreenrestore
+Version: 1.9.4
+Architecture: iphoneos-arm64e
+Maintainer: aronsz26
+Installed-Size: 700
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.4-relaxin.deb
+Size: 116148
+MD5sum: a90890c723aa65542e9bb669323de676
+SHA1: c3843a3a5373426fe5ff4f1f388b7caf8e180ffe
+SHA256: 2cf8126c3af4778112dd8722cd097b1b909f85b80b6e00787066c866adb0247d
+Section: Tweaks
+Description: iOS 16上的iOS 15风格锁屏：时钟、日期、锁头、焦点药丸、顶部通知、iOS 15音乐播放器、解锁动画、实时和动态壁纸以及iOS 15设置>壁纸页面，可下载壁纸。每个部分都可以在设置中关闭。
+Author: aronsz26
+Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
+Name: LockScreenRestore
+Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/sileo.json
+
+Package: com.aronsz26.lockscreenrestore
+Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: aronsz26
+Installed-Size: 768
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.5_iphoneos-arm64.deb
+Size: 134774
+MD5sum: 3bcc50cc5d5a94b1c9c80839705a599f
+SHA1: fed00c4ce9e82cf8805abe61011e419fc3401979
+SHA256: b1ffc74680310793c7311219ba260b6729429db5559e123bfe01b72f3df045bf
+Section: Tweaks
+Description: iOS 15 style lock screen on iOS 16: clock, date, padlock, Focus pill, notifications from the top, iOS 15 music player, unlock animation, iOS 15 icon label shadows, live and dynamic wallpapers and the iOS 15 Settings > Wallpaper page with wallpaper downloads. Each part can be switched off in Settings.
+Author: aronsz26
+Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
+Name: LockScreenRestore
+Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/sileo.json
+
+Package: com.aronsz26.lockscreenrestore
+Version: 1.9.5
+Architecture: iphoneos-arm64e
+Maintainer: aronsz26
+Installed-Size: 768
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.5_iphoneos-arm64e.deb
+Size: 137536
+MD5sum: 6cd006c19f1a8f81cc7cabd409624705
+SHA1: a369773e77038344e923ee3e4fc4927258e1fbf5
+SHA256: 02c95051907cc4710255c3dd4a54e1ce196373e704514ebf77d7f87158ca8552
+Section: Tweaks
+Description: iOS 15 style lock screen on iOS 16: clock, date, padlock, Focus pill, notifications from the top, iOS 15 music player, unlock animation, iOS 15 icon label shadows, live and dynamic wallpapers and the iOS 15 Settings > Wallpaper page with wallpaper downloads. Each part can be switched off in Settings.
+Author: aronsz26
+Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
+Name: LockScreenRestore
+Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/sileo.json
+
+Package: com.autounlockface
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.autounlockface_1.1_iphoneos-arm64.deb
+Size: 3088
+MD5sum: 6b35c2246409f0ffca993492593cc715
+SHA1: e7cd91e05508dd52ab46d8736bdd322819349353
+SHA256: 1f1463bb7ae8ade2a5d24f638b755167ecbd71464b2ef289b1c2deaa21372495
+Section: Tweaks
+Description: 自动面容ID解锁，解锁后直接进入主屏幕、隐藏解锁图标、解锁延迟最小
+Author: M哥
+Name: 自动面容ID解锁-rootless
+
+Package: com.bi8abo.dingtalk
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Bi8_aBo
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: ./debs/com.bi8abo.dingtalk_1.1.0_iphoneos-arm64.deb
+Size: 60842
+MD5sum: be2748ce8656c58f1a522e1d25e53152
+SHA1: 12ee88c59538e2ec9637a4c30dd9a44c81c618a8
+SHA256: 7d1294589e9e78939aa72ae4896bfcde7be15d80f139830b74de526b83ca2b65
+Section: Tweaks
+Description: 支持位置、WIFI、拍照打卡！（未越狱机器请安装ipa：http://xz.51y.club/dingtalk.ipa ） 问题反馈微信：Bi8_aBo
+Author: Bi8_aBo
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.bi8abo.dingtalk
+Icon: https://repo.abox.plus/api/packageinfo/com.bi8abo.dingtalk/icon.png
+Name: 钉钉助手v3-Rootless
+Sileodepiction: https://repo.abox.plus/depictions/native/com.bi8abo.dingtalk.json
+
+Package: com.bocmbci
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.bocmbci_1.0_iphoneos-arm64.deb
+Size: 4160
+MD5sum: 0f88556a98840f87e9182a0bd2531f5e
+SHA1: aa57e57eb17936d922873b25db96fb572a00eb37
+SHA256: 9cf98762a110695b1e7cecab4b618b8c2763da72d19bcc23d34cc38fd827608c
+Section: Tweaks
+Description: 中国银行去广告、精简。仅支持8.0以下版本
+Author: M哥
+Name: 中国银行NoAd-rootless
+
+Package: com.chinamobile
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.chinamobile_1.0_iphoneos-arm64.deb
+Size: 2548
+MD5sum: d43d3d5c777c65c3fbd6ef5c18d5eb65
+SHA1: bdb19d68797fafc60a75d731737d618b1cccf45f
+SHA256: d3c86c6448d818ff473389fd5a2931c05f80f6e0f0183423509187ebc80ad873
+Section: Tweaks
+Description: 中国移动去广告
+Author: M哥
+Name: 中国移动NoAd-rootless
+
+Package: com.chinaunicom
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.chinaunicom_1.0_iphoneos-arm64.deb
+Size: 2788
+MD5sum: 29b750b69d15ea3f70a7c721c5657408
+SHA1: bffaf1dbdb9bd6b2bbcfb9590711377734357480
+SHA256: 7ddf22de8e99387a7d8d1514a20deac0b967eb45169ba2a98303c9f819cc78fb
+Section: Tweaks
+Description: 中国联通去广告
+Author: M哥
+Name: 中国联通NoAd-rootless
+
 Package: com.dao.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64
