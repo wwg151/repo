@@ -1,4 +1,5 @@
 {"events":[
+{"type":"added","date":"2026-11-12 05:52","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-12 05:36","package":"com.mg.adskip_1.0.18_iphoneos-arm64-rootless","version":""},
 {"type":"added","date":"2026-11-12 05:36","package":"com.mg.adskip_1.0.18_iphoneos-arm64e-roothide","version":""},
 {"type":"added","date":"2026-11-12 05:27","package":"com.mg.adskip_1.0.18_iphoneos-arm64-rootless","version":""},
@@ -47,6 +48,5 @@
 {"type":"added","date":"2026-11-12 13:05","package":"senri_1.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"settingsbuttons-rootless_1.7_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 13:05","package":"settingsrevamp_2.1.0","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"sileo_2.5-11","version":""},
-{"type":"added","date":"2026-11-12 13:05","package":"siri_3.1.1-9_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 13:05","package":"sileo_2.5-11","version":""}
 ]}
