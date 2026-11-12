@@ -2875,6 +2875,980 @@ Description: 买单吧去启动广告
 Author: M哥
 Name: 买单吧NoAd-rootless
 
+Package: com.mg.adskip
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 500
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.0_iphoneos-arm64e-roothide.deb
+Size: 70804
+MD5sum: 0274f6dc19afb56c16814d08b3e09a3f
+SHA1: 5833d1496bd5b8a5444601cef72e870d8d47664e
+SHA256: 06410bf3509f8cc96c9f6899c41b66c4565f1d4c44ea97f1f37b767c37be08c3
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 500
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.0_iphoneos-arm64-rootless.deb
+Size: 70930
+MD5sum: 20d51545eb192b0fbfbccb700d05f284
+SHA1: b80d65f00bfb41778d726dc451425b4711ad9c40
+SHA256: ff2ca75a7420aa345d2cdd6971bcf894cda6a28b305c0853024a6f965e6bfc56
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.2_iphoneos-arm64-rootless.deb
+Size: 75274
+MD5sum: d474d87c50479330803f4a4bd92797e4
+SHA1: a21373153b600264370389ea97a57c84aa177dc7
+SHA256: 48ad7371b3fb44d9dc581858fa850272a15d4ebf8c200c8625447e97b0f6134b
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide。
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.2_iphoneos-arm64e-roothide.deb
+Size: 75106
+MD5sum: 7b0c8567b48c502bd26c9d48b2c77c07
+SHA1: b6acb9029e212f4609a73d42a16d16bcf97a42c1
+SHA256: 77c05ec0209870bcb64baed891dd645c1faba535c50a6ac61dad327646ad37f6
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide。
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.4_iphoneos-arm64-rootless.deb
+Size: 76616
+MD5sum: 4c4858c69d09989d62daae44a22a34c2
+SHA1: 6c786b0e831ea91a8ecd40227561863ee4f2ed69
+SHA256: 96cb36f61ef9d6a720773783a551dc647a603aedac4d3feca7d5dbe5fe11bc1e
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.4_iphoneos-arm64e-roothide.deb
+Size: 76666
+MD5sum: 80f91d38cecbc14dbb4ec9c4bc0449d8
+SHA1: 7776d2d2e4b95423cac813511cca2db36196fe3f
+SHA256: 7005c40bfbedd3f73ae9e61cf52027c662d4b7555c1c210d16ca54a6b05f3c0a
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.5_iphoneos-arm64e-roothide.deb
+Size: 77440
+MD5sum: 91f8843e1a0e580bab1e693cd3c6663d
+SHA1: d30737f7716602167af7026d55e0b687dde1cb4f
+SHA256: 313fc06a240e1797c7450a679b3dbfa96958e2cf01b355f2b52afca66b671e73
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide。
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.5_iphoneos-arm64-rootless.deb
+Size: 77474
+MD5sum: d7ce7e7fd49fd531004b6dfecc545e09
+SHA1: 987eb6ccebea9ba5b74258296809332d675a9a5e
+SHA256: a03bcbcd6a1c6e1ac053febd62856476065776d5a8a7d7bf33eb9736cb863916
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide。
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.6_iphoneos-arm64e-roothide.deb
+Size: 78236
+MD5sum: ccad9a3de788e3055f62453d1d37fa2f
+SHA1: 74224071a9d34cd55877db39dbf2fbd232b89c84
+SHA256: 15e902f4cc90e212783ba8213dfb7448e716c7f4fd8bb7f5ae2d9b45bdf5b711
+Section: Tweaks
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
+Author: M哥
+Name: 广告跳过
+Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
+
+Package: com.mg.adskip
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.6_iphoneos-arm64-rootless.deb
+Size: 78230
+MD5sum: d0141cd77a541b6705251d1d837da808
+SHA1: 0c1d9ede0e091cd4207bf89eb376e774fd01b40e
+SHA256: 83dbc7a1ac3c016b36d8376b5dd10b2ec5a1af8d3d0d5c4175a01c6dd77452ac
+Section: Tweaks
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
+Author: M哥
+Name: 广告跳过
+Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
+
+Package: com.mg.adskip
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.7_iphoneos-arm64e-roothide.deb
+Size: 83054
+MD5sum: e5831fae93d2c1ab8dff5b2b74a3f314
+SHA1: 2db13282d923fa4a97ffa61d65ad262443c8d5d3
+SHA256: f9ed74e169087ad5f68e67622aec7eadd1f7b05fed499ff83f7f437654bdb29e
+Section: Tweaks
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
+Author: M哥
+Name: 广告跳过
+Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
+
+Package: com.mg.adskip
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.7_iphoneos-arm64-rootless.deb
+Size: 83170
+MD5sum: 8af2f1067fdcfee2d2439385eb344e0f
+SHA1: e7c02bc9b35f0dc7fc80d4bda9b803388e7e1baa
+SHA256: 0725bbdbf81056d096cc9ec56ded11b8cfc3868d35c2c490e03ee000c35682c5
+Section: Tweaks
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
+Author: M哥
+Name: 广告跳过
+Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
+
+Package: com.mg.adskip
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 580
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.8_iphoneos-arm64e-roothide.deb
+Size: 89432
+MD5sum: 31e5c0b821a05700b2b82ec2d950b3fc
+SHA1: 4e3f6695b459d727cfaf85fc2905bbbd11514da2
+SHA256: 1a3644844ba079ef03dd5ce7af490934d819d31f7022fee2eae2e8dcff3fca75
+Section: Tweaks
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
+Author: M哥
+Name: 广告跳过
+Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
+
+Package: com.mg.adskip
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 580
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.8_iphoneos-arm64-rootless.deb
+Size: 89582
+MD5sum: 3b4ed3d0e31d1d93735f47f3c4b7ce2a
+SHA1: 9523c9aa1825e7831ea6d896cb99706a03ec635a
+SHA256: d38799e4d78210fe7c93926b33607011d11f8561a48077321f6871b3769da845
+Section: Tweaks
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
+Author: M哥
+Name: 广告跳过
+Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
+
+Package: com.mg.dsx
+Version: 0.5.8
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mg.dsx_0.5.8_iphoneos-arm64.deb
+Size: 6060
+MD5sum: 5962fa141640a35f5542fe7f22853858
+SHA1: 11ef3cb4f08af0184f55669e0b4c4373af0658e8
+SHA256: 88b9205c5c3503c38ebed8d9a0d47af7ff176755d1633588c8e7f947fa80d1a8
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 大师兄去广告弹窗
+Author: M哥
+Name: dsx
+
+Package: com.mg.dsx
+Version: 0.5.8
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mg.dsx_0.5.8_iphoneos-arm64e.deb
+Size: 5998
+MD5sum: f653e74cce0d9adb12e8927b9784cd12
+SHA1: 0925e90ef5696e550c28c56c64ce0c8297a29a10
+SHA256: bc2724996086897d6c17cd9c204d689f0b225da8fefd0c172ce271f892a29e09
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 大师兄去广告弹窗
+Author: M哥
+Name: dsx
+
+Package: com.mg.immortal
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mg.immortal_0.1.0_iphoneos-arm64.deb
+Size: 45700
+MD5sum: 43f59637fd5040f2eb4c8c90a49f1a4b
+SHA1: dc17bad792d351d48b9c83327fcf16dfc87a7f78
+SHA256: 4ee247bc59279e5921cbecd629ac466cd3c8802dc44ee1ccd3cd07720f738d2e
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 防杀后台（注入免越狱）。悬浮按钮切换，防止 App 被系统杀后台。
+Author: M哥
+Name: 防杀后台
+
+Package: com.mg.iqiyi
+Version: 0.2.4
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mg.iqiyi_0.2.4_iphoneos-arm64e.deb
+Size: 4738
+MD5sum: 721ab3001538540987f9b20a81b138df
+SHA1: 97ffe96d132c12a695d08053104030328a9210c0
+SHA256: a9004e5b3de96154dfa4f34b0919471b86eeb685ad6963eeef1db8e4dd75a943
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 爱奇艺开屏秒进 v0.2.3（正式版）。
+Author: M哥
+Name: 爱奇艺开屏秒进
+
+Package: com.mg.iqiyi
+Version: 0.2.4
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mg.iqiyi_0.2.4_iphoneos-arm64.deb
+Size: 4796
+MD5sum: b38f3f7d11aa3ced10a6fbebd2fa2b3f
+SHA1: 1e43f943e9c5f9b978b7538dab16f16ae6b9d673
+SHA256: 8fdfd7b3b1d83662d011e556d06e93dcac6321f6f7b790119ec6c49dd065e755
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 爱奇艺开屏秒进 v0.2.3（正式版）。
+Author: M哥
+Name: 爱奇艺开屏秒进
+
+Package: com.mg.llvodprobe
+Version: 0.3.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.mg.llvodprobe_0.3.0_iphoneos-arm64.deb
+Size: 13856
+MD5sum: bb4f380048e17a6e92a05ac1896d104a
+SHA1: f5a8fd3fc37ba410eb638bc0c0b483eefd4ddfa1
+SHA256: 68c0a2a96b270f55bb1fa70643775250625e8e530fbcad4e09d51465e6a34d7a
+Section: Tweaks
+Priority: optional
+Description: 壹影视去广告弹窗
+Author: M哥
+Name: LLVodProbe
+
+Package: com.mg.llvodprobe
+Version: 0.3.0
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.mg.llvodprobe_0.3.0_iphoneos-arm64e.deb
+Size: 13844
+MD5sum: d12a152669d9ee96afb46e28b9298aba
+SHA1: f6b5387e677cc48234caad9c3e37822142abacd3
+SHA256: db0ec1adc19ce3331c21b1ddc1cf5004f846c2c23b34605c2576a6d5d139ba33
+Section: Tweaks
+Priority: optional
+Description: 壹影视去广告弹窗
+Author: M哥
+Name: LLVodProbe
+
+Package: com.mg.qmfree
+Version: 1.4.3
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.mg.qmfree_1.4.3_iphoneos-arm64e.deb
+Size: 20284
+MD5sum: f68665b619e50ed86227252c84193bf5
+SHA1: debc3cfb4d4b64bbaa13424f8b16f30fa2b8d924
+SHA256: 6d564be0e4c4f1dd840ebef31b6faa9d5e493b9bbddacd8a21a72de987f4ad33
+Section: Tweaks
+Priority: optional
+Description: 七猫小说去广告
+Author: M哥
+Name: QMFree
+
+Package: com.mg.qmfree
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.mg.qmfree_1.4.3_iphoneos-arm64.deb
+Size: 20300
+MD5sum: 550ab6b2f4825c0c419e8e8de033368e
+SHA1: 47623c370ada79dc67467b9622260544c780371a
+SHA256: b2494248e1589e879293461aa6f3dbfa1210dfd7288b29ec22b381708eb50789
+Section: Tweaks
+Priority: optional
+Description: 七猫小说去广告
+Author: M哥
+Name: QMFree
+
+Package: com.mg.qmfree
+Version: 1.7.4
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.mg.qmfree_1.7.4_iphoneos-arm64e.deb
+Size: 22264
+MD5sum: 916adbee70bafab8dec332f3a9f160a7
+SHA1: bba327a8dab7122871b774b16d07b679cfe48a03
+SHA256: 0a669a50858e5841338161b219ab95b0990b78baf9d9fecacc2420a45c0be295
+Section: Tweaks
+Priority: optional
+Description: 七猫小说去广告
+Author: M哥
+Name: QMFree
+
+Package: com.mg.qmfree
+Version: 1.7.4
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.mg.qmfree_1.7.4_iphoneos-arm64.deb
+Size: 22248
+MD5sum: e4afbaf1d8049cfd0d9cd6a54989a624
+SHA1: 9e5a9f8888a4e6932a12e178de26640aabc4d87b
+SHA256: 85b0c62c71a814102105ef5ae5085eea274195916964faa977a58d01afafc0a9
+Section: Tweaks
+Priority: optional
+Description: 七猫小说去广告
+Author: M哥
+Name: QMFree
+
+Package: com.mg.zhihu
+Version: 0.4.1
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.mg.zhihu_0.4.1_iphoneos-arm64e.deb
+Size: 4182
+MD5sum: 7f9b7f2195cd58bcfd53af08e131d82c
+SHA1: 753eb0d1a442ec7fc93aa74bc2365482f69ea7c3
+SHA256: 458c8871f32564a5b4d2f4a26e8f15d2b7f1a4ac40678d25538e9b7b9b457889
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 知乎开屏秒进 v0.4.0（轮询隐藏 LaunchAD 开屏窗口）。
+Author: M哥
+Name: 知乎
+
+Package: com.mg.zhihu
+Version: 0.4.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.mg.zhihu_0.4.1_iphoneos-arm64.deb
+Size: 4234
+MD5sum: fe0869c9da5909fa5166f0c12c40da6e
+SHA1: 4a224da01f45948c8927fb5dcb8578da97b92793
+SHA256: ffd747683c18e5d7a6836675d9edcc80c382eb2f61f74b2648215f8dec21b1ef
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 知乎开屏秒进 v0.4.0（轮询隐藏 LaunchAD 开屏窗口）。
+Author: M哥
+Name: 知乎
+
+Package: com.mlgm.idata
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 8228
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/com.mlgm.idata_1.2.1_iphoneos-arm64e.deb
+Size: 2460060
+MD5sum: a5183863376601f088ac0f62deac4f5c
+SHA1: 1832e6266ea43e6aeee3a8f11719bbda9eb3e435
+SHA256: 1cb5282fa2e0e81981ad07ff39841ebebde3094795bd75b221c5d1209bb08f98
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Maintainer: MrGcGamer
+Installed-Size: 296
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64.deb
+Size: 42992
+MD5sum: e98e7eede3cc05f081c54fbd19d3d429
+SHA1: 23c78ea1225f06de045f7e5e570a84703963e868
+SHA256: ad860c13412ded1618d96a4baaa73d6766bf1b738198f9360d9cccbb1a0ce1ad
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.mtac.ampere
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 604
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.mtac.ampere_1.4_iphoneos-arm64.deb
+Size: 101724
+MD5sum: a5357abf4fb02f5f4eb472731998af23
+SHA1: 8dec1286689d69abf7464d0693d30b2d1786441c
+SHA256: bfc5dc49ca37864d8e4dafc5c7fa345d227214d7f01fb8d93f3fca9408047eb2
+Section: Tweaks
+Description: iOS16 电池百分比风格！
+Author: MTAC
+Name: Ampere
+
+Package: com.mtac.launchlogo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 432
+Depends: firmware (>=14.0)
+Filename: ./debs/com.mtac.launchlogo_1.0_iphoneos-arm64.deb
+Size: 32876
+MD5sum: cebc110a97b56fc2ebee5d607ed0bc30
+SHA1: 9ca7262ffe9001d643a11d3b660e12841ece77c4
+SHA256: f7b85cd61ff3a2bd4498caa7c4b332854f85bdf8e900e51fb671d5dd0a1b97ff
+Section: Tweaks
+Description: 仅在注销期间，苹果启动的logo自定义设置
+Tag: purpose::extension, role::developer
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.launchlogo/icon-rounded.png
+Name: LaunchLogo
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.launchlogo.json
+
+Package: com.mtxx
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.mtxx_1.1_iphoneos-arm64.deb
+Size: 2962
+MD5sum: e380594170251f5b05cf98f3fc32b914
+SHA1: c13b6b50c19932b1df5c73c0fb65920fbe2f5eb7
+SHA256: a7ce5e7320e0ca7ff9caf1f1cd0f84b44c1b4c36c44b6346277204f217cbfa15
+Section: Tweaks
+Description: 美图秀秀去广告
+Author: M哥
+Name: 美图秀秀去广告NoAd-rootless
+
+Package: com.nahtedetihw.floatingdockxvi
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.floatingdockxvi_1.9_iphoneos-arm64.deb
+Size: 396272
+MD5sum: 9b3813d801c1759b7bc0438d4503a0b6
+SHA1: 88e2fed770c9098d5d6f0f8d49bc4d4be8ce45f8
+SHA256: d1396601f78b07e9be465ec73cb5df2a989ff4c0848de19f0d07c0df3b563caa
+Section: Tweaks
+Description: iOS 16上的浮动Dock（M哥汉化）
+Author: Ethan Whited
+Name: FloatingDockXVI
+
+Package: com.netskao.appdata
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 12532
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.3_iphoneos-arm64.deb
+Size: 4626316
+MD5sum: c259c30da025ffd154ecb96eefc2aa17
+SHA1: ad1cd050162ac7c3686d3ead6e152a04f33fc989
+SHA256: 85f42c864b90f7a2226fec98f6ae8c9d2c30bd816a38a9d9349559944f335805
+Section: Netskao-Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
+Package: com.netskao.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 13548
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5050184
+MD5sum: 0a30fdaba319fb8b77f626b2552ebf0d
+SHA1: 1f00f44e2ad3518325ed5ca430ac4502bd26d9d7
+SHA256: fc0f1648a8d3ceaac7ecbd1ae129ec1a5bec4a2421f946cd13b263c1c492d4b1
+Section: Netskao-Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemedisablebar_1.1-2_iphoneos-arm64.deb
+Size: 41244
+MD5sum: d76ea8c568bfba50cd380a2c58a310c8
+SHA1: 77bdb2feddecb19cc0c4f92f2e795b9898d6f44b
+SHA256: ba0e6fd27bc141352ac2dac28588d557d34010c984b4f8ed7ab1395537693dd4
+Section: Netskao-Tweaks
+Description: Aweme Disable Top/Bottom Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 724
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemedisablebar_1.1-5_iphoneos-arm64.deb
+Size: 306200
+MD5sum: dad47627921e01fc0fdfac50d138d46e
+SHA1: afb03b71802fd1be06e580d4a168f7d160517dca
+SHA256: 06bea127e0139a617f3a458432e8c3de44ea3168ec75c2384bded318c8c30342
+Section: Netskao-Tweaks
+Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemedisablebar_1.1-6_iphoneos-arm64.deb
+Size: 304804
+MD5sum: 3898d8c2ab3582b39ea59e1aa890d84c
+SHA1: 65a532118e342ef10111d9ab0767fa032f940295
+SHA256: 959b7aee8feebc5f785d18feb5647317218e9393d6bf9c80c62135bc94ebd836
+Section: Netskao-Tweaks
+Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 384
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.2-2_iphoneos-arm64.deb
+Size: 159448
+MD5sum: 341a81c99c5c66e26aa5e25631f7bbeb
+SHA1: d3d2ff8128113d3cb499db06860cc191ca9862e4
+SHA256: 2d3326c98626b4690acb00d802b09d81a9b65621a20ac3430dbff3fa8b47ad6d
+Section: Netskao-Tweaks
+Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 384
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.2-3_iphoneos-arm64.deb
+Size: 161692
+MD5sum: 9cc3509ee595b7de443142e5bb4c6cd3
+SHA1: 5436d0b41de5b23899c7e667e855a6e87ffe6b0a
+SHA256: 248dcee14290e59ac10b96c413c4c2734658754ce43a8714abc63591fda93429
+Section: Netskao-Tweaks
+Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 400
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.2-5_iphoneos-arm64.deb
+Size: 164848
+MD5sum: 63febd2f17e65a0c531c1633a1aa0aa4
+SHA1: 90b3de59f438c808c1caaceb992230d53924eeb9
+SHA256: 5bdcbe0dc37d06f59da9707ab349661218fc373345602833741409d0ee5a1733
+Section: Netskao-Tweaks
+Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.3-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 448
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.3-4_586101.deb
+Size: 187888
+MD5sum: 7b46e48a551512f502c0857599889258
+SHA1: da0450ea45cca949f911e0d6b2975505474b87b6
+SHA256: e1743ff4c62c5b09c4b9f2a0c3e2f714963815e514a8ad65f3c39b95a0fb46ee
+Section: Netskao-Tweaks
+Description: Aweme HomePage Full Screen. Supported only for version 34.7.0 and above
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.3-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 432
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.3-5_229813.deb
+Size: 179456
+MD5sum: 84d41b18d6c021ce45e804eceea2222e
+SHA1: 18ea7d37a3b68e4f3056529ded3d6b64e0230dbf
+SHA256: 128360f34547fea34db8e664f1ada05e9f08e0e6ab8cc6a59bf2931e6b439c1f
+Section: Netskao-Tweaks
+Description: Aweme HomePage Full Screen. Supported only for version 34.7.0 and above
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.3-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 448
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.3-6_790698.deb
+Size: 186840
+MD5sum: 32614b2dbf1471757a0eeca351dc50ee
+SHA1: 330736bad403483b1cebd11fea5d9490abb3bb1c
+SHA256: a7b7c096fb949da70bb721ccf903e36a8d52716ec5f6e05ea7da1952f33dff4d
+Section: Netskao-Tweaks
+Description: Aweme HomePage Full Screen. Supported only for version 34.7.0 and above
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
+Package: com.netskao.awemevideotime
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 124
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemevideotime_1.1-2_902987.deb
+Size: 31644
+MD5sum: 17d01017c3b93a50d43790f1c15a4fd6
+SHA1: a588d3e3b2143fc28c07538fa17625ec4ec0ca38
+SHA256: 66ba3e2d1a2a56ff4b7f157fedfe59ac99b0a14f779a09c8b65dd73ef8fb91e9
+Section: Netskao-Tweaks
+Description: Aweme Video Show Time. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeVideoTime
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemevideotime.json
+
+Package: com.netskao.dumpdecrypter
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 4308
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.dumpdecrypter_1.4-1_iphoneos-arm64.deb
+Size: 1303692
+MD5sum: c8b0772f8b0ffcf1c56062289c4b0e29
+SHA1: 7e2852f811343fd0afa5d04faa49a9d5059ea91f
+SHA256: 50b1222855a49c5a7642198e7237ea12796e5fad1b17007e824f593b78cc1b82
+Section: Netskao-Tweaks
+Description: Decrypt iOS Apps
+Author: Netskao
+Name: DumpDecrypter
+
+Package: com.netskao.dumpdecrypter
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 4324
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.dumpdecrypter_1.4-4_iphoneos-arm64.deb
+Size: 1308366
+MD5sum: 07d89d2dbbb2bd47fcf9f4e8fd386ce2
+SHA1: f9bfe66c7bf997c7b87e6987a093c2226130a30a
+SHA256: f3eb70ca27c2b8e7489e6948b2e99d73a6e3d10f0dfc2f72ac17991d85aaa435
+Section: Netskao-Tweaks
+Description: Decrypt iOS Apps and Plugins
+Author: Netskao
+Name: DumpDecrypter
+
+Package: com.netskao.noappthinning
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: ./debs/com.netskao.noappthinning_1.4_iphoneos-arm64.deb
+Size: 4324
+MD5sum: b969fad3ddc6bdd817a6ebdf7f954699
+SHA1: 75fd1bd6dd0137f88026fec5f03ce928a2b3249e
+SHA256: f1fb8ecf27eb1b936e5609ca26111f653bb520557b346c9dbc72fe7f1e5f164c
+Section: Netskao-Tweaks
+Description: Disable AppStore app thinning - by level3tjg, Disable TestFlight app thinning - by Netskao
+Author: Netskao
+Name: NoAppThinning
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.noappthinning.json
+
+Package: com.netskao.pulloverpro
+Version: 2.1.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
+Size: 695996
+MD5sum: 390f189db06ebbe7510a44a77d9e61af
+SHA1: effe0adbe57f297eb9305480982d190a6a07d7da
+SHA256: 9ba98e8ebae78f22fd5394f714834bfa011e928df80aa87854ad406dc3406900
+Section: Netskao-Tweaks
+Description: A better way to multitask! Fix support for iOS15+
+Author: c1d3r
+Name: PullOver Pro
+
+Package: com.netskao.storeswitchaccounts
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 460
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64.deb
+Size: 102596
+MD5sum: 65d696c2326580afe5b059fa10bd4608
+SHA1: d19f42275890cc90e5405db3459ecf22524a03a4
+SHA256: e2696c7ca404dacad97d18456c79510859d6de5363a950cd641f8d50d91d963a
+Section: Netskao-Tweaks
+Description: 方便登录帐户在不同地区之间切换，长按桌面AppStore图标即可切换！
+Author: Netskao
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/storeswitchaccounts.png
+Name: StoreSwitchAccounts
+
+Package: com.netskao.wcdisablehotupdates
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wcdisablehotupdates_1.1-1_iphoneos-arm64.deb
+Size: 2072
+MD5sum: 8bf9dff24655bb934bb7924b92f744ca
+SHA1: 806aaaefe4442c4720ca29cb6253c208f97801dc
+SHA256: 8f654f4700a2209b9c8f8094202e99b581687a613aa5669d6ce1d6a120414aed
+Section: Netskao-Tweaks
+Description: WeChat Disable Hot Updates
+Author: Netskao
+Name: WCDisableHotUpdates
+
+Package: com.netskao.wckeyboardhidelogos
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.netskao.wckeyboardhidelogo
+Filename: ./debs/com.netskao.wckeyboardhidelogos_1.1-1_iphoneos-arm64.deb
+Size: 2368
+MD5sum: b2357ce35b7316a7e3d25553d5a9023d
+SHA1: 7b23a3793261343a028571670fa46aa3875e15fb
+SHA256: 96d9b66d5a1a488694dd836de3225dd463f9a7bd11097fe04318c1dd48224df3
+Section: 应用破解
+Description: 隐藏微信键盘左上角标志 Logo
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCKeyboardHideLogo/icon.png
+Name: 隐藏微信键盘 Logo
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCKeyboardHideLogo/js.json
+
+Package: com.netskao.wcmypageinfocenter
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.1-8_iphoneos-arm64.deb
+Size: 65320
+MD5sum: c13da6931a752e9a4cad184db9ad24c5
+SHA1: 8d14a5154d25508a809ade56a8feda216e76897a
+SHA256: 64d861402519a9ed1d6e96881ddea0b811aabb0c89e2ef60b96a78cf28422513
+Section: Netskao-Tweaks
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Author: Netskao
+Name: WCMyPageInfoCenter
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wcmypageinfocenter.json
+
+Package: com.netskao.wcmypageinfocenter
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.2-1_iphoneos-arm64.deb
+Size: 65176
+MD5sum: de91ee6f214569636718b54c9893644a
+SHA1: bf219870287ba3e0fd5bbbc0a4cd3126130b0a22
+SHA256: dfd9c8b53508c6d491a115633ffa168bc14d77f498c448ea4764c2bd0883b5f0
+Section: Netskao-Tweaks
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Author: Netskao
+Name: WCMyPageInfoCenter
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wcmypageinfocenter.json
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1140
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-2_iphoneos-arm64.deb
+Size: 221062
+MD5sum: 37bc78df4063a1818e8f125cdb2d753f
+SHA1: ed60107119fe7ed4a53d19bd598cd0fc8a88b30e
+SHA256: 337aac6b94d8e0e35a8d4f837aa5da150f3d1f7b27913d7abffc3ad949d870cc
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1156
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-3_iphoneos-arm64.deb
+Size: 225230
+MD5sum: b10105c255bad1dd4d21958ec20b2320
+SHA1: 075ed7d92b8136d6eb35a23e7611a101750d1631
+SHA256: 4c6f9d34cd47a4d57cf4f81c7a95e6ae55702e2c76bd08f6b1916bfefc0403e1
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+Size: 522880
+MD5sum: 4b39d42872081b6271de3bd1df97866e
+SHA1: 58cbebc90903fed2ba0f9565057d823127bbf015
+SHA256: e2222ced8e50c2fcf1f0bb7506094e9a88985b5f40af445d8ccf04d106e9a0c0
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+
 Package: com.snail.byebyelaunchad.rootless
 Version: 1.3.1
 Architecture: iphoneos-arm64
