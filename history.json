@@ -1,4 +1,5 @@
 {"events":[
+{"type":"added","date":"2026-11-12 04:31","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-12 11:44","package":"Flex3beta_1_3~Beta56","version":""},
 {"type":"added","date":"2026-11-12 11:44","package":"Flex3beta_1_3~Beta92","version":""},
 {"type":"added","date":"2026-11-12 11:44","package":"exacttime_2.0.2_iphoneos-arm64","version":""},
@@ -47,6 +48,5 @@
 {"type":"added","date":"2026-11-12 11:37","package":"com.yccameraflight_1.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 11:37","package":"com.ycdock_1.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-12 11:37","package":"com.ychengtiao_1.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:37","package":"com.ycnc_1.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 11:37","package":"com.yellowdot_1.0_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 11:37","package":"com.ycnc_1.2_iphoneos-arm64","version":""}
 ]}
