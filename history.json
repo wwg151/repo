@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-12 07:56","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
+{"type":"added","date":"2026-11-12 07:56","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.nicho1asdev.bigsurcenter_1.4.4-B_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.nightwind.rootless-patcher_0.0.1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.noisyflake.velvet2_2.1.2-2_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"removed","date":"2026-11-12 15:11","package":"com.weifeng_1.2_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.wkk.didihook_1.0_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.wkk.gaodehook_1.0_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.wkk.txsphook_1.0_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.wwg135.leisu_1.0.2_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.wwg135.zhibo8_1.0.0_iphoneos-arm64","version":""}
+{"type":"removed","date":"2026-11-12 15:11","package":"com.wkk.txsphook_1.0_iphoneos-arm64","version":""}
 ]}
