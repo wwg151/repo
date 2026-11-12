@@ -5661,6 +5661,261 @@ Description: Dazz相机解锁Pro 仅支持2.8.5版本
 Author: x✨
 Name: DazzPro
 
+Package: com.xx.dyhook
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 988
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.1.6_iphoneos-arm64.deb
+Size: 271100
+MD5sum: a6ff552f852df65e77d44f3ceb445226
+SHA1: c3f96c7c10fbc30b745aa5da494d9b0195fd88c9
+SHA256: d5bd5e7f3e0e2f26efcf7cf80f7dbd3bc3ea5c280b14c889bc9600710aaf0be0
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.1.7_iphoneos-arm64.deb
+Size: 317976
+MD5sum: d3678b765af6c2bbbd6ac8361d74caab
+SHA1: 662948d5daee399ae764441b5d182fb82ab8f7fb
+SHA256: 13d56587488b55cb1d1f258291e8d5120c0bb58fc863dcc9d7eaa3f3b3d08ba8
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.1.7-1_iphoneos-arm64.deb
+Size: 315642
+MD5sum: 919b7553f4be3882fb57b5213ae3e0c4
+SHA1: 4fefdf01ad6221587aedd974ae3f1435f77efcb9
+SHA256: a4b7730ce47543f1756ed0e4cce6599fd80c8ab474a182028d0a5da78770c4e1
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.1.8_iphoneos-arm64.deb
+Size: 318396
+MD5sum: 9f497f32b5766f90d229ca2ae6ac9fdc
+SHA1: cdd81f79f051eccecee51009cce723ac4327ce03
+SHA256: fc04643d7726074cbcbabfe379418ddc19e0a8c89004363b073d62b5ae581754
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.9-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.1.9-1_iphoneos-arm64.deb
+Size: 349062
+MD5sum: ffcce483612fe363b8edc49056c0b3f7
+SHA1: 246f903bf52125ad843f698ad0f156468cb405a1
+SHA256: c8b9a7c5cd683f390ea3e4bf8f554361a13b639184faa3ea8a559e26a4142dfd
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1328
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.1_iphoneos-arm64.deb
+Size: 364352
+MD5sum: c237c722ec52f65a66ecbc87fa6be6f3
+SHA1: c870af229a9cd217ee52d0720a2820413b6538b8
+SHA256: 105aa04dfefe73555e4d3373137028160e79b924d23ae84f7995384b603e99c9
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.2_iphoneos-arm64.deb
+Size: 391888
+MD5sum: efe963c33326f3444438a6020d4ff04c
+SHA1: 60ef771a5fbbe6cfd603a584105e6901c0cccbdb
+SHA256: d3d63d71cc4455a8b244a39945ddc61c5954f6e4083b8c6235bcc8f8fc449853
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.4_iphoneos-arm64.deb
+Size: 543522
+MD5sum: e93b9e657824865e93c3a14be4ca85f4
+SHA1: 14609ed5467e9c8b8bdf9528789e9e931dccd9fb
+SHA256: 4d9fc8ec254bb690ee78a94e77e8fd2157b0f6308b7271fe83a90627a4b05a96
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1736
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.5_iphoneos-arm64.deb
+Size: 459822
+MD5sum: dc1607bd8648bcdf9b912d1f3f1ac67c
+SHA1: 09674b842a90980f612cca8d36f3730d016098d3
+SHA256: 92c331d61884fd094935a5150e12a0d896c5cb6ba24b55d44b175af90818813a
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.5-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1768
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.5-1_iphoneos-arm64.deb
+Size: 463404
+MD5sum: 7aa59b41720fb68d8a37633623ecfc39
+SHA1: c416c532a7a92cbcee2ac792cadbf4e434e807b9
+SHA256: acc2003dd68d5660ed5131e5a5e302ec0c77170a8f49232d32052cb0f438de9e
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.5-2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1768
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.5-2_iphoneos-arm64.deb
+Size: 463736
+MD5sum: 7d0f0cb08def312f939ac9c4a79d795b
+SHA1: 0fc15636950d3cde2b43d11ddfb6af414651c61f
+SHA256: 8f81393de2a8ef6643f622f6d6f9ca1b1c282bab45801e19a7acc93c17d6869c
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1816
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.6_iphoneos-arm64.deb
+Size: 628876
+MD5sum: c450baf3c9b3c0027f6e249a936c9428
+SHA1: 73ed2225cee89391f68e20be793bd3d32c0e7af5
+SHA256: 8b1eae7d41d16f321312849edccd1e2d637e977a6db1506efa12aeb5e78d5b35
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.6-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1816
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.6-1_iphoneos-arm64.deb
+Size: 634512
+MD5sum: b543a23181cd1ed6e8fe5ed8f06dfac5
+SHA1: 6d1f34202a06db3ad1a88a1b14e9870f39afe0ac
+SHA256: 0c32ef6e79a0480de846ce547c480501a06337df60ae446fe0acb40d9debbc07
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.6-2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.6-2_iphoneos-arm64.deb
+Size: 794422
+MD5sum: 02d2402fa703bdbc21419e212729f885
+SHA1: 1e7052f1b5a9949ffeb99e6dc2a2bf226e6ef73d
+SHA256: b9a03c5104faec43d2f6f157c669f4364e0bab16f90e3c5a66030483dc6617c3
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.6-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.xx.dyhook_1.2.6-3_iphoneos-arm64.deb
+Size: 811616
+MD5sum: 8670d89ba8e2d5fc6652cb882b410ece
+SHA1: fbe657b278a728258e1c30a5f55dfa5b36857ee7
+SHA256: d94994d681d308b5f4da821afd25dc94164646a0bfa6b11072a93cd0e25e2bc2
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: netskao.3dnetworkfixer-rootless
 Version: 1.1-8
 Architecture: iphoneos-arm64
