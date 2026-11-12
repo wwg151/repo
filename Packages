@@ -1866,6 +1866,68 @@ Description: 仅供学习交流，请在24内小时内自觉删除
 Author: huami
 Name: DYYY
 
+Package: com.huami.RenameWCCardCellTitle
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.RenameWCCardCellTitle_0.1-1_iphoneos-arm64.deb
+Size: 3808
+MD5sum: f4c950d18b175b287a5c058a0ed5273d
+SHA1: a611468738c727271c1cb5b1567e127023272286
+SHA256: 3b887c5ed4d45eb90bb5fb548c4270a922c364674ba746dc9957be9d6fe9376e
+Section: System
+Priority: optional
+Author: huami
+Name: RenameWCCardCellTitle
+
+Package: com.huami.WCFullSwipe
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCFullSwipe_1.1_iphoneos-arm64.deb
+Size: 4166
+MD5sum: c42f46c3d9a2b2f888b4f68ef8c2f7ea
+SHA1: c088f746f0b65849191c04c5e0e0eed8b52523e2
+SHA256: 3df022be08435e7dfba1b5e07f26ada9f224482bbe0e8dffbe5949e7a4eb7fc3
+Section: Tweaks
+Description: 为微信扩展全屏滑动返回
+Author: huami
+Name: WCFullSwipe
+
+Package: com.huami.WCPluginsOrder
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPluginsOrder_1.0-2_iphoneos-arm64.deb
+Size: 15702
+MD5sum: 84df29cffc8fffcb379fa6a7181df517
+SHA1: c10cfcd17196fe7a43155cfec3d0696af43a1de6
+SHA256: 146eded64fa7916a72d30e0b61e800887f26da327c40f0d2f302cffc92844f5a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: huami
+Name: WCPluginsOrder
+
+Package: com.huami.WCPulse
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-1_iphoneos-arm64.deb
+Size: 24640
+MD5sum: b1e6893a1e6d82e810ef74047fb45ad9
+SHA1: fa4cf11eb8e0f42ac9648348f8a5d8439becff90
+SHA256: dc251bac86abf53083832315509a453e4357fc23bd0589c869227dca70d7206a
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
 Package: com.huami.bilinoad
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -2386,6 +2448,298 @@ Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
+Package: com.huami.kbstyle
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.huami.kbstyle_1.0_iphoneos-arm64.deb
+Size: 35870
+MD5sum: 07c4245ecad41d564beb297cfc4bffe6
+SHA1: 235abfd4e95ec0dc3bece1544e542789ca66a2c3
+SHA256: 9ba2f5e5e9d887db1f3be4ed846c95c243d0a64470bf58b9f50953cc0f08564a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: huami
+Name: KBStyle
+
+Package: com.huami.wbnoads
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.wbnoads_1.0.0_iphoneos-arm64.deb
+Size: 2984
+MD5sum: 177c0ebc75955e9e0351b442dea2cce9
+SHA1: 10fd4abc6ff67fca8e0c1b8f44e3028950ccee8f
+SHA256: d08bb7c6aadbfedf5428772bddf35b8924152db2c773dd43ae6113e4eb8e013c
+Section: Tweaks
+Priority: optional
+Description: Give you a pure Weibo
+Author: huami
+Name: WBNoAds
+
+Package: com.huami.wbnoads
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.wbnoads_1.0.1_iphoneos-arm64.deb
+Size: 3368
+MD5sum: 87bcf1db3728ab4bfa7018a137869432
+SHA1: 23f67e3e81c4c5a5b2a102f4c7fd774947d2f8e5
+SHA256: 4b83cde70e2ca47cbf120a9ac5bfc490c7f7ac23d20c282034deedefec5a05a2
+Section: Tweaks
+Priority: optional
+Description: Give you a pure Weibo
+Author: huami
+Name: WBNoAds
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_2.1_iphoneos-arm64.deb
+Size: 50578
+MD5sum: 596147f6da4979e752f419bd25fe137c
+SHA1: da9d09b8f9d811364b882f7cd92bc8f50031de8a
+SHA256: 1869075182ec0e8757d0d0668353d3098d7c6beeb79a9252251479851910bcd1
+Section: Tweaks
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Name: WCNicknameAvatarStyle
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 524
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_2.2_iphoneos-arm64.deb
+Size: 76948
+MD5sum: e61e3484715e238a1f7202ac6b261c80
+SHA1: 27fbb6bf0ae9c9435c7bb6b297a8c42d9fda1e3c
+SHA256: 12c017e3274da190e94a6e631f7bbb8d8a02ac800575509335afc65845319852
+Section: Tweaks
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Name: WCNicknameAvatarStyle
+
+Package: com.huami.xhstranslator
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.xhstranslator_1.0_iphoneos-arm64.deb
+Size: 8248
+MD5sum: 1e7824f7fc6530bf1ebb6b413eb7a2ee
+SHA1: 34b382328daf4a44f3377e8f85d97ed09d050ac1
+SHA256: b1ec2427fac477bb168036d8217fc10f086bd9e69919f42ecbab62045a7e858e
+Section: Tweak
+Priority: optional
+Homepage: https://github.com/huami1314/xhstranslator
+Description: A tweak for translating content in XiaoHongShu
+Author: huami
+License: MIT
+Name: XHSTranslator
+
+Package: com.huami.xhstranslator
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.xhstranslator_1.1_iphoneos-arm64.deb
+Size: 8688
+MD5sum: 4ed8f7b9b3978670643bd56b39723d2f
+SHA1: 5c8a7785d14c0f6e023636690aef8e5bf2a5dc0b
+SHA256: b9f2acec3f2feae28acf379ae212ac069a964c22d036ebcc85cbbc4d485fc595
+Section: Tweak
+Priority: optional
+Homepage: https://github.com/huami1314/xhstranslator
+Description: A tweak for translating content in XiaoHongShu
+Author: huami
+License: MIT
+Name: XHSTranslator
+
+Package: com.ichitaso.primalfolder2
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 464
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Filename: ./debs/com.ichitaso.primalfolder2_0.1.1_iphoneos-arm64.deb
+Size: 48400
+MD5sum: eb3f72cef4395249351019ed6d5ef097
+SHA1: 2a30e8a8d0c6911cb6414ad840b7f2c51f1e566f
+SHA256: 0b294208372cc4dfce20ecd8f2ba9a493833177f3b9987fc1eb64cfad51737f9
+Section: Tweaks
+Homepage: https://ichitaso.com
+Description: Display to folder as icon and launch action for Folders
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios16.4
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+Dev: ichitaso
+Icon: https://cydia.ichitaso.com/icons/PrimalFolder2.png
+Name: PrimalFolder 2
+
+Package: com.icraze.swipeselection
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.icraze.swipeselection_2.0_iphoneos-arm64.deb
+Size: 14312
+MD5sum: 40cb345b1a80aa663a9496ab5ae48d86
+SHA1: 69917d1d817c9092766642546b42591cc2f51f08
+SHA256: 412a052cc5af484b877c627837a1d6cb00971f20ac7bc79146c80b3b88e7c885
+Section: Tweaks
+Description: Swipe along the keyboard to move the cursor and select text.
+Author: Kyle Howells
+Name: SwipeSelection
+
+Package: com.imeituan
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.imeituan_1.0_iphoneos-arm64.deb
+Size: 4972
+MD5sum: 358f1a3fda95016c97ef5cbaa6099716
+SHA1: b5cec1d2efe741cbd40320bd0c207b03770176ed
+SHA256: cc2d03c63c1b65f944144f5a01a6ededc4e4a77b87b3fd8bb33711153c1a7031
+Section: Tweaks
+Description: 美团去广告
+Author: M哥
+Name: 美团去广告
+
+Package: com.iosdump.shellx
+Version: 10.1.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 19492
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_10.1.0_iphoneos-arm64e.deb
+Size: 4279182
+MD5sum: 5d4cbb577120915643e27806a5d87da4
+SHA1: 94a548e0f9fec346a61d22a28bb96a1e8d5a8362
+SHA256: 1aaebbe94938ce18a3c181b8ffccfb2179dc5620705ab6375f5d1d854aafc92b
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 10.1.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 19496
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_10.1.0_iphoneos-arm64.deb
+Size: 4285366
+MD5sum: 1ffa55b2a7604ce74ee0c94c38161bf7
+SHA1: 0f2a947f33a01d665bf18e9658498718162327f7
+SHA256: 7a569ceedf388abb8b7e3f4da06abe1520688c61bc128a04fec304cd5de77b33
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosrxwy.bzhelper
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Maintainer: iosrxwy
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.iosrxwy.bzhelper_1.6.4_iphoneos-arm64_rootless.deb
+Size: 1781906
+MD5sum: 6b1f1f918211f73d5fd17a7a051130f3
+SHA1: 0f5b89e4d5c29dfa711b11234a3ff2504f931611
+SHA256: 36861475ee22bab0963fb43102b4a4e297d0ddc6848b3792107561d235774863
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iosrxwy
+Name: ADSpeed
+
+Package: com.itznebbs.phoenix
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Nebbs
+Installed-Size: 528
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.itznebbs.phoenix_1.3.1_iphoneos-arm64.deb
+Size: 65826
+MD5sum: ce2ec718642f071078cd26bdad674d8f
+SHA1: 4f7be277f6ec58b3de2168a5f3de91f7a017983b
+SHA256: 5c14cb17df9a69adbbfd09c86d67216de7688f2fe060a4649701a11f3e649466
+Section: Development
+Description: Collection of classes used in my tweaks.
+Author: Nebbs
+Name: Phoenix
+
+Package: com.jd4iphone
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.jd4iphone_1.3_iphoneos-arm64.deb
+Size: 5464
+MD5sum: 133229afd97833770f44a86091bb87ca
+SHA1: e7861699e3dbe3b77ccf0c942445a814f0b6d674
+SHA256: 7d454bce60ad4c8e9ed02bc77f946ace74ffdf0343d91f1bfc74e07ec093913c
+Section: Tweaks
+Description: 京东去广告+精简
+Author: M哥
+Name: 京东（去广告+精简）
+
+Package: com.joshuaseltzer.sleeperx
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Joshua Seltzer <joshua.seltzer90@gmail.com>
+Installed-Size: 1788
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 16.0)
+Conflicts: org.thebigboss.sleeper, com.joshuaseltzer.sleeper
+Filename: ./debs/com.joshuaseltzer.sleeperx_1.2.4_iphoneos-arm64.deb
+Size: 153444
+MD5sum: 91f3a5a94232376a0e2f284d479be180
+SHA1: 5d31ce182ec50c3494df153883f4ec14f4040428
+SHA256: 8ec7d97f855c71a16ad1af1be61db436984c69d447c01ba04930d2f4a8e846ae
+Section: Tweaks
+Description: Set custom snooze times, skip alarms, and more with SleeperX.
+Author: Joshua Seltzer <joshua.seltzer90@gmail.com>
+Name: SleeperX (iOS 15)
+
+Package: com.kingpuffdaddi.control-center.ccvpn
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 187
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/com.kingpuffdaddi.control-center.ccvpn_1.0.6_153282.deb
+Size: 15216
+MD5sum: 92b2ebe26ff0023b260c39413cffbe80
+SHA1: 881eaeb8f9c22be798e65478940783ad672b0753
+SHA256: e65eafb89e52fef08e814323e43c1d5c7474955dc401504fd1783ff536fc6955
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: A Control Center Module to connect/disconnect VPN
+Tag: purpose::extension
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Name: CCVPN
+
 Package: com.kingpuffdaddi.control-center.ccvpn
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -2406,6 +2760,120 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Dev: kingpuffdaddi
 Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
 Name: CCVPN
+
+Package: com.lclrc.hammerit
+Version: 1.4.5
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 2344
+Depends: mobilesubstrate, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.4.5_iphoneos-arm64.deb
+Size: 459892
+MD5sum: cdcde26026b4b3337f4115c34900a422
+SHA1: ea639ccae663626ee2700cdf3d4ab95b7d7ac701
+SHA256: b771c728b99c56aa563b44e8aaf6612c27ff50c661fc0ca1e69295f5cbcc5911
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It-rootless
+
+Package: com.lclrc.hammerit
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 2288
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.4.7_iphoneos-arm64.deb
+Size: 434018
+MD5sum: 6e70e3168ef8569b35a65070fdeae15c
+SHA1: 129b0771e5da673cd416171056e532fa18e3342b
+SHA256: 8bae8b7774b839ccd204b0c37acb3a5295a1e9a8b60440173c293775e886727c
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
+Package: com.liuf.dyjc
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Depends: mobilesubstrate
+Filename: ./debs/com.liuf.dyjc_0.0.1_iphoneos-arm64.deb
+Size: 4910
+MD5sum: 351bbfdbfd8933415ac76161f7476ecc
+SHA1: da9545089e7b9526095504a59728bf658f79aad4
+SHA256: bcfecfb004efdc96c43dc0f7fc9f23e197b99aaae51f9d324e456e5401834fd1
+Section: Tweaks
+Description: 抖音检测屏蔽 i!
+Author: liuf <1602389262>
+Icon: https://huayuarc.github.io/images/douyin.png
+Name: 抖音检测屏蔽(Rootless)
+
+Package: com.liuf.jpyj
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf <(null)>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
+Size: 3688
+MD5sum: d4cca8930d0d025ad7a88f05b89fcf79
+SHA1: c7891d7a7f3a67ee10e2e797af3672c5029442d9
+SHA256: a75b1349e5ce25c6dead1943ef3420ff2424cc4edc8ee15cc312227dfb8567ef
+Section: Tweaks
+Description: 系统键盘圆角
+Author: liuf <(null)>
+Name: 系统键盘圆角
+
+Package: com.live4iphonerel
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.live4iphonerel_1.0_iphoneos-arm64.deb
+Size: 4992
+MD5sum: 5df1401758775bfdfdf70f8a4054b20e
+SHA1: 97434c630588132444de23bc6dffc1372220ae44
+SHA256: 5b1a223dee788d5ec3ca4996a95c979ffe8e7580a2c6acf191f7cbbacf0c94a1
+Section: Tweaks
+Description: 腾讯视频去广告
+Author: M哥
+Name: 腾讯视频NoAd-rootless
+
+Package: com.lockscreen
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.lockscreen_1.1_iphoneos-arm64.deb
+Size: 3396
+MD5sum: e43817cc352cc4b72dbafc658bf9b717
+SHA1: 0dfab87516a48e765058a282ecbe335bf9e525ae
+SHA256: 3ac73b51f420e721e1b8d24b8090894421cebc90dc3ce97b1670f514b7218d3e
+Section: Tweaks
+Description: 省电模式电池颜色保持原生、锁屏来电拒接按钮、去锁屏音乐控件、屏蔽屏幕截图/录屏检测、隐藏锁屏底部文字提示、禁止锁屏充电亮屏
+Author: M哥
+Name: 锁屏优化-rootless
+
+Package: com.maidanba
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.maidanba_1.0_iphoneos-arm64.deb
+Size: 2256
+MD5sum: d7e5460582c7af7735615c2ae266773b
+SHA1: a8f3255ca1b256fe7648dab754d3ac770de93dc0
+SHA256: ccdb340d15871b91ba81116755dffb37771bfd551f6a3773f71d748b0ca556f8
+Section: Tweaks
+Description: 买单吧去启动广告
+Author: M哥
+Name: 买单吧NoAd-rootless
 
 Package: com.snail.byebyelaunchad.rootless
 Version: 1.3.1
