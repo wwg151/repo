@@ -1,4 +1,5 @@
 {"events":[
+{"type":"added","date":"2026-11-13 05:25","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-13 13:06","package":"com.mg.adskip_1.2.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-13 13:06","package":"com.mg.adskip_1.2.2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-13 12:45","package":"com.mg.adskip_1.2.1_iphoneos-arm64","version":""},
@@ -47,6 +48,5 @@
 {"type":"removed","date":"2026-11-12 15:11","package":"com.sop.settingsrevamp_2.0.3_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.squidforce.disablebreadcrumb_1.0_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.squidforce.disablepastealert16_0.0.1_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.squidforce.disablepastealert16_1.0_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.squidforce.hidenotificationbadges_0.0.1_iphoneos-arm64","version":""}
+{"type":"removed","date":"2026-11-12 15:11","package":"com.squidforce.disablepastealert16_1.0_iphoneos-arm64","version":""}
 ]}
