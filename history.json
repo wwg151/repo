@@ -1,4 +1,6 @@
 {"events":[
+{"type":"removed","date":"2026-11-13 17:09","package":"com.mg.adskip_1.2.1_iphoneos-arm64","version":""},
+{"type":"removed","date":"2026-11-13 17:09","package":"com.mg.adskip_1.2.1_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-13 07:40","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-13 07:27","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-13 07:20","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
@@ -46,7 +48,5 @@
 {"type":"removed","date":"2026-11-12 15:11","package":"com.ps.polyfills_2.2.0_454356","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.qiop1379.swipeextenderx_1.6.1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.runner_1.0_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.sergy.immortalizer_2.0.1.1_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.shtm.flexibleexpression_1.2.0_173270","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.smokin1337.togglow_1.0","version":""}
+{"type":"removed","date":"2026-11-12 15:11","package":"com.sergy.immortalizer_2.0.1.1_iphoneos-arm64","version":""}
 ]}
