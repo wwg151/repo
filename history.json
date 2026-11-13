@@ -1,4 +1,5 @@
 {"events":[
+{"type":"added","date":"2026-11-13 10:16","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-13 09:42","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-13 17:09","package":"com.mg.adskip_1.2.1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-13 17:09","package":"com.mg.adskip_1.2.1_iphoneos-arm64e","version":""},
@@ -47,6 +48,5 @@
 {"type":"removed","date":"2026-11-12 15:11","package":"com.pinduoduo_1.1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.ps.githubweblegacycompat_2.2.0_393808","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.ps.polyfills_2.2.0_454356","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.qiop1379.swipeextenderx_1.6.1_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.runner_1.0_iphoneos-arm64","version":""}
+{"type":"removed","date":"2026-11-12 15:11","package":"com.qiop1379.swipeextenderx_1.6.1_iphoneos-arm64","version":""}
 ]}
