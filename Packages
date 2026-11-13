@@ -10232,16 +10232,16 @@ Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 Package: org.coolstar.sileo
 Version: 2.5.1-15
 Architecture: iphoneos-arm64e
-Maintainer: Amy While <me@anamy.gay>
+Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: ./debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
-Size: 3270076
-MD5sum: 4fde60a9b0053ebac3ab5be4d6d765af
-SHA1: 15cc05139bf915b1d6cce4543461528650778145
-SHA256: 20e7dc5bae25774a53e44441488cd6254db2f24325c78446f7bd988a39324fb6
+Size: 3274404
+MD5sum: d2355cc0b1ee69eb207ad83edcbcd261
+SHA1: 2fd358e7649aad60f2607199c72a9c84b576bdf4
+SHA256: 1f76561a6dc0eaeefd4516857ca8001c4ca9ec91fbdb7b135e94498203763118
 Section: Packaging
 Description: A modern APT package manager frontend
-Author: Amy While <me@anamy.gay>
+Author: wwg151 <wwg151@users.noreply.github.com>
 Icon: https://getsileo.app/img/icon.png
 Name: Sileo
 Sileodepiction: https://featuredpage.getsileo.app/depiction.json
