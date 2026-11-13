@@ -11530,14 +11530,14 @@ Package: wiki.qaq.apelin
 Version: 0.4.5
 Architecture: iphoneos-arm64e
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 97444
+Installed-Size: 97752
 Depends: firmware (>= 16.0), uikittools, launchctl, wiki.qaq.irisin (>= 4.7.3), wiki.qaq.fila, wiki.qaq.ighostvt (>= 1.6.19), com.icli.icli (>= 0.10.0)
 Recommends: wiki.qaq.apelin.dev.app, wiki.qaq.apelin.dev.tweak, wiki.qaq.apelin.dev.cli, wiki.qaq.apelin.dev.preferences
 Filename: ./debs/wiki.qaq.apelin_0.4.5_iphoneos-arm64e.deb
-Size: 33659874
-MD5sum: 670bcb1d21ce2ddfd4ad63bd087c0b84
-SHA1: 9e683c9922746cc415201d947a56a4f4525a77ed
-SHA256: 14fd4164adef2fac0e0057e9b10243f8a14bd4811edda8b083ba4d86ea32ed51
+Size: 33707454
+MD5sum: edc60de72f1933654805b826fab683d0
+SHA1: d0eec9cec869426c8985d8500d351dfb5324f3d6
+SHA256: dd8b1e13385aaef7efa2b836e8fbdd60df0c0cb881f9a52f4647625297d39166
 Section: Utilities
 Priority: optional
 Description: An on-device IDE where an agent writes, builds and installs tweaks, for roothide jailbreaks
@@ -11552,14 +11552,14 @@ Package: wiki.qaq.apelin
 Version: 0.4.5
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 97444
+Installed-Size: 97752
 Depends: firmware (>= 16.0), uikittools, launchctl, wiki.qaq.irisin (>= 4.7.3), wiki.qaq.fila, wiki.qaq.ighostvt (>= 1.6.19), com.icli.icli (>= 0.10.0)
 Recommends: wiki.qaq.apelin.dev.app, wiki.qaq.apelin.dev.tweak, wiki.qaq.apelin.dev.cli, wiki.qaq.apelin.dev.preferences
 Filename: ./debs/wiki.qaq.apelin_0.4.5_iphoneos-arm64.deb
-Size: 33656930
-MD5sum: c79aa5b822f138603f05d7c04a3d0f76
-SHA1: 4a06297a0abc40abb85e42236545c020a253d4ea
-SHA256: 54ee8b61ea4ba7e13563c3de842c047781919e96c757197b60d54445dad405b5
+Size: 33716566
+MD5sum: 4d177611239df263d4fc61e814cd5b3f
+SHA1: 502030f917fa7c621aaf9f8951198c0ab6780f9e
+SHA256: e474d6fb59c07015dc914f310dfeb1174d4d86c141cc25c7f8335ae0fee0eca5
 Section: Utilities
 Priority: optional
 Description: An on-device IDE where an agent writes, builds and installs tweaks, for rootless jailbreaks
