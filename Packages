@@ -11556,6 +11556,26 @@ Icon: https://owngoal-dev.github.io/Apelin/icon.png
 Name: Apelin
 Sileodepiction: https://owngoal-dev.github.io/Apelin/depiction.json
 
+Package: wiki.qaq.apelin.agent-tools.assembler
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 4020
+Depends: firmware (>= 16.0)
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.agent-tools.assembler_1.0.0_iphoneos-arm64.deb
+Size: 1028552
+MD5sum: 8a4bd32948ff92fa763e418320f1befb
+SHA1: 1d0117c871465b99c0bdbe91f0074a579161cbca
+SHA256: cd8d2a164b285588698c351964afdc815184dcd5ff0802199fcde2613eaea184
+Section: Development
+Priority: optional
+Description: An assembler tool for Apelin's agent, built on Keystone (GPLv2), for rootless jailbreaks
+ An agent tool extension for Apelin. It gives the agent one tool, assemble, which turns ARM64, ARM, Thumb or x86 assembly into machine code with Keystone. Keystone is licensed under the GNU GPL version 2, so this package ships separately from Apelin. The license, and where to get the corresponding source, are installed in usr/share/apelin/agent-tools/wiki.qaq.apelin.agent-tools.assembler/licenses under the jailbreak root.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.agent-tools.assembler.png
+Name: Apelin Assembler
+
 Package: wiki.qaq.apelin.dev.app
 Version: 0.1.1
 Architecture: iphoneos-arm64
