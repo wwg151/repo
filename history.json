@@ -1,4 +1,5 @@
 {"events":[
+{"type":"added","date":"2026-11-14 20:10","package":"wiki.qaq.apelin.dev.cli_0.1.2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-14 20:08","package":"wiki.qaq.apelin.dev.cli_0.1.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-14 20:06","package":"wiki.qaq.apelin.agent-tools.assembler_1.0.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-14 20:01","package":"wiki.qaq.apelin.agent-tools.assembler_1.0.0_iphoneos-arm64","version":""},
@@ -47,6 +48,5 @@
 {"type":"added","date":"2026-11-12 09:29","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
 {"type":"added","date":"2026-11-12 09:29","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
 {"type":"added","date":"2026-11-12 07:56","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
-{"type":"added","date":"2026-11-12 07:56","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.nicho1asdev.bigsurcenter_1.4.4-B_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-12 07:56","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""}
 ]}
