@@ -1,4 +1,8 @@
 {"events":[
+{"type":"added","date":"2026-11-14 20:14","package":"wiki.qaq.apelin.dev.preferences_0.1.3_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-14 20:14","package":"wiki.qaq.apelin.dev.preferences_0.1.3_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-14 20:14","package":"wiki.qaq.apelin.agent-tools.disassembler_1.1.0_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-14 20:13","package":"wiki.qaq.apelin.agent-tools.disassembler_1.1.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-14 20:10","package":"wiki.qaq.apelin.dev.cli_0.1.2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-14 20:08","package":"wiki.qaq.apelin.dev.cli_0.1.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-14 20:06","package":"wiki.qaq.apelin.agent-tools.assembler_1.0.0_iphoneos-arm64e","version":""},
@@ -44,9 +48,5 @@
 {"type":"added","date":"2026-11-12 09:52","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
 {"type":"added","date":"2026-11-12 09:52","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
 {"type":"added","date":"2026-11-12 09:41","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
-{"type":"added","date":"2026-11-12 09:41","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
-{"type":"added","date":"2026-11-12 09:29","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
-{"type":"added","date":"2026-11-12 09:29","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
-{"type":"added","date":"2026-11-12 07:56","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
-{"type":"added","date":"2026-11-12 07:56","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""}
+{"type":"added","date":"2026-11-12 09:41","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""}
 ]}

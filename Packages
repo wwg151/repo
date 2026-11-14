@@ -11596,6 +11596,46 @@ Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.agent-tools.assembler.png
 Name: Apelin Assembler
 
+Package: wiki.qaq.apelin.agent-tools.disassembler
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 37140
+Depends: firmware (>= 16.0)
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.agent-tools.disassembler_1.1.0_iphoneos-arm64e.deb
+Size: 1978884
+MD5sum: ddd04c5bd9cf498cc43cbaac43b04704
+SHA1: 1564efc499738a4eadb4ab3aa69a738ab89c25d2
+SHA256: 4ca1a0b3e83dee45a6d71e9bd6bc291a84277f94e8068a1a4ab79a6816b92cbe
+Section: Development
+Priority: optional
+Description: Disassembly and Mach-O symbol tools for Apelin's agent, for roothide jailbreaks
+ An agent tool extension for Apelin. It gives the agent two read-only tools: disassemble, which decodes instructions from a Mach-O binary with Capstone, and symbols, which lists a binary's symbol table. It runs as its own process and only when Apelin's agent calls it.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.agent-tools.disassembler.png
+Name: Apelin Disassembler
+
+Package: wiki.qaq.apelin.agent-tools.disassembler
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 37140
+Depends: firmware (>= 16.0)
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.agent-tools.disassembler_1.1.0_iphoneos-arm64.deb
+Size: 1980444
+MD5sum: 4ac024c4f1d3661318ee02204b3d5db4
+SHA1: 5d2f1abfe862a31fa3f34344da83da9512ca436c
+SHA256: 7c14878c65d95629e16cfde78b935c635e0a1f264ae9e78373c12107daf571b6
+Section: Development
+Priority: optional
+Description: Disassembly and Mach-O symbol tools for Apelin's agent, for rootless jailbreaks
+ An agent tool extension for Apelin. It gives the agent two read-only tools: disassemble, which decodes instructions from a Mach-O binary with Capstone, and symbols, which lists a binary's symbol table. It runs as its own process and only when Apelin's agent calls it.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.agent-tools.disassembler.png
+Name: Apelin Disassembler
+
 Package: wiki.qaq.apelin.dev.app
 Version: 0.1.1
 Architecture: iphoneos-arm64
@@ -11685,6 +11725,56 @@ Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Depiction: https://owngoal-dev.github.io/Apelin/
 Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.cli.png
 Name: Apelin Command-Line Tool Development
+
+Package: wiki.qaq.apelin.dev.preferences
+Version: 0.1.3
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 60
+Depends: wiki.qaq.apelin (>= 0.1.0), preferenceloader
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.dev.preferences_0.1.3_iphoneos-arm64e.deb
+Size: 21446
+MD5sum: 688478bcabf8da19af738aee986c95dc
+SHA1: 43eb9ebd8bca582cfb28df4f805205afb5b691e2
+SHA256: 0864027621e33917f4f77806266bec2330ebb4240c8f8a8b9d757a5c2dae7e27
+Section: Development
+Priority: optional
+Description: Settings pane templates for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package preference bundles on the device: a
+ template with a switch and a text field, the PreferenceLoader entry that
+ shows it in Settings, and declarations for the private Preferences
+ framework. Needs PreferenceLoader, which your preferred package manager
+ installs with it.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Apelin/
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
+Name: Apelin Preference Bundle Development
+
+Package: wiki.qaq.apelin.dev.preferences
+Version: 0.1.3
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 60
+Depends: wiki.qaq.apelin (>= 0.1.0), preferenceloader
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.dev.preferences_0.1.3_iphoneos-arm64.deb
+Size: 21460
+MD5sum: 872a8df845cd9d633c4fc12f74bbb629
+SHA1: 46a10b971980dcbdd4f87dbc39564d748ffdb61b
+SHA256: edfcfbc3340ff7db4a26bfbc9185aa0a78299f39e2ad30c1882134eae9dd14ed
+Section: Development
+Priority: optional
+Description: Settings pane templates for Apelin, for rootless jailbreaks
+ Lets Apelin create, build and package preference bundles on the device: a
+ template with a switch and a text field, the PreferenceLoader entry that
+ shows it in Settings, and declarations for the private Preferences
+ framework. Needs PreferenceLoader, which your preferred package manager
+ installs with it.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Apelin/
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
+Name: Apelin Preference Bundle Development
 
 Package: wiki.qaq.chromatic.rootless
 Version: 2.1-REL-1714140359.07c7d6e
