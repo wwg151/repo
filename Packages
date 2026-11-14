@@ -11776,6 +11776,54 @@ Depiction: https://owngoal-dev.github.io/Apelin/
 Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
 Name: Apelin Preference Bundle Development
 
+Package: wiki.qaq.apelin.dev.tweak
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 32
+Depends: wiki.qaq.apelin (>= 0.1.0), mobilesubstrate
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.dev.tweak_0.1.1_iphoneos-arm64.deb
+Size: 6686
+MD5sum: f1a1e351f835417da5aaf04a0a702484
+SHA1: 5df5176c41dc8637da4581fb32b572910a311dce
+SHA256: 106887dbaf7bfa5d271c48ef421ce38a509dcc2268656b90993ec27a85f78274
+Section: Development
+Priority: optional
+Description: Tweak templates and hooking headers for Apelin, for rootless jailbreaks
+ Lets Apelin create, build and package Objective-C tweaks on the device: a
+ template that hooks SpringBoard through the substrate-compatible API, the
+ headers and link stubs for that API, and the process filter. Needs an
+ injection framework, which your preferred package manager installs with it.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Apelin/
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
+Name: Apelin Tweak Development
+
+Package: wiki.qaq.apelin.dev.tweak
+Version: 0.1.1
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 32
+Depends: wiki.qaq.apelin (>= 0.1.0), mobilesubstrate
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.dev.tweak_0.1.1_iphoneos-arm64e.deb
+Size: 6560
+MD5sum: e9ab128128714bba36d81f25fd818095
+SHA1: c771e35890adecdbe7d0df9b358770073b400a60
+SHA256: 25769a3d000a723b24374e40baba51640fbe0b7710ae83b3bb480991f840eff5
+Section: Development
+Priority: optional
+Description: Tweak templates and hooking headers for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package Objective-C tweaks on the device: a
+ template that hooks SpringBoard through the substrate-compatible API, the
+ headers and link stubs for that API, and the process filter. Needs an
+ injection framework, which your preferred package manager installs with it.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Apelin/
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
+Name: Apelin Tweak Development
+
 Package: wiki.qaq.chromatic.rootless
 Version: 2.1-REL-1714140359.07c7d6e
 Architecture: iphoneos-arm64
