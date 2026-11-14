@@ -11579,6 +11579,29 @@ Depiction: https://owngoal-dev.github.io/Apelin/
 Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.app.png
 Name: Apelin App Development
 
+Package: wiki.qaq.apelin.dev.app
+Version: 0.1.1
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 76
+Depends: wiki.qaq.apelin (>= 0.1.0), uikittools
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.dev.app_0.1.1_iphoneos-arm64e.deb
+Size: 8776
+MD5sum: 575adeab65cfc7d4e95e2e9d0a55c6b3
+SHA1: 99ac815ff925c26f443dcfe0b6262b325d35a4cf
+SHA256: 40d14d4298f8d2ca6403497a89a80a385ce775f2323d6120d4d0ec026726774d
+Section: Development
+Priority: optional
+Description: UIKit app templates for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package UIKit apps on the device, installed
+ into /Applications: an Objective-C template, and a Swift one for when the
+ Swift toolchain component is set up.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Apelin/
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.app.png
+Name: Apelin App Development
+
 Package: wiki.qaq.chromatic.rootless
 Version: 2.1-REL-1714140359.07c7d6e
 Architecture: iphoneos-arm64
