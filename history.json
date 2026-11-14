@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-14 14:31","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-14 14:31","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-14 14:06","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-14 14:06","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-14 13:48","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-13 00:20","package":"com.aronsz26.lockscreenrestore_1.9.5-2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-13 00:20","package":"com.aronsz26.lockscreenrestore_1.9.5-2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-12 23:59","package":"com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-12 23:56","package":"com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-12 13:56","package":"org.coolstar.sileo_2.5.1-15_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-12 10:57","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""}
+{"type":"added","date":"2026-11-12 23:56","package":"com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64e","version":""}
 ]}
