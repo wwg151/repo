@@ -1,4 +1,5 @@
 {"events":[
+{"type":"added","date":"2026-11-14 09:17","package":"com.zero.alipayadblock_2.2-1+debug_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-13 21:46","package":"tweaktool_1.6.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-13 10:35","package":"wiki.qaq.apelin_0.4.5_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-13 10:35","package":"wiki.qaq.apelin_0.4.5_iphoneos-arm64e","version":""},
@@ -47,6 +48,5 @@
 {"type":"removed","date":"2026-11-12 15:11","package":"com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.notification_1.1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-12 15:11","package":"com.onetravel_1.0_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.opa334.trollstorehelper_2.0.14_iphoneos-arm64","version":""},
-{"type":"removed","date":"2026-11-12 15:11","package":"com.photospluss_1.0_iphoneos-arm64","version":""}
+{"type":"removed","date":"2026-11-12 15:11","package":"com.opa334.trollstorehelper_2.0.14_iphoneos-arm64","version":""}
 ]}
