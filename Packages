@@ -4848,6 +4848,40 @@ Description: 知乎开屏秒进 v0.4.0（轮询隐藏 LaunchAD 开屏窗口）�
 Author: M哥
 Name: 知乎
 
+Package: com.mlgm.filzacrack
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 204
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit (>= 5.0.0~), com.tigisoftware.filza64bit (<< 6~)
+Filename: ./debs/com.mlgm.filzacrack_1.0_iphoneos-arm64e.deb
+Size: 4736
+MD5sum: c61dc03e2f6a49987868cb4eefc4a431
+SHA1: e2d28c8aaa500e0596d012507b88f9015db60272
+SHA256: 2ad508e4917be3387a0f3bba119c16d0ac4a1e299bf0b8b6d9b7d172d9df2962
+Section: Tweaks
+Description: Filza 5.x 解锁完整版
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/FilzaCrack.png
+Name: Filza Crack
+
+Package: com.mlgm.filzapatch
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 170
+Depends: firmware (>= 15.0), com.roothide.patchloader (>= 0.0.8), roothide (>= 0.1.0)
+Conflicts: roothide.patches.filza
+Filename: ./debs/com.mlgm.filzapatch_1.0.2_iphoneos-arm64e.deb
+Size: 31896
+MD5sum: f0acc279235e086f9cf70650ea4ee811
+SHA1: 1031eac8ebdd85b96f93dce1f792ad8be16e8ce3
+SHA256: a089f74c45b337564bfba79857448a1d7a278418774527f716f61313cade2c38
+Section: Tweaks
+Description: Filza 5.x 的 RootHide 动态补丁
+Icon: https://mlgm66.github.io/icon/FilzaPatch.png
+Name: Filza Patch
+
 Package: com.mlgm.idata
 Version: 1.2.1
 Architecture: iphoneos-arm64e
@@ -6783,6 +6817,24 @@ Section: Tweaks
 Description: 淘宝去广告+精简
 Author: M哥
 Name: 淘宝（去广告+精简）
+
+Package: com.tigisoftware.filza64bit
+Version: 5.0.1-3
+Architecture: iphoneos-arm64e
+Maintainer: TIGI Software
+Installed-Size: 28616
+Depends: firmware (>= 15.0), com.mlgm.filzapatch (>= 1.0.2)
+Recommends: zip, tar
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/com.tigisoftware.filza64bit_5.0.1-3_iphoneos-arm64e.deb
+Size: 12433696
+MD5sum: fa898bbebc16480574ffcac96405a151
+SHA1: cfa5fdcfd152e76ab20b365500c3d389c44b5dfa
+SHA256: c738c1390e6c5dc73272007de958e0b3d75251d934723bf9def9b52ed14c52b3
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 15+. This version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
 
 Package: com.turann.randy420.appfetch
 Version: 0.1
