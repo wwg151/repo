@@ -10261,40 +10261,6 @@ Name: libhooker (roothide port)
 Sileodepiction: https://apt.002599.xyz/web/org.coolstar.libhooker
 
 Package: org.coolstar.sileo
-Version: 2.1.5-17
-Architecture: iphoneos-arm64
-Maintainer: wwg151 <wwg151@users.noreply.github.com>
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: ./debs/org.coolstar.sileo_2.1.5-17_iphoneos-arm64.deb
-Size: 3309328
-MD5sum: 45c22a6e14dc9c8f535a307d886b31a7
-SHA1: f1fde5bf37a5b0e710460f528d120892bf1370fd
-SHA256: 074adc0a4ec29f47559f6913900b9af60015df27d89722f0c2b576fc9ad9f8f7
-Section: Packaging
-Description: A modern APT package manager frontend
-Author: wwg151 <wwg151@users.noreply.github.com>
-Icon: https://getsileo.app/img/icon.png
-Name: Sileo
-Sileodepiction: https://featuredpage.getsileo.app/depiction.json
-
-Package: org.coolstar.sileo
-Version: 2.1.5-17
-Architecture: iphoneos-arm64e
-Maintainer: wwg151 <wwg151@users.noreply.github.com>
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: ./debs/org.coolstar.sileo_2.1.5-17_iphoneos-arm64e.deb
-Size: 3343104
-MD5sum: 153e08d2defdcfe2c943459ceff2597d
-SHA1: 86c68a73e2ed3f028e93a1d934cba2608c010f3c
-SHA256: 36309c01e66187f84215ef02557cec5fbb24e31950d95c31ea4d5358413d5021
-Section: Packaging
-Description: A modern APT package manager frontend
-Author: wwg151 <wwg151@users.noreply.github.com>
-Icon: https://getsileo.app/img/icon.png
-Name: Sileo
-Sileodepiction: https://featuredpage.getsileo.app/depiction.json
-
-Package: org.coolstar.sileo
 Version: 2.5-11
 Architecture: iphoneos-arm64e
 Maintainer: Amy While <me@anamy.gay>
