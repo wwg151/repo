@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-15 05:06","package":"org.coolstar.sileo_2.1.5-17_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-15 05:06","package":"org.coolstar.sileo_2.1.5-17_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-15 04:39","package":"org.coolstar.sileo_2.1.5-17_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-15 04:39","package":"org.coolstar.sileo_2.1.5-17_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-15 04:33","package":"org.coolstar.sileo_2.1.5-17_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-14 20:08","package":"wiki.qaq.apelin.dev.cli_0.1.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-14 20:06","package":"wiki.qaq.apelin.agent-tools.assembler_1.0.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-14 20:01","package":"wiki.qaq.apelin.agent-tools.assembler_1.0.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-14 19:56","package":"wiki.qaq.apelin.dev.app_0.1.1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-14 19:50","package":"wiki.qaq.apelin.dev.app_0.1.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-14 14:39","package":"cn.llld.ql_1.3.5_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-14 19:56","package":"wiki.qaq.apelin.dev.app_0.1.1_iphoneos-arm64e","version":""}
 ]}
