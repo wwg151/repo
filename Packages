@@ -2579,6 +2579,41 @@ Description: The most complete tweak to customize WiFi / mobile data and Bluetoo
 Author: elias
 Name: SmartNetwork iOS 15-16
 
+Package: com.example.noticelisttweak
+Version: 1.0.1~test16+h2l1
+Architecture: iphoneos-arm64e
+Maintainer: Local User
+Installed-Size: 759
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.example.noticelisttweak_1.0.1~test16+h2l1_iphoneos-arm64e.deb
+Size: 166380
+MD5sum: 8f531af584434a12fb9d08b3eb18d2cd
+SHA1: 0029468e890ca2655450b9f02427a1446eddfc9c
+SHA256: 48861d285cb74e2d924433902843c69e9c9cd574f02c5471259e3bdf4c47667f
+Section: Tweaks
+Description: RootHide notification-list, app-icon and banner dust effects; experimental device test.
+Author: Local User
+Icon: https://huayuarc.github.io/icon/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.1~test16+h2l1
+Architecture: iphoneos-arm64
+Maintainer: Local User
+Installed-Size: 759
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.example.noticelisttweak_1.0.1~test16+h2l1_iphoneos-arm64.deb
+Size: 166256
+MD5sum: 663b05512d9af9183a3b920901cdd224
+SHA1: 0ba95da5f056b653a98475f52c7db1c66288af66
+SHA256: 10de38b12dcb34f2dc8ae85a205a9f13f822dcd3a0dba217e2975e79b7890e6d
+Section: Tweaks
+Description: RootHide notification-list, app-icon and banner dust effects; experimental device test.
+Author: Local User
+Icon: https://huayuarc.github.io/icon/noticelisttweak.png
+Name: 通知消散
+
 Package: com.flex.lib
 Version: 1.0-3+debug
 Architecture: iphoneos-arm
