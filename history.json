@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-16 14:18","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-16 14:18","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-16 13:52","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-16 13:52","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-16 13:38","package":"org.coolstar.sileo_2.5.1-16_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-15 18:13","package":"org.coolstar.sileo_2.5.1_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-15 17:50","package":"org.coolstar.sileo_2.5.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-15 17:50","package":"org.coolstar.sileo_2.5.1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-15 17:30","package":"org.coolstar.sileo_2.5.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-15 17:30","package":"org.coolstar.sileo_2.5.1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-15 17:15","package":"org.coolstar.sileo_2.5.1_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-15 17:30","package":"org.coolstar.sileo_2.5.1_iphoneos-arm64","version":""}
 ]}
