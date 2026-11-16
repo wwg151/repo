@@ -4882,24 +4882,6 @@ Description: 直播吧去广告/功能增强，长按底部栏呼出设置面板
 Author: M哥
 Name: 直播吧
 
-Package: com.mg.zbb
-Version: 0.8.5
-Architecture: iphoneos-arm64
-Maintainer: M哥
-Installed-Size: 144
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.mg.zbb_0.8.5_iphoneos-arm64.deb
-Size: 27662
-MD5sum: a02e34cc75f44c8bfcaf440f32fe5293
-SHA1: 862343c52ba3f8b4081cd2a89f10545404580abc
-SHA256: a20e9eb9ffe79eb556f97ffab38997b7aa568aa1fa829d85723d9fe86c1bb923
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/wwg135
-Description: 直播吧去广告/功能增强，长按底部栏呼出设置面板。
-Author: M哥
-Name: 直播吧
-
 Package: com.mg.zhihu
 Version: 0.4.1
 Architecture: iphoneos-arm64e
