@@ -10508,10 +10508,10 @@ Architecture: iphoneos-arm64
 Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: ./debs/org.coolstar.sileo_2.5.1-16_iphoneos-arm64.deb
-Size: 3352136
-MD5sum: ecde905496472f18d0028400c88bf386
-SHA1: 22536a8870145feb9b73522d702b391fa20641d9
-SHA256: 6ca7eceeb9dde2f7c7b9fd00fe4f7f20cdfad907ee234b4bf033e9b86fff0f17
+Size: 3351524
+MD5sum: a870ed0e6a1f135282b4dbeffeaa4e6a
+SHA1: e5201e2df5fbca0f09f4e9d0765e97e1d2de9cc6
+SHA256: 208358d9e6133ff9849e0532f3d623476eac184c30333010fbd24d7c926c067f
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: wwg151 <wwg151@users.noreply.github.com>
@@ -10525,10 +10525,10 @@ Architecture: iphoneos-arm64e
 Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: ./debs/org.coolstar.sileo_2.5.1-16_iphoneos-arm64e.deb
-Size: 3387444
-MD5sum: 8aa57c8b2169fde15097c32f2b21f084
-SHA1: f51a52e4860da2c5a5d91467987c99cf154a64ed
-SHA256: 956e75f4a36bfe33844a028d440a9cf5a592d376e5086e1c08a91426355fedc2
+Size: 3391044
+MD5sum: 93d76f58cfdd5f86f1c119d16e0c1361
+SHA1: 013f55dcb45e3c906cbda3ef20f3eec30cf53e95
+SHA256: dda3c33383f94559ebf12c68d332031f16b87fda79d386a54fa704eccf13496b
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: wwg151 <wwg151@users.noreply.github.com>
