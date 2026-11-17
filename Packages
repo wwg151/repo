@@ -2217,6 +2217,38 @@ Description: 自动复制短信、系统邮件、部分主流第三方邮件的�
 Author: crctdd
 Name: Auto Copy Verify
 
+Package: com.crctdd.fileenhan
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 76
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.crctdd.fileenhan_0.0.1_iphoneos-arm64e.deb
+Size: 7538
+MD5sum: f2c7c71cf8cb2bb9f204e983e6a6cfe4
+SHA1: c6adc58e926dd33b60ee0c64c611a428713ab9ad
+SHA256: b231bb9f4bb2b640139d5391a4bcf9197e187b72ecaddc106428da8dd864dff8
+Section: Tweaks
+Description: Adds a Show Hidden Files toggle to the Files app browse menu.
+Author: crctdd
+Name: FileEnhan
+
+Package: com.crctdd.fileenhan
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.crctdd.fileenhan_0.0.1_iphoneos-arm64.deb
+Size: 9810
+MD5sum: 804f1661c6779344241e87d367d58faf
+SHA1: 9cfae29b8845f41845d940ba50e0993edc44abe5
+SHA256: 5654b95f6677a49cbb157a2494adfe6806b2681ba072ca87f60bd2e5481128e8
+Section: Tweaks
+Description: Adds a Show Hidden Files toggle to the Files app browse menu.
+Author: crctdd
+Name: FileEnhan
+
 Package: com.crctdd.stayalivelite
 Version: 0.3.2
 Architecture: iphoneos-arm64e
