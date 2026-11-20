@@ -1954,6 +1954,24 @@ Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depictio
 
 Package: com.aronsz26.lockscreenrestore
 Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: aronsz26
+Installed-Size: 768
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.5_iphoneos-arm64.deb
+Size: 134774
+MD5sum: 3bcc50cc5d5a94b1c9c80839705a599f
+SHA1: fed00c4ce9e82cf8805abe61011e419fc3401979
+SHA256: b1ffc74680310793c7311219ba260b6729429db5559e123bfe01b72f3df045bf
+Section: Tweaks
+Description: iOS 15 style lock screen on iOS 16: clock, date, padlock, Focus pill, notifications from the top, iOS 15 music player, unlock animation, iOS 15 icon label shadows, live and dynamic wallpapers and the iOS 15 Settings > Wallpaper page with wallpaper downloads. Each part can be switched off in Settings.
+Author: aronsz26
+Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
+Name: LockScreenRestore
+Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/sileo.json
+
+Package: com.aronsz26.lockscreenrestore
+Version: 1.9.5
 Architecture: iphoneos-arm64e
 Maintainer: aronsz26
 Installed-Size: 768
@@ -1972,22 +1990,20 @@ Name: LockScreenRestore
 Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/sileo.json
 
 Package: com.aronsz26.lockscreenrestore
-Version: 1.9.5
+Version: 1.9.5-1
 Architecture: iphoneos-arm64
 Maintainer: aronsz26
-Installed-Size: 768
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
-Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.5_iphoneos-arm64.deb
-Size: 134774
-MD5sum: 3bcc50cc5d5a94b1c9c80839705a599f
-SHA1: fed00c4ce9e82cf8805abe61011e419fc3401979
-SHA256: b1ffc74680310793c7311219ba260b6729429db5559e123bfe01b72f3df045bf
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64.deb
+Size: 130796
+MD5sum: eb4b4dfe015fa8dd0d7a34b9d45341ff
+SHA1: eba9eed3b19523670412e122e292baba0871c0b6
+SHA256: ac777668a4000c7e626b1edba8e50012d055beba09205eac6491ed8ff1d0c766
 Section: Tweaks
-Description: iOS 15 style lock screen on iOS 16: clock, date, padlock, Focus pill, notifications from the top, iOS 15 music player, unlock animation, iOS 15 icon label shadows, live and dynamic wallpapers and the iOS 15 Settings > Wallpaper page with wallpaper downloads. Each part can be switched off in Settings.
+Description: 在 iOS 16 上复刻 iOS 15 风格锁屏：时钟、日期、挂锁图标、专注模式胶囊提示、通知从顶部弹出、iOS15 音乐播放器、解锁动画、iOS15 图标标签阴影、实况与动态壁纸，以及带壁纸下载功能的 iOS15 样式「设置 > 墙纸」页面。所有组件均可在设置里单独关闭。.
 Author: aronsz26
-Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
 Name: LockScreenRestore
-Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/sileo.json
+Sileodepiction: https://wwg151.github.io/repo/depictions/com.aronsz26.lockscreenrestore.json
 
 Package: com.aronsz26.lockscreenrestore
 Version: 1.9.5-1
@@ -1999,22 +2015,6 @@ Size: 87088
 MD5sum: dcc9ef4ac105791acfe2b17f59e2873a
 SHA1: eb1350dcb916d842511caa019d3beda78da4d4ea
 SHA256: 4ab6f3b4f6f587f6a21cad4dd8f50ba3d5a3401ea39b30edfd77ac6dc75d2aa1
-Section: Tweaks
-Description: 在 iOS 16 上复刻 iOS 15 风格锁屏：时钟、日期、挂锁图标、专注模式胶囊提示、通知从顶部弹出、iOS15 音乐播放器、解锁动画、iOS15 图标标签阴影、实况与动态壁纸，以及带壁纸下载功能的 iOS15 样式「设置 > 墙纸」页面。所有组件均可在设置里单独关闭。.
-Author: aronsz26
-Name: LockScreenRestore
-Sileodepiction: https://wwg151.github.io/repo/depictions/com.aronsz26.lockscreenrestore.json
-
-Package: com.aronsz26.lockscreenrestore
-Version: 1.9.5-1
-Architecture: iphoneos-arm64
-Maintainer: aronsz26
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
-Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64.deb
-Size: 130796
-MD5sum: eb4b4dfe015fa8dd0d7a34b9d45341ff
-SHA1: eba9eed3b19523670412e122e292baba0871c0b6
-SHA256: ac777668a4000c7e626b1edba8e50012d055beba09205eac6491ed8ff1d0c766
 Section: Tweaks
 Description: 在 iOS 16 上复刻 iOS 15 风格锁屏：时钟、日期、挂锁图标、专注模式胶囊提示、通知从顶部弹出、iOS15 音乐播放器、解锁动画、iOS15 图标标签阴影、实况与动态壁纸，以及带壁纸下载功能的 iOS15 样式「设置 > 墙纸」页面。所有组件均可在设置里单独关闭。.
 Author: aronsz26
@@ -2219,22 +2219,6 @@ Name: Auto Copy Verify
 
 Package: com.crctdd.fileenhan
 Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: crctdd
-Installed-Size: 76
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.crctdd.fileenhan_0.0.1_iphoneos-arm64e.deb
-Size: 7538
-MD5sum: f2c7c71cf8cb2bb9f204e983e6a6cfe4
-SHA1: c6adc58e926dd33b60ee0c64c611a428713ab9ad
-SHA256: b231bb9f4bb2b640139d5391a4bcf9197e187b72ecaddc106428da8dd864dff8
-Section: Tweaks
-Description: Adds a Show Hidden Files toggle to the Files app browse menu.
-Author: crctdd
-Name: FileEnhan
-
-Package: com.crctdd.fileenhan
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: crctdd
 Installed-Size: 172
@@ -2249,21 +2233,21 @@ Description: Adds a Show Hidden Files toggle to the Files app browse menu.
 Author: crctdd
 Name: FileEnhan
 
-Package: com.crctdd.stayalivelite
-Version: 0.3.2
+Package: com.crctdd.fileenhan
+Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: crctdd
-Installed-Size: 692
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: ./debs/com.crctdd.stayalivelite_0.3.2_iphoneos-arm64e.deb
-Size: 110504
-MD5sum: 58716350ef8df0ea3d8267a02ce9e01e
-SHA1: 1f7b6df713b9b966158423b015fc2cdbcee9c725
-SHA256: ed291303ee6fedb3683de8175e54c799f01c5e73ff885340cdb4000d1f00c8b2
+Installed-Size: 76
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.crctdd.fileenhan_0.0.1_iphoneos-arm64e.deb
+Size: 7538
+MD5sum: f2c7c71cf8cb2bb9f204e983e6a6cfe4
+SHA1: c6adc58e926dd33b60ee0c64c611a428713ab9ad
+SHA256: b231bb9f4bb2b640139d5391a4bcf9197e187b72ecaddc106428da8dd864dff8
 Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Description: Adds a Show Hidden Files toggle to the Files app browse menu.
 Author: crctdd
-Name: StayAlive Lite
+Name: FileEnhan
 
 Package: com.crctdd.stayalivelite
 Version: 0.3.2
@@ -2276,6 +2260,22 @@ Size: 157864
 MD5sum: cb478413e72625f06582edb73b50e1bd
 SHA1: 0082df8f726a64393834e76a34285919967173f9
 SHA256: ce82f9cd1803195835ba65b0a72fc34139a6d4356cfc31646c040b613d628289
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 692
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.3.2_iphoneos-arm64e.deb
+Size: 110504
+MD5sum: 58716350ef8df0ea3d8267a02ce9e01e
+SHA1: 1f7b6df713b9b966158423b015fc2cdbcee9c725
+SHA256: ed291303ee6fedb3683de8175e54c799f01c5e73ff885340cdb4000d1f00c8b2
 Section: Tweaks
 Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
 Author: crctdd
@@ -4030,23 +4030,6 @@ Name: 美团去广告
 
 Package: com.iosdump.shellx
 Version: 10.1.0
-Architecture: iphoneos-arm64e
-Maintainer: iosdump
-Installed-Size: 19492
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
-Filename: ./debs/com.iosdump.shellx_10.1.0_iphoneos-arm64e.deb
-Size: 4279182
-MD5sum: 5d4cbb577120915643e27806a5d87da4
-SHA1: 94a548e0f9fec346a61d22a28bb96a1e8d5a8362
-SHA256: 1aaebbe94938ce18a3c181b8ffccfb2179dc5620705ab6375f5d1d854aafc92b
-Section: Tweaks
-Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
-Author: iosdump
-Name: SHELLX
-
-Package: com.iosdump.shellx
-Version: 10.1.0
 Architecture: iphoneos-arm64
 Maintainer: iosdump
 Installed-Size: 19496
@@ -4057,6 +4040,23 @@ Size: 4285366
 MD5sum: 1ffa55b2a7604ce74ee0c94c38161bf7
 SHA1: 0f2a947f33a01d665bf18e9658498718162327f7
 SHA256: 7a569ceedf388abb8b7e3f4da06abe1520688c61bc128a04fec304cd5de77b33
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 10.1.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 19492
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_10.1.0_iphoneos-arm64e.deb
+Size: 4279182
+MD5sum: 5d4cbb577120915643e27806a5d87da4
+SHA1: 94a548e0f9fec346a61d22a28bb96a1e8d5a8362
+SHA256: 1aaebbe94938ce18a3c181b8ffccfb2179dc5620705ab6375f5d1d854aafc92b
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
 Author: iosdump
@@ -4384,24 +4384,6 @@ Name: 买单吧NoAd-rootless
 
 Package: com.mg.adskip
 Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: M哥
-Installed-Size: 500
-Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.0.0_iphoneos-arm64-rootless.deb
-Size: 70930
-MD5sum: 20d51545eb192b0fbfbccb700d05f284
-SHA1: b80d65f00bfb41778d726dc451425b4711ad9c40
-SHA256: ff2ca75a7420aa345d2cdd6971bcf894cda6a28b305c0853024a6f965e6bfc56
-Section: Tweaks
-Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
- 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
- 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
-Author: M哥
-Name: 广告跳过
-
-Package: com.mg.adskip
-Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: M哥
 Installed-Size: 500
@@ -4419,21 +4401,22 @@ Author: M哥
 Name: 广告跳过
 
 Package: com.mg.adskip
-Version: 1.0.18
+Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: M哥
-Installed-Size: 648
+Installed-Size: 500
 Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.0.18_iphoneos-arm64-rootless.deb
-Size: 116292
-MD5sum: 112fd49b01335bacf51dfb4fb158dae0
-SHA1: e12c9493bd35597d776b862e67c99d06d1ea9ca2
-SHA256: d1613c155b1ca233a91f110a68fe8523fcb6a2ba0f6cc19e416f442125b9c5a9
+Filename: ./debs/com.mg.adskip_1.0.0_iphoneos-arm64-rootless.deb
+Size: 70930
+MD5sum: 20d51545eb192b0fbfbccb700d05f284
+SHA1: b80d65f00bfb41778d726dc451425b4711ad9c40
+SHA256: ff2ca75a7420aa345d2cdd6971bcf894cda6a28b305c0853024a6f965e6bfc56
 Section: Tweaks
-Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
 Author: M哥
 Name: 广告跳过
-Sileodepiction: https://wwg151.github.io/repo/depictions/com.mg.adskip.json
 
 Package: com.mg.adskip
 Version: 1.0.18
@@ -4453,22 +4436,21 @@ Name: 广告跳过
 Sileodepiction: https://wwg151.github.io/repo/depictions/com.mg.adskip.json
 
 Package: com.mg.adskip
-Version: 1.0.2
-Architecture: iphoneos-arm64e
+Version: 1.0.18
+Architecture: iphoneos-arm64
 Maintainer: M哥
-Installed-Size: 532
+Installed-Size: 648
 Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.0.2_iphoneos-arm64e-roothide.deb
-Size: 75106
-MD5sum: 7b0c8567b48c502bd26c9d48b2c77c07
-SHA1: b6acb9029e212f4609a73d42a16d16bcf97a42c1
-SHA256: 77c05ec0209870bcb64baed891dd645c1faba535c50a6ac61dad327646ad37f6
+Filename: ./debs/com.mg.adskip_1.0.18_iphoneos-arm64-rootless.deb
+Size: 116292
+MD5sum: 112fd49b01335bacf51dfb4fb158dae0
+SHA1: e12c9493bd35597d776b862e67c99d06d1ea9ca2
+SHA256: d1613c155b1ca233a91f110a68fe8523fcb6a2ba0f6cc19e416f442125b9c5a9
 Section: Tweaks
-Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide。
- 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
- 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
 Author: M哥
 Name: 广告跳过
+Sileodepiction: https://wwg151.github.io/repo/depictions/com.mg.adskip.json
 
 Package: com.mg.adskip
 Version: 1.0.2
@@ -4489,18 +4471,18 @@ Author: M哥
 Name: 广告跳过
 
 Package: com.mg.adskip
-Version: 1.0.4
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: M哥
 Installed-Size: 532
 Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.0.4_iphoneos-arm64e-roothide.deb
-Size: 76666
-MD5sum: 80f91d38cecbc14dbb4ec9c4bc0449d8
-SHA1: 7776d2d2e4b95423cac813511cca2db36196fe3f
-SHA256: 7005c40bfbedd3f73ae9e61cf52027c662d4b7555c1c210d16ca54a6b05f3c0a
+Filename: ./debs/com.mg.adskip_1.0.2_iphoneos-arm64e-roothide.deb
+Size: 75106
+MD5sum: 7b0c8567b48c502bd26c9d48b2c77c07
+SHA1: b6acb9029e212f4609a73d42a16d16bcf97a42c1
+SHA256: 77c05ec0209870bcb64baed891dd645c1faba535c50a6ac61dad327646ad37f6
 Section: Tweaks
-Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide。
  在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
  自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
 Author: M哥
@@ -4517,6 +4499,24 @@ Size: 76616
 MD5sum: 4c4858c69d09989d62daae44a22a34c2
 SHA1: 6c786b0e831ea91a8ecd40227561863ee4f2ed69
 SHA256: 96cb36f61ef9d6a720773783a551dc647a603aedac4d3feca7d5dbe5fe11bc1e
+Section: Tweaks
+Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
+ 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
+ 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
+Author: M哥
+Name: 广告跳过
+
+Package: com.mg.adskip
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.4_iphoneos-arm64e-roothide.deb
+Size: 76666
+MD5sum: 80f91d38cecbc14dbb4ec9c4bc0449d8
+SHA1: 7776d2d2e4b95423cac813511cca2db36196fe3f
+SHA256: 7005c40bfbedd3f73ae9e61cf52027c662d4b7555c1c210d16ca54a6b05f3c0a
 Section: Tweaks
 Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
  在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
@@ -4562,23 +4562,6 @@ Name: 广告跳过
 
 Package: com.mg.adskip
 Version: 1.0.6
-Architecture: iphoneos-arm64e
-Maintainer: M哥
-Installed-Size: 532
-Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.0.6_iphoneos-arm64e-roothide.deb
-Size: 78236
-MD5sum: ccad9a3de788e3055f62453d1d37fa2f
-SHA1: 74224071a9d34cd55877db39dbf2fbd232b89c84
-SHA256: 15e902f4cc90e212783ba8213dfb7448e716c7f4fd8bb7f5ae2d9b45bdf5b711
-Section: Tweaks
-Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
-Author: M哥
-Name: 广告跳过
-Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
-
-Package: com.mg.adskip
-Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: M哥
 Installed-Size: 532
@@ -4588,6 +4571,23 @@ Size: 78230
 MD5sum: d0141cd77a541b6705251d1d837da808
 SHA1: 0c1d9ede0e091cd4207bf89eb376e774fd01b40e
 SHA256: 83dbc7a1ac3c016b36d8376b5dd10b2ec5a1af8d3d0d5c4175a01c6dd77452ac
+Section: Tweaks
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
+Author: M哥
+Name: 广告跳过
+Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
+
+Package: com.mg.adskip
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.0.6_iphoneos-arm64e-roothide.deb
+Size: 78236
+MD5sum: ccad9a3de788e3055f62453d1d37fa2f
+SHA1: 74224071a9d34cd55877db39dbf2fbd232b89c84
+SHA256: 15e902f4cc90e212783ba8213dfb7448e716c7f4fd8bb7f5ae2d9b45bdf5b711
 Section: Tweaks
 Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
 Author: M哥
@@ -4630,23 +4630,6 @@ Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
 
 Package: com.mg.adskip
 Version: 1.0.8
-Architecture: iphoneos-arm64
-Maintainer: M哥
-Installed-Size: 580
-Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.0.8_iphoneos-arm64-rootless.deb
-Size: 89582
-MD5sum: 3b4ed3d0e31d1d93735f47f3c4b7ce2a
-SHA1: 9523c9aa1825e7831ea6d896cb99706a03ec635a
-SHA256: d38799e4d78210fe7c93926b33607011d11f8561a48077321f6871b3769da845
-Section: Tweaks
-Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
-Author: M哥
-Name: 广告跳过
-Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
-
-Package: com.mg.adskip
-Version: 1.0.8
 Architecture: iphoneos-arm64e
 Maintainer: M哥
 Installed-Size: 580
@@ -4663,21 +4646,21 @@ Name: 广告跳过
 Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
 
 Package: com.mg.adskip
-Version: 1.1.0
+Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: M哥
-Installed-Size: 648
+Installed-Size: 580
 Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.1.0_iphoneos-arm64-rootless.deb
-Size: 118174
-MD5sum: 279406e26557316964c610cc0870da9a
-SHA1: b54a9c8b4c809a443c558cc50bfa954cb8329792
-SHA256: 99a6786e3c44588cd49f3aa06d226f9767f7ce0446689a032b5956df4efebf9b
+Filename: ./debs/com.mg.adskip_1.0.8_iphoneos-arm64-rootless.deb
+Size: 89582
+MD5sum: 3b4ed3d0e31d1d93735f47f3c4b7ce2a
+SHA1: 9523c9aa1825e7831ea6d896cb99706a03ec635a
+SHA256: d38799e4d78210fe7c93926b33607011d11f8561a48077321f6871b3769da845
 Section: Tweaks
 Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
 Author: M哥
 Name: 广告跳过
-Sileodepiction: https://wwg151.github.io/repo/depictions/com.mg.adskip.json
+Sileodepiction: https://wwg135.github.io/depictions/com.mg.adskip.json
 
 Package: com.mg.adskip
 Version: 1.1.0
@@ -4697,15 +4680,16 @@ Name: 广告跳过
 Sileodepiction: https://wwg151.github.io/repo/depictions/com.mg.adskip.json
 
 Package: com.mg.adskip
-Version: 1.2.2
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: M哥
+Installed-Size: 648
 Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.2.2_iphoneos-arm64.deb
-Size: 123436
-MD5sum: d0d3e9f19f41a1bfff3687ba82bfa7b2
-SHA1: ed4cebe2bde92ab209ecd9c7d1a57ac736d38f99
-SHA256: 9ae0c25604f540f28c571f13d5edd3bcbc07579f63d9ca344e795bc973f2f5c9
+Filename: ./debs/com.mg.adskip_1.1.0_iphoneos-arm64-rootless.deb
+Size: 118174
+MD5sum: 279406e26557316964c610cc0870da9a
+SHA1: b54a9c8b4c809a443c558cc50bfa954cb8329792
+SHA256: 99a6786e3c44588cd49f3aa06d226f9767f7ce0446689a032b5956df4efebf9b
 Section: Tweaks
 Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
 Author: M哥
@@ -4728,23 +4712,21 @@ Author: M哥
 Name: 广告跳过
 Sileodepiction: https://wwg151.github.io/repo/depictions/com.mg.adskip.json
 
-Package: com.mg.dsx
-Version: 0.5.8
-Architecture: iphoneos-arm64e
+Package: com.mg.adskip
+Version: 1.2.2
+Architecture: iphoneos-arm64
 Maintainer: M哥
-Installed-Size: 88
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.mg.dsx_0.5.8_iphoneos-arm64e.deb
-Size: 5998
-MD5sum: f653e74cce0d9adb12e8927b9784cd12
-SHA1: 0925e90ef5696e550c28c56c64ce0c8297a29a10
-SHA256: bc2724996086897d6c17cd9c204d689f0b225da8fefd0c172ce271f892a29e09
+Depends: mobilesubstrate
+Filename: ./debs/com.mg.adskip_1.2.2_iphoneos-arm64.deb
+Size: 123436
+MD5sum: d0d3e9f19f41a1bfff3687ba82bfa7b2
+SHA1: ed4cebe2bde92ab209ecd9c7d1a57ac736d38f99
+SHA256: 9ae0c25604f540f28c571f13d5edd3bcbc07579f63d9ca344e795bc973f2f5c9
 Section: Tweaks
-Priority: optional
-Homepage: https://github.com/wwg135
-Description: 大师兄去广告弹窗
+Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，自动识别开屏广告跳过，系统应用不受影响；此为通用规则跳过，仅支持大多数应用跳过开屏广告，未支持跳过的等待适配。支持 rootless / RootHide
 Author: M哥
-Name: dsx
+Name: 广告跳过
+Sileodepiction: https://wwg151.github.io/repo/depictions/com.mg.adskip.json
 
 Package: com.mg.dsx
 Version: 0.5.8
@@ -4757,6 +4739,24 @@ Size: 6060
 MD5sum: 5962fa141640a35f5542fe7f22853858
 SHA1: 11ef3cb4f08af0184f55669e0b4c4373af0658e8
 SHA256: 88b9205c5c3503c38ebed8d9a0d47af7ff176755d1633588c8e7f947fa80d1a8
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 大师兄去广告弹窗
+Author: M哥
+Name: dsx
+
+Package: com.mg.dsx
+Version: 0.5.8
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mg.dsx_0.5.8_iphoneos-arm64e.deb
+Size: 5998
+MD5sum: f653e74cce0d9adb12e8927b9784cd12
+SHA1: 0925e90ef5696e550c28c56c64ce0c8297a29a10
+SHA256: bc2724996086897d6c17cd9c204d689f0b225da8fefd0c172ce271f892a29e09
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/wwg135
@@ -4784,24 +4784,6 @@ Name: 防杀后台
 
 Package: com.mg.iqiyi
 Version: 0.2.4
-Architecture: iphoneos-arm64e
-Maintainer: M哥
-Installed-Size: 88
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.mg.iqiyi_0.2.4_iphoneos-arm64e.deb
-Size: 4738
-MD5sum: 721ab3001538540987f9b20a81b138df
-SHA1: 97ffe96d132c12a695d08053104030328a9210c0
-SHA256: a9004e5b3de96154dfa4f34b0919471b86eeb685ad6963eeef1db8e4dd75a943
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/wwg135
-Description: 爱奇艺开屏秒进 v0.2.3（正式版）。
-Author: M哥
-Name: 爱奇艺开屏秒进
-
-Package: com.mg.iqiyi
-Version: 0.2.4
 Architecture: iphoneos-arm64
 Maintainer: M哥
 Installed-Size: 88
@@ -4811,6 +4793,24 @@ Size: 4796
 MD5sum: b38f3f7d11aa3ced10a6fbebd2fa2b3f
 SHA1: 1e43f943e9c5f9b978b7538dab16f16ae6b9d673
 SHA256: 8fdfd7b3b1d83662d011e556d06e93dcac6321f6f7b790119ec6c49dd065e755
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 爱奇艺开屏秒进 v0.2.3（正式版）。
+Author: M哥
+Name: 爱奇艺开屏秒进
+
+Package: com.mg.iqiyi
+Version: 0.2.4
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mg.iqiyi_0.2.4_iphoneos-arm64e.deb
+Size: 4738
+MD5sum: 721ab3001538540987f9b20a81b138df
+SHA1: 97ffe96d132c12a695d08053104030328a9210c0
+SHA256: a9004e5b3de96154dfa4f34b0919471b86eeb685ad6963eeef1db8e4dd75a943
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/wwg135
@@ -4916,24 +4916,6 @@ Name: QMFree
 
 Package: com.mg.zhihu
 Version: 0.4.1
-Architecture: iphoneos-arm64e
-Maintainer: M哥
-Installed-Size: 88
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.mg.zhihu_0.4.1_iphoneos-arm64e.deb
-Size: 4182
-MD5sum: 7f9b7f2195cd58bcfd53af08e131d82c
-SHA1: 753eb0d1a442ec7fc93aa74bc2365482f69ea7c3
-SHA256: 458c8871f32564a5b4d2f4a26e8f15d2b7f1a4ac40678d25538e9b7b9b457889
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/wwg135
-Description: 知乎开屏秒进 v0.4.0（轮询隐藏 LaunchAD 开屏窗口）。
-Author: M哥
-Name: 知乎
-
-Package: com.mg.zhihu
-Version: 0.4.1
 Architecture: iphoneos-arm64
 Maintainer: M哥
 Installed-Size: 88
@@ -4943,6 +4925,24 @@ Size: 4234
 MD5sum: fe0869c9da5909fa5166f0c12c40da6e
 SHA1: 4a224da01f45948c8927fb5dcb8578da97b92793
 SHA256: ffd747683c18e5d7a6836675d9edcc80c382eb2f61f74b2648215f8dec21b1ef
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wwg135
+Description: 知乎开屏秒进 v0.4.0（轮询隐藏 LaunchAD 开屏窗口）。
+Author: M哥
+Name: 知乎
+
+Package: com.mg.zhihu
+Version: 0.4.1
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.mg.zhihu_0.4.1_iphoneos-arm64e.deb
+Size: 4182
+MD5sum: 7f9b7f2195cd58bcfd53af08e131d82c
+SHA1: 753eb0d1a442ec7fc93aa74bc2365482f69ea7c3
+SHA256: 458c8871f32564a5b4d2f4a26e8f15d2b7f1a4ac40678d25538e9b7b9b457889
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/wwg135
@@ -10575,14 +10575,14 @@ Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: org.coolstar.sileo
 Version: 2.5.1
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: ./debs/org.coolstar.sileo_2.5.1_iphoneos-arm64e.deb
-Size: 3365388
-MD5sum: 6c5724f9851ec02f1c441d8255ea1795
-SHA1: 74505daf13ad5e7950f04f0c39f6c0360846fd90
-SHA256: f18f90c1fc1f0cfe5322038f06d2144e628f53068261144da8e28301dd7e80fb
+Filename: ./debs/org.coolstar.sileo_2.5.1_iphoneos-arm64.deb
+Size: 3328532
+MD5sum: 0883b65b6c877e798a15172ffc4490f1
+SHA1: 43a736074dff00577f908dbeb51b2134d437b938
+SHA256: 7a3fc52f4ac06c4ef9a3a5306f088f1edddc393ae247a849efa33f780ad574b9
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: wwg151 <wwg151@users.noreply.github.com>
@@ -10592,14 +10592,14 @@ Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: org.coolstar.sileo
 Version: 2.5.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: ./debs/org.coolstar.sileo_2.5.1_iphoneos-arm64.deb
-Size: 3328532
-MD5sum: 0883b65b6c877e798a15172ffc4490f1
-SHA1: 43a736074dff00577f908dbeb51b2134d437b938
-SHA256: 7a3fc52f4ac06c4ef9a3a5306f088f1edddc393ae247a849efa33f780ad574b9
+Filename: ./debs/org.coolstar.sileo_2.5.1_iphoneos-arm64e.deb
+Size: 3365388
+MD5sum: 6c5724f9851ec02f1c441d8255ea1795
+SHA1: 74505daf13ad5e7950f04f0c39f6c0360846fd90
+SHA256: f18f90c1fc1f0cfe5322038f06d2144e628f53068261144da8e28301dd7e80fb
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: wwg151 <wwg151@users.noreply.github.com>
@@ -10647,10 +10647,10 @@ Architecture: iphoneos-arm64
 Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: ./debs/org.coolstar.sileo_2.5.1-16_iphoneos-arm64.deb
-Size: 3354012
-MD5sum: d1ca62787c223eb593c9e12c13bee7c4
-SHA1: 777be2fcc572c598025cf3a48ebf99151408043a
-SHA256: 9f814d71da2a6307f11401c5936e883ccb429139c4d6acd63f9d8960b75078bb
+Size: 3356588
+MD5sum: f575514f93a77812d57d255b3f944615
+SHA1: b5383a2859420ec3ec7c8ed25552bb270a9b3901
+SHA256: 598eb0db8566658ee219e2bfb7d00c901b220c991c425c1bd20059cd4b1a7e3c
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: wwg151 <wwg151@users.noreply.github.com>
@@ -10664,10 +10664,10 @@ Architecture: iphoneos-arm64e
 Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: ./debs/org.coolstar.sileo_2.5.1-16_iphoneos-arm64e.deb
-Size: 3388052
-MD5sum: f315ca4d5fb5eb6e2418f3dbe62e2134
-SHA1: 93fab642641fc48ced4526ef5ad27bbc8425e81b
-SHA256: 3717956028e8426ed2551581426fb980e240e3d209e31f0bb3ad4d98d760a53b
+Size: 3394360
+MD5sum: e102ab761c37b4c0398dd49f6f459900
+SHA1: 4016cf46a3e09973e1e5510c8bd3fd1ef0636efb
+SHA256: 4bedcd3ffaa8291b5bab755cc342b6786d062dcdb9806abd4a3c9c0e3714a09c
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: wwg151 <wwg151@users.noreply.github.com>
@@ -11878,28 +11878,6 @@ Name: 威锋VIP_rootless
 
 Package: wiki.qaq.apelin
 Version: 0.4.5
-Architecture: iphoneos-arm64e
-Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 97768
-Depends: firmware (>= 16.0), uikittools, launchctl, wiki.qaq.irisin (>= 4.7.3), wiki.qaq.fila, wiki.qaq.ighostvt (>= 1.6.19), com.icli.icli (>= 0.10.0)
-Recommends: wiki.qaq.apelin.dev.app, wiki.qaq.apelin.dev.tweak, wiki.qaq.apelin.dev.cli, wiki.qaq.apelin.dev.preferences
-Filename: ./debs/wiki.qaq.apelin_0.4.5_iphoneos-arm64e.deb
-Size: 33715042
-MD5sum: 8dddc1d7165276ba1808df3e910d372b
-SHA1: d2131a3d788609b8bea3e5eb0aba4e7becf7a8bd
-SHA256: ff98f8fbbd43f81d0bd4aa95d429b76ac3d4fef43137076cb982f096936b1111
-Section: Utilities
-Priority: optional
-Description: An on-device IDE where an agent writes, builds and installs tweaks, for roothide jailbreaks
- Apelin is an on-device IDE for jailbroken iOS: an editor, a terminal and an agent that edits, builds, packages, installs and debugs tweaks on the device itself.
-Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Depiction: https://owngoal-dev.github.io/Apelin/
-Icon: https://owngoal-dev.github.io/Apelin/icon.png
-Name: Apelin
-Sileodepiction: https://owngoal-dev.github.io/Apelin/depiction.json
-
-Package: wiki.qaq.apelin
-Version: 0.4.5
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Installed-Size: 97768
@@ -11913,6 +11891,28 @@ SHA256: e90c3953322dfa5e212fcfa1e46c3e7f8bb7e0a4db52733dbc21ed6e91f06cf3
 Section: Utilities
 Priority: optional
 Description: An on-device IDE where an agent writes, builds and installs tweaks, for rootless jailbreaks
+ Apelin is an on-device IDE for jailbroken iOS: an editor, a terminal and an agent that edits, builds, packages, installs and debugs tweaks on the device itself.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Apelin/
+Icon: https://owngoal-dev.github.io/Apelin/icon.png
+Name: Apelin
+Sileodepiction: https://owngoal-dev.github.io/Apelin/depiction.json
+
+Package: wiki.qaq.apelin
+Version: 0.4.5
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 97768
+Depends: firmware (>= 16.0), uikittools, launchctl, wiki.qaq.irisin (>= 4.7.3), wiki.qaq.fila, wiki.qaq.ighostvt (>= 1.6.19), com.icli.icli (>= 0.10.0)
+Recommends: wiki.qaq.apelin.dev.app, wiki.qaq.apelin.dev.tweak, wiki.qaq.apelin.dev.cli, wiki.qaq.apelin.dev.preferences
+Filename: ./debs/wiki.qaq.apelin_0.4.5_iphoneos-arm64e.deb
+Size: 33715042
+MD5sum: 8dddc1d7165276ba1808df3e910d372b
+SHA1: d2131a3d788609b8bea3e5eb0aba4e7becf7a8bd
+SHA256: ff98f8fbbd43f81d0bd4aa95d429b76ac3d4fef43137076cb982f096936b1111
+Section: Utilities
+Priority: optional
+Description: An on-device IDE where an agent writes, builds and installs tweaks, for roothide jailbreaks
  Apelin is an on-device IDE for jailbroken iOS: an editor, a terminal and an agent that edits, builds, packages, installs and debugs tweaks on the device itself.
 Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Depiction: https://owngoal-dev.github.io/Apelin/
@@ -12092,28 +12092,6 @@ Name: Apelin App Development
 
 Package: wiki.qaq.apelin.dev.cli
 Version: 0.1.2
-Architecture: iphoneos-arm64e
-Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 36
-Depends: wiki.qaq.apelin (>= 0.1.0)
-Enhances: wiki.qaq.apelin
-Filename: ./debs/wiki.qaq.apelin.dev.cli_0.1.2_iphoneos-arm64e.deb
-Size: 5990
-MD5sum: 31e550523d42c6171fa0430a3fb4d2e6
-SHA1: f200628461fa8f19601b81355322b9028d03586d
-SHA256: 1963308fde6eb3922d26c20210f04872a09f29a6c3d0fb0215d6dff3e5b9cfeb
-Section: Development
-Priority: optional
-Description: Command-line tool templates for Apelin, for roothide jailbreaks
- Lets Apelin create, build and package C and Objective-C command-line tools
- on the device, installed into the bootstrap's /usr/bin.
-Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Depiction: https://owngoal-dev.github.io/Apelin/
-Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.cli.png
-Name: Apelin Command-Line Tool Development
-
-Package: wiki.qaq.apelin.dev.cli
-Version: 0.1.2
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Installed-Size: 36
@@ -12134,30 +12112,27 @@ Depiction: https://owngoal-dev.github.io/Apelin/
 Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.cli.png
 Name: Apelin Command-Line Tool Development
 
-Package: wiki.qaq.apelin.dev.preferences
-Version: 0.1.3
+Package: wiki.qaq.apelin.dev.cli
+Version: 0.1.2
 Architecture: iphoneos-arm64e
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 60
-Depends: wiki.qaq.apelin (>= 0.1.0), preferenceloader
+Installed-Size: 36
+Depends: wiki.qaq.apelin (>= 0.1.0)
 Enhances: wiki.qaq.apelin
-Filename: ./debs/wiki.qaq.apelin.dev.preferences_0.1.3_iphoneos-arm64e.deb
-Size: 21446
-MD5sum: 688478bcabf8da19af738aee986c95dc
-SHA1: 43eb9ebd8bca582cfb28df4f805205afb5b691e2
-SHA256: 0864027621e33917f4f77806266bec2330ebb4240c8f8a8b9d757a5c2dae7e27
+Filename: ./debs/wiki.qaq.apelin.dev.cli_0.1.2_iphoneos-arm64e.deb
+Size: 5990
+MD5sum: 31e550523d42c6171fa0430a3fb4d2e6
+SHA1: f200628461fa8f19601b81355322b9028d03586d
+SHA256: 1963308fde6eb3922d26c20210f04872a09f29a6c3d0fb0215d6dff3e5b9cfeb
 Section: Development
 Priority: optional
-Description: Settings pane templates for Apelin, for roothide jailbreaks
- Lets Apelin create, build and package preference bundles on the device: a
- template with a switch and a text field, the PreferenceLoader entry that
- shows it in Settings, and declarations for the private Preferences
- framework. Needs PreferenceLoader, which your preferred package manager
- installs with it.
+Description: Command-line tool templates for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package C and Objective-C command-line tools
+ on the device, installed into the bootstrap's /usr/bin.
 Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Depiction: https://owngoal-dev.github.io/Apelin/
-Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
-Name: Apelin Preference Bundle Development
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.cli.png
+Name: Apelin Command-Line Tool Development
 
 Package: wiki.qaq.apelin.dev.preferences
 Version: 0.1.3
@@ -12184,29 +12159,30 @@ Depiction: https://owngoal-dev.github.io/Apelin/
 Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
 Name: Apelin Preference Bundle Development
 
-Package: wiki.qaq.apelin.dev.tweak
-Version: 0.1.1
-Architecture: iphoneos-arm64
+Package: wiki.qaq.apelin.dev.preferences
+Version: 0.1.3
+Architecture: iphoneos-arm64e
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 32
-Depends: wiki.qaq.apelin (>= 0.1.0), mobilesubstrate
+Installed-Size: 60
+Depends: wiki.qaq.apelin (>= 0.1.0), preferenceloader
 Enhances: wiki.qaq.apelin
-Filename: ./debs/wiki.qaq.apelin.dev.tweak_0.1.1_iphoneos-arm64.deb
-Size: 6686
-MD5sum: f1a1e351f835417da5aaf04a0a702484
-SHA1: 5df5176c41dc8637da4581fb32b572910a311dce
-SHA256: 106887dbaf7bfa5d271c48ef421ce38a509dcc2268656b90993ec27a85f78274
+Filename: ./debs/wiki.qaq.apelin.dev.preferences_0.1.3_iphoneos-arm64e.deb
+Size: 21446
+MD5sum: 688478bcabf8da19af738aee986c95dc
+SHA1: 43eb9ebd8bca582cfb28df4f805205afb5b691e2
+SHA256: 0864027621e33917f4f77806266bec2330ebb4240c8f8a8b9d757a5c2dae7e27
 Section: Development
 Priority: optional
-Description: Tweak templates and hooking headers for Apelin, for rootless jailbreaks
- Lets Apelin create, build and package Objective-C tweaks on the device: a
- template that hooks SpringBoard through the substrate-compatible API, the
- headers and link stubs for that API, and the process filter. Needs an
- injection framework, which your preferred package manager installs with it.
+Description: Settings pane templates for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package preference bundles on the device: a
+ template with a switch and a text field, the PreferenceLoader entry that
+ shows it in Settings, and declarations for the private Preferences
+ framework. Needs PreferenceLoader, which your preferred package manager
+ installs with it.
 Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
 Depiction: https://owngoal-dev.github.io/Apelin/
-Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
-Name: Apelin Tweak Development
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
+Name: Apelin Preference Bundle Development
 
 Package: wiki.qaq.apelin.dev.tweak
 Version: 0.1.1
@@ -12223,6 +12199,30 @@ SHA256: 25769a3d000a723b24374e40baba51640fbe0b7710ae83b3bb480991f840eff5
 Section: Development
 Priority: optional
 Description: Tweak templates and hooking headers for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package Objective-C tweaks on the device: a
+ template that hooks SpringBoard through the substrate-compatible API, the
+ headers and link stubs for that API, and the process filter. Needs an
+ injection framework, which your preferred package manager installs with it.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Depiction: https://owngoal-dev.github.io/Apelin/
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
+Name: Apelin Tweak Development
+
+Package: wiki.qaq.apelin.dev.tweak
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 32
+Depends: wiki.qaq.apelin (>= 0.1.0), mobilesubstrate
+Enhances: wiki.qaq.apelin
+Filename: ./debs/wiki.qaq.apelin.dev.tweak_0.1.1_iphoneos-arm64.deb
+Size: 6686
+MD5sum: f1a1e351f835417da5aaf04a0a702484
+SHA1: 5df5176c41dc8637da4581fb32b572910a311dce
+SHA256: 106887dbaf7bfa5d271c48ef421ce38a509dcc2268656b90993ec27a85f78274
+Section: Development
+Priority: optional
+Description: Tweak templates and hooking headers for Apelin, for rootless jailbreaks
  Lets Apelin create, build and package Objective-C tweaks on the device: a
  template that hooks SpringBoard through the substrate-compatible API, the
  headers and link stubs for that API, and the process filter. Needs an
@@ -12254,32 +12254,6 @@ Website: https://sailyteam.github.io/Saily/index.html
 
 Package: wiki.qaq.irisin
 Version: 4.7.5
-Architecture: iphoneos-arm64e
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 23156
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.irisin_4.7.5_iphoneos-arm64e.deb
-Size: 6361976
-MD5sum: d14f8945f49c7a0c50a822ff3fcc5117
-SHA1: 51fa1c64bf9c34541b2daf5c2164c48659861c19
-SHA256: e16530092f99b14241fc8984fc392a373a45772e31e2402b3cba36389521bedb
-Section: Applications
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for roothide custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 4.7.5
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
 Installed-Size: 23156
@@ -12293,6 +12267,32 @@ Section: Applications
 Priority: optional
 Homepage: https://github.com/Lakr233/Irisin
 Description: Modern package manager for rootless custom firmware
+ Browse your repositories, install and remove packages, keep tweaks updated
+ and read every depiction, on iPhone and iPad. The app runs without root;
+ installs go through a small on-demand root daemon whose helper installs
+ packages natively and registers apps with LaunchServices itself. No dpkg,
+ no uicache.
+Author: OwnGoal Studio <no-reply@owngoal.dev>
+Depiction: https://lakr233.github.io/Irisin/
+Icon: https://lakr233.github.io/Irisin/icon.png
+Name: Irisin
+Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
+
+Package: wiki.qaq.irisin
+Version: 4.7.5
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
+Installed-Size: 23156
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.irisin_4.7.5_iphoneos-arm64e.deb
+Size: 6361976
+MD5sum: d14f8945f49c7a0c50a822ff3fcc5117
+SHA1: 51fa1c64bf9c34541b2daf5c2164c48659861c19
+SHA256: e16530092f99b14241fc8984fc392a373a45772e31e2402b3cba36389521bedb
+Section: Applications
+Priority: optional
+Homepage: https://github.com/Lakr233/Irisin
+Description: Modern package manager for roothide custom firmware
  Browse your repositories, install and remove packages, keep tweaks updated
  and read every depiction, on iPhone and iPad. The app runs without root;
  installs go through a small on-demand root daemon whose helper installs
@@ -12462,32 +12462,6 @@ Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
 
 Package: wiki.qaq.irisin
 Version: 5.0.4
-Architecture: iphoneos-arm64
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 23540
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.irisin_5.0.4_iphoneos-arm64.deb
-Size: 6459224
-MD5sum: 466a5747c79634e8332fb063c0297994
-SHA1: 20dc5581e57ae7ae6cd4a2179385cdef7399d07c
-SHA256: 9fbdb2932108d2c4f63e3adb48cfac2b6801dd91aa60c77d4332a6ccb7889e2b
-Section: Applications
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for rootless custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 5.0.4
 Architecture: iphoneos-arm64e
 Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
 Installed-Size: 23540
@@ -12501,6 +12475,32 @@ Section: Applications
 Priority: optional
 Homepage: https://github.com/Lakr233/Irisin
 Description: Modern package manager for roothide custom firmware
+ Browse your repositories, install and remove packages, keep tweaks updated
+ and read every depiction, on iPhone and iPad. The app runs without root;
+ installs go through a small on-demand root daemon whose helper installs
+ packages natively and registers apps with LaunchServices itself. No dpkg,
+ no uicache.
+Author: OwnGoal Studio <no-reply@owngoal.dev>
+Depiction: https://lakr233.github.io/Irisin/
+Icon: https://lakr233.github.io/Irisin/icon.png
+Name: Irisin
+Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
+
+Package: wiki.qaq.irisin
+Version: 5.0.4
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
+Installed-Size: 23540
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.irisin_5.0.4_iphoneos-arm64.deb
+Size: 6459224
+MD5sum: 466a5747c79634e8332fb063c0297994
+SHA1: 20dc5581e57ae7ae6cd4a2179385cdef7399d07c
+SHA256: 9fbdb2932108d2c4f63e3adb48cfac2b6801dd91aa60c77d4332a6ccb7889e2b
+Section: Applications
+Priority: optional
+Homepage: https://github.com/Lakr233/Irisin
+Description: Modern package manager for rootless custom firmware
  Browse your repositories, install and remove packages, keep tweaks updated
  and read every depiction, on iPhone and iPad. The app runs without root;
  installs go through a small on-demand root daemon whose helper installs
@@ -12566,32 +12566,6 @@ Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
 
 Package: wiki.qaq.irisin
 Version: 5.1.3
-Architecture: iphoneos-arm64e
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 23160
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.irisin_5.1.3_iphoneos-arm64e.deb
-Size: 6323232
-MD5sum: c98bce490674251d9e796fcbefc5e42b
-SHA1: d62bf5f3d8e51e64c7408d484f456234b743e093
-SHA256: c02a1df7c1f4c9e34aa7267e6ae3ab4a031a45817f6dd7cbd8c231c4e1ff2d75
-Section: Applications
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for roothide custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 5.1.3
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
 Installed-Size: 23160
@@ -12605,6 +12579,32 @@ Section: Applications
 Priority: optional
 Homepage: https://github.com/Lakr233/Irisin
 Description: Modern package manager for rootless custom firmware
+ Browse your repositories, install and remove packages, keep tweaks updated
+ and read every depiction, on iPhone and iPad. The app runs without root;
+ installs go through a small on-demand root daemon whose helper installs
+ packages natively and registers apps with LaunchServices itself. No dpkg,
+ no uicache.
+Author: OwnGoal Studio <no-reply@owngoal.dev>
+Depiction: https://lakr233.github.io/Irisin/
+Icon: https://lakr233.github.io/Irisin/icon.png
+Name: Irisin
+Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
+
+Package: wiki.qaq.irisin
+Version: 5.1.3
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
+Installed-Size: 23160
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.irisin_5.1.3_iphoneos-arm64e.deb
+Size: 6323232
+MD5sum: c98bce490674251d9e796fcbefc5e42b
+SHA1: d62bf5f3d8e51e64c7408d484f456234b743e093
+SHA256: c02a1df7c1f4c9e34aa7267e6ae3ab4a031a45817f6dd7cbd8c231c4e1ff2d75
+Section: Applications
+Priority: optional
+Homepage: https://github.com/Lakr233/Irisin
+Description: Modern package manager for roothide custom firmware
  Browse your repositories, install and remove packages, keep tweaks updated
  and read every depiction, on iPhone and iPad. The app runs without root;
  installs go through a small on-demand root daemon whose helper installs
@@ -12722,32 +12722,6 @@ Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
 
 Package: wiki.qaq.irisin
 Version: 5.1.6
-Architecture: iphoneos-arm64
-Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
-Installed-Size: 23480
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.irisin_5.1.6_iphoneos-arm64.deb
-Size: 6438356
-MD5sum: 577bf6f9db9b992a299dab3bff6ea9f9
-SHA1: 0a14e9ea4731699f460a6d379bc57e252fb86ca9
-SHA256: 700f7171283353602cae7ffa2e306ca6c16df1814a791b2026b9032973730a78
-Section: Applications
-Priority: optional
-Homepage: https://github.com/Lakr233/Irisin
-Description: Modern package manager for rootless custom firmware
- Browse your repositories, install and remove packages, keep tweaks updated
- and read every depiction, on iPhone and iPad. The app runs without root;
- installs go through a small on-demand root daemon whose helper installs
- packages natively and registers apps with LaunchServices itself. No dpkg,
- no uicache.
-Author: OwnGoal Studio <no-reply@owngoal.dev>
-Depiction: https://lakr233.github.io/Irisin/
-Icon: https://lakr233.github.io/Irisin/icon.png
-Name: Irisin
-Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
-
-Package: wiki.qaq.irisin
-Version: 5.1.6
 Architecture: iphoneos-arm64e
 Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
 Installed-Size: 23480
@@ -12761,6 +12735,32 @@ Section: Applications
 Priority: optional
 Homepage: https://github.com/Lakr233/Irisin
 Description: Modern package manager for roothide custom firmware
+ Browse your repositories, install and remove packages, keep tweaks updated
+ and read every depiction, on iPhone and iPad. The app runs without root;
+ installs go through a small on-demand root daemon whose helper installs
+ packages natively and registers apps with LaunchServices itself. No dpkg,
+ no uicache.
+Author: OwnGoal Studio <no-reply@owngoal.dev>
+Depiction: https://lakr233.github.io/Irisin/
+Icon: https://lakr233.github.io/Irisin/icon.png
+Name: Irisin
+Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
+
+Package: wiki.qaq.irisin
+Version: 5.1.6
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <no-reply@owngoal.dev>
+Installed-Size: 23480
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.irisin_5.1.6_iphoneos-arm64.deb
+Size: 6438356
+MD5sum: 577bf6f9db9b992a299dab3bff6ea9f9
+SHA1: 0a14e9ea4731699f460a6d379bc57e252fb86ca9
+SHA256: 700f7171283353602cae7ffa2e306ca6c16df1814a791b2026b9032973730a78
+Section: Applications
+Priority: optional
+Homepage: https://github.com/Lakr233/Irisin
+Description: Modern package manager for rootless custom firmware
  Browse your repositories, install and remove packages, keep tweaks updated
  and read every depiction, on iPhone and iPad. The app runs without root;
  installs go through a small on-demand root daemon whose helper installs
