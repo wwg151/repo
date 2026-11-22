@@ -12868,6 +12868,38 @@ Icon: https://lakr233.github.io/Irisin/icon.png
 Name: Irisin
 Sileodepiction: https://lakr233.github.io/Irisin/depiction.json
 
+Package: wiki.qaq.lenslock
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Lakr233 <git@qaq.wiki>
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/wiki.qaq.lenslock_0.1.0_iphoneos-arm64e.deb
+Size: 20988
+MD5sum: d1408b8c1c91ea291762168ca416e413
+SHA1: b40ea78cb33cdf3629a9b40bdc6039758ea170cc
+SHA256: 5388dd9f4db088f1a283a87929c746138374f88bcc6afe9dcf3ae8579632dce9
+Section: Tweaks
+Description: Locks the iOS Camera to the physical lens for the chosen zoom factor, disables auto-macro, and warns when too close to focus.
+Author: Lakr233 <git@qaq.wiki>
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
+Name: LensLock
+
+Package: wiki.qaq.lenslock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Lakr233 <git@qaq.wiki>
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/wiki.qaq.lenslock_0.1.0_iphoneos-arm64.deb
+Size: 28920
+MD5sum: f8ff68ef14be831a0df92eff4d0385e1
+SHA1: 7ee346b2a2ea931fc2f491d5174609bdcd82f507
+SHA256: 5ff99d35e9ffaefb4bacad0b8975e738328222bdcdc510b7c37dfbaf2993ad75
+Section: Tweaks
+Description: Locks the iOS Camera to the physical lens for the chosen zoom factor, disables auto-macro, and warns when too close to focus.
+Author: Lakr233 <git@qaq.wiki>
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
+Name: LensLock
+
 Package: willow
 Version: 1.2.14
 Architecture: iphoneos-arm64
