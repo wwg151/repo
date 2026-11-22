@@ -12348,6 +12348,38 @@ Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 Name: Saily - rootless (zp)
 Website: https://sailyteam.github.io/Saily/index.html
 
+Package: wiki.qaq.devicehubenabler
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Lakr233 <git@qaq.wiki>
+Depends: firmware (>= 17.0), mobilesubstrate
+Filename: ./debs/wiki.qaq.devicehubenabler_0.1.0_iphoneos-arm64.deb
+Size: 4924
+MD5sum: f55b0890b62df3c30077e6be312e4bb5
+SHA1: 8b82db892d953906685a82ab3ac5d19fa35884e9
+SHA256: 356821200a16f79cb9d3e9335a9666dd10d21576d8accd69e0cf71804a231f4e
+Section: Tweaks
+Description: Enables Xcode DeviceHub screen viewing and system audio on iOS 17–26 devices running custom firmware.
+Author: Lakr233 <git@qaq.wiki>
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
+Name: DeviceHubEnabler
+
+Package: wiki.qaq.devicehubenabler
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Lakr233 <git@qaq.wiki>
+Depends: firmware (>= 17.0), mobilesubstrate
+Filename: ./debs/wiki.qaq.devicehubenabler_0.1.0_iphoneos-arm64e.deb
+Size: 4160
+MD5sum: efc50c5bc758cdeeaca3193b4e087f0e
+SHA1: 6c48d79b17e6a3a10fb5e4868863aa845a220075
+SHA256: 3df9be26da49ccedc1978c5bc5b1ed689a320f409274527d152a7cef6bac4966
+Section: Tweaks
+Description: Enables Xcode DeviceHub screen viewing and system audio on iOS 17–26 devices running custom firmware.
+Author: Lakr233 <git@qaq.wiki>
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
+Name: DeviceHubEnabler
+
 Package: wiki.qaq.irisin
 Version: 4.7.5
 Architecture: iphoneos-arm64
