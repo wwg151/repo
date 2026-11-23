@@ -4668,6 +4668,7 @@ Description: 七猫小说去广告
 Author: M哥
 Name: QMFree
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.shortlookt/depiction.json
 Package: com.mg.shortlookt
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -4685,6 +4686,7 @@ Author: M哥
 Icon: https://wwg151.github.io/images/shortlook-T.png
 Name: shortlook-T
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.shortlookt/depiction.json
 Package: com.mg.shortlookt
 Version: 1.0.0
 Architecture: iphoneos-arm64
