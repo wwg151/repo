@@ -2,20 +2,22 @@
   "class" : "DepictionTabView",
   "minVersion" : "0.4",
   "repoDockChangelog" : 1,
+  "repoDockControlDescription" : "爱奇艺开屏秒进 v0.2.3（正式版）。",
   "tabs" : [
     {
       "class" : "DepictionStackView",
-      "tabname" : "Details",
+      "tabname" : "详情",
       "views" : [
         {
-          "class" : "DepictionHeaderView",
-          "title" : "com.mg.iqiyi"
+          "class" : "DepictionMarkdownView",
+          "markdown" : "爱奇艺开屏秒进 v0.2.3（正式版）。",
+          "useSpacing" : true
         }
       ]
     },
     {
       "class" : "DepictionStackView",
-      "tabname" : "Changelog",
+      "tabname" : "更新日志",
       "views" : [
         {
           "class" : "DepictionSubheaderView",
@@ -23,7 +25,7 @@
         },
         {
           "class" : "DepictionMarkdownView",
-          "markdown" : "爱奇艺跳过开屏广告，快速进入主界面。",
+          "markdown" : "爱奇艺跳过开屏广告，首次发布。",
           "useSpacing" : true
         }
       ]
