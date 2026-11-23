@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-23 01:11","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-23 01:11","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 00:52","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-23 00:52","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 00:22","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-19 02:39","package":"wiki.qaq.apelin_0.4.7_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-18 21:53","package":"com.mlgm.filzapatch_1.1.4_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-18 21:53","package":"com.tigisoftware.filza64bit_5.0.1-6_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-18 21:51","package":"com.hierarch.dykiller_0.7.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-18 21:51","package":"com.hierarch.dykiller_0.7.2_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-18 21:50","package":"com.mlgm.clippa_1.1.3_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-18 21:51","package":"com.hierarch.dykiller_0.7.2_iphoneos-arm64","version":""}
 ]}
