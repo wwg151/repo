@@ -5903,6 +5903,44 @@ Description: 可将应用置于前台，达到「真后台」效果；应用图�
 Author: sergy
 Name: Immortalizer(rootless)
 
+Package: com.sharehotspotvpn.tweak
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: zhuifeng
+Installed-Size: 752
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64.deb
+Size: 83056
+MD5sum: f99c6ac4db0b6d2b925897c4951edaab
+SHA1: d57cb294783159ba1f91ef5a4ec9a4c755f500c4
+SHA256: 5ae3a5277f69bdbbbb7b281d33a95bafded5cb5d31fb4d633365528d6bdc2f80
+Section: Networking
+Description: 一键通过个人热点共享本机 Shadowrocket/VPN，连入设备零配置，支持控制中心快捷开关、DNS/UDP 转发与防 IPv6 泄露，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Depiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.html
+Icon: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn/icon.png
+Name: VPN热点共享
+Sileodepiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.json
+
+Package: com.sharehotspotvpn.tweak
+Version: 1.1.7
+Architecture: iphoneos-arm64e
+Maintainer: zhuifeng
+Installed-Size: 400
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64e.deb
+Size: 68960
+MD5sum: 7d5ab8e3eba9bea37a9f5eea17a966b6
+SHA1: b8e41a634109d7c9807de1245e74c82130de9668
+SHA256: 90bcecafd8d1c05102e12e9ec18bafbcba772fd9efe23b135ce70116a9d8f517
+Section: Networking
+Description: 一键通过个人热点共享本机 Shadowrocket/VPN，连入设备零配置，支持控制中心快捷开关、DNS/UDP 转发与防 IPv6 泄露，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Depiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.html
+Icon: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn/icon.png
+Name: VPN热点共享
+Sileodepiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.json
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64
