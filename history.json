@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-23 17:58","package":"com.mg.adskip_1.3.1_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-23 17:58","package":"com.mg.adskip_1.3.1_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.0_iphoneos-arm64-rootless","version":""},
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.18_iphoneos-arm64-rootless","version":""},
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.18_iphoneos-arm64e-roothide","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-22 16:34","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-22 16:34","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-22 15:17","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-22 15:17","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-22 14:21","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-22 14:21","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-22 15:17","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""}
 ]}
