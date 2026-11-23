@@ -1,0 +1,55 @@
+{
+  "class" : "DepictionTabView",
+  "minVersion" : "0.1",
+  "repoDockAuthor" : "M哥",
+  "repoDockChangelog" : 1,
+  "repoDockControlDescription" : "在锁屏上居中呈现新通知。",
+  "repoDockCurrentVersion" : "1.0.0",
+  "tabs" : [
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "详情",
+      "views" : [
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "在锁屏上居中呈现新通知。",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSeparatorView"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "1.0.0",
+          "title" : "当前版本"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "M哥",
+          "title" : "开发者"
+        }
+      ]
+    },
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "更新日志",
+      "views" : [
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "1.0.0"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "初始发布",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "更新日期：2026-11-23",
+          "useBoldText" : false
+        }
+      ]
+    }
+  ],
+  "tintColor" : "#2E9F8E"
+}
