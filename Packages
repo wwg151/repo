@@ -10865,6 +10865,22 @@ Dev: rpetrich
 Name: RocketBootstrap
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: rootless-compat
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 300
+Depends: com.roothide.patchloader(>= 0.0.4)
+Filename: ./debs/rootless-compat_2.0.1_iphoneos-arm64e.deb
+Size: 42110
+MD5sum: 61b06ff7e409d2eebef5e34fe28be38d
+SHA1: 1cbd3ff9fe3ab966b99eec7fdc08bc48596ae6b3
+SHA256: d255796e2fc7cd1b849cd376414e7a62bb0a2c7d149115b344e00f422371298d
+Section: RootHide Patches
+Description: Compat Layer for Rootless Tweaks
+Author: roothide
+Name: rootless-compat
+
 Package: rounddockremastered
 Version: 1.0
 Architecture: iphoneos-arm64
