@@ -4816,6 +4816,7 @@ Description: 防杀后台（注入免越狱）。悬浮按钮切换，防止 App
 Author: M哥
 Name: 防杀后台
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.iqiyi/depiction.json
 Package: com.mg.iqiyi
 Version: 0.2.4
 Architecture: iphoneos-arm64
@@ -4834,6 +4835,7 @@ Description: 爱奇艺开屏秒进 v0.2.3（正式版）。
 Author: M哥
 Name: 爱奇艺开屏秒进
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.iqiyi/depiction.json
 Package: com.mg.iqiyi
 Version: 0.2.4
 Architecture: iphoneos-arm64e
