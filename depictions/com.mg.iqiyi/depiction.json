@@ -1,0 +1,32 @@
+{
+  "class" : "DepictionTabView",
+  "minVersion" : "0.4",
+  "repoDockChangelog" : 1,
+  "tabs" : [
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "Details",
+      "views" : [
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "com.mg.iqiyi"
+        }
+      ]
+    },
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "Changelog",
+      "views" : [
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "0.2.4"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "爱奇艺跳过开屏广告，快速进入主界面。",
+          "useSpacing" : true
+        }
+      ]
+    }
+  ]
+}
