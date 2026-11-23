@@ -4418,24 +4418,6 @@ Name: 买单吧NoAd-rootless
 
 Package: com.mg.adskip
 Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: M哥
-Installed-Size: 500
-Depends: mobilesubstrate
-Filename: ./debs/com.mg.adskip_1.0.0_iphoneos-arm64e-roothide.deb
-Size: 70804
-MD5sum: 0274f6dc19afb56c16814d08b3e09a3f
-SHA1: 5833d1496bd5b8a5444601cef72e870d8d47664e
-SHA256: 06410bf3509f8cc96c9f6899c41b66c4565f1d4c44ea97f1f37b767c37be08c3
-Section: Tweaks
-Description: 按应用开启的开屏广告自动跳过插件，支持 rootless / RootHide
- 在「设置 > 广告跳过」中为已安装的 App 单独开启，仅对开启的 App 生效，系统应用不受影响。
- 自动识别开屏广告的跳过按钮并点击，支持总开关，新安装的 App 会自动出现在应用列表中。
-Author: M哥
-Name: 广告跳过
-
-Package: com.mg.adskip
-Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: M哥
 Installed-Size: 500
