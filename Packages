@@ -4416,6 +4416,7 @@ Description: 买单吧去启动广告
 Author: M哥
 Name: 买单吧NoAd-rootless
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.adskip/depiction.json
 Package: com.mg.adskip
 Version: 1.3.0
 Architecture: iphoneos-arm64
@@ -4431,6 +4432,7 @@ Description: 在「设置 > 广告跳过」中为已安装的 App 单独开启�
 Author: M哥
 Name: 广告跳过
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.adskip/depiction.json
 Package: com.mg.adskip
 Version: 1.3.0
 Architecture: iphoneos-arm64e
