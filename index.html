@@ -38,7 +38,6 @@
             --modal-bg: #1e2a45;
             --divider: rgba(255,255,255,0.08);
             --skeleton: rgba(255,255,255,0.08);
-            --new-badge: #ff3b30;
         }
         :root[data-theme="light"] {
             --bg-gradient: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 50%, #d7e3f4 100%);
@@ -54,7 +53,6 @@
             --modal-bg: #ffffff;
             --divider: rgba(0,0,0,0.08);
             --skeleton: rgba(0,0,0,0.06);
-            --new-badge: #ff3b30;
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         html, body {
@@ -155,10 +153,6 @@
             font-weight: 600; font-size: 14px; margin-bottom: 4px; color: var(--accent);
             display: flex; align-items: center; gap: 6px;
         }
-        .new-badge {
-            background: var(--new-badge); color: #fff; font-size: 10px; font-weight: 700;
-            padding: 2px 6px; border-radius: 6px; line-height: 1;
-        }
         .pkg-meta { font-size: 12px; color: var(--text-muted); display: flex; gap: 10px; flex-wrap: wrap; }
         .pkg-desc {
             font-size: 13px; color: var(--text-secondary); margin-top: 4px; line-height: 1.4;
@@ -241,6 +235,7 @@
             border-radius: 8px; padding: 12px 8px; color: var(--text-secondary); font-size: 13px;
             cursor: pointer; text-align: center; min-height: 44px;
         }
+        .sort-btn.active { background: var(--accent-bg); color: var(--accent); border-color: var(--accent-border); }
         /* 时间线 */
         .timeline { position: relative; padding-left: 24px; }
         .timeline::before {
@@ -257,7 +252,6 @@
         .timeline-date { font-size: 12px; color: var(--text-muted); margin-bottom: 4px; }
         .timeline-title { font-size: 14px; font-weight: 600; color: var(--text-primary); }
         .timeline-desc { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
-        .sort-btn.active { background: var(--accent-bg); color: var(--accent); border-color: var(--accent-border); }
         @media (max-width: 380px) {
             .header h1 { font-size: 24px; }
             .card { padding: 16px; }
@@ -353,8 +347,9 @@
         const REPO_BASE = 'https://wwg151.github.io/';
         let allPackages = [];
         let currentDetailPkg = null;
-        let currentSort = 'name';
         let downloadCounts = {};
+        let currentSort = 'name';
+        let pkgDates = {};
 
         (function() {
             const theme = document.documentElement.getAttribute('data-theme');
@@ -420,12 +415,30 @@
             return 0;
         }
 
-        function isNew(pkgName, version) {
-            const seen = localStorage.getItem('repo-seen-' + pkgName);
-            return seen !== version;
+        async function loadPkgDates() {
+            try {
+                const res = await fetch('dates.json', { cache: 'no-cache' });
+                if (!res.ok) return;
+                pkgDates = (await res.json()) || {};
+            } catch (e) {
+                pkgDates = {};
+            }
         }
-        function markSeen(pkgName, version) {
-            localStorage.setItem('repo-seen-' + pkgName, version);
+
+        function fileDate(filename) {
+            if (!filename || !pkgDates) return '';
+            let path = filename.replace(/^(\.\/|\/)+/, '');
+            try { path = decodeURIComponent(path); } catch (e) {}
+            return pkgDates[path] || pkgDates[filename] || '';
+        }
+
+        function packageDate(pkg) {
+            let best = '';
+            (pkg.versions || []).forEach(v => {
+                const d = fileDate(v.filename);
+                if (d && d > best) best = d;
+            });
+            return best;
         }
 
         function parseDepends(dependsStr) {
@@ -528,9 +541,11 @@
                 p.name.toLowerCase().includes(keyword) || p.displayName.toLowerCase().includes(keyword) || (p.desc && p.desc.toLowerCase().includes(keyword)));
             if (currentSort === 'new') {
                 filtered.sort((a, b) => {
-                    const an = isNew(a.name, a.versions[0]?.version) ? 1 : 0;
-                    const bn = isNew(b.name, b.versions[0]?.version) ? 1 : 0;
-                    return bn - an;
+                    const da = packageDate(a), db = packageDate(b);
+                    if (da === db) return a.name.localeCompare(b.name);
+                    if (!da) return 1;   // 没有时间记录的排最后
+                    if (!db) return -1;
+                    return db.localeCompare(da);   // UTC ISO 字符串可直接比较，新→旧
                 });
             } else {
                 filtered.sort((a, b) => a.name.localeCompare(b.name));
@@ -557,12 +572,11 @@
                 const dlCount = downloadCounts[pkg.name] || 0;
                 const dlText = dlCount > 0 ? `↓${dlCount}` : '';
                 const metaParts = [`v${latest ? latest.version : '?'}`, pkg.section, latest ? latest.arch : '', sz, dlText].filter(Boolean);
-                const newBadge = (latest && isNew(pkg.name, latest.version)) ? '<span class="new-badge">NEW</span>' : '';
                 return `
                     <div class="pkg-item">
                         ${renderIcon(pkg)}
                         <div class="pkg-info" onclick="showDetailModal('${pkg.name.replace(/'/g, "\\'")}')">
-                            <div class="pkg-name">${pkg.displayName} ${newBadge}</div>
+                            <div class="pkg-name">${pkg.displayName}</div>
                             <div class="pkg-meta">${metaParts.map(m => `<span>${m}</span>`).join('')}</div>
                             ${pkg.desc ? `<div class="pkg-desc">${pkg.desc}</div>` : ''}
                         </div>
@@ -594,7 +608,6 @@
             if (!pkg) return;
             currentDetailPkg = pkg;
             const latest = pkg.versions[0];
-            if (latest) markSeen(pkgName, latest.version);
 
             document.getElementById('detailIconWrap').innerHTML = renderIcon(pkg, true);
 
@@ -729,8 +742,11 @@
             }
         }
 
-        loadPackages();
-        loadHistory();
+        (async () => {
+            await loadPkgDates();
+            await loadPackages();
+            loadHistory();
+        })();
     </script>
 </body>
 </html>
