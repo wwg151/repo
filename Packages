@@ -1729,6 +1729,40 @@ Author: Lessica
 Icon: https://repo.cypwn.xyz/packages/ColorfulWallpaperX-Rootless/icon.png
 Name: ColorfulWallpaperX
 
+Package: com.404.facelock
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: 404
+Installed-Size: 497
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.404.facelock_1.2.3_iphoneos-arm64.deb
+Size: 58128
+MD5sum: bac9fe21ceb6cd5bae86fc069979653f
+SHA1: 429ec89838324919ee61bc9e37bddee8e6e2fb18
+SHA256: fa503a067aed525b3f482c930432a0e761830eb01b449919ae580a8d14d8a420
+Section: Tweaks
+Description: 为选定的 App 加上面容 ID 锁。
+Author: 404
+Icon: https://huayuarc.github.io/icon/facelock.png
+Name: 应用面容锁
+
+Package: com.404.facelock
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: 404
+Installed-Size: 239
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.404.facelock_1.2.3_iphoneos-arm64e.deb
+Size: 46512
+MD5sum: 2e824d49bfa359a0c09954f92f87bd16
+SHA1: 7ed03565017f30c133eba67ed00c6b1cbdf19c45
+SHA256: 6cac0901f9c847dd9127866c06e9c9f59397b98bcf818b5f54c95bf3d4576520
+Section: Tweaks
+Description: 为选定的 App 加上面容 ID 锁。
+Author: 404
+Icon: https://huayuarc.github.io/icon/facelock.png
+Name: 应用面容锁
+
 Package: com.82flex.noredirect
 Version: 1.3
 Architecture: iphoneos-arm64
