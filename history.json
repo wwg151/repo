@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-23 23:03","package":"com.mg.shortlookt_1.0.0_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-23 23:03","package":"com.mg.shortlookt_1.0.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 22:14","package":"com.mlgm.filzapatch_1.1.5_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 19:04","package":"rootless-compat_2.0.1_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 18:56","package":"com.mjh.threadsglass.roothide_1.0.1_iphoneos-arm64e","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-23 00:52","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-23 00:52","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 00:22","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 00:22","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-22 23:58","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-22 23:58","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-23 00:22","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""}
 ]}
