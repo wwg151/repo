@@ -8619,6 +8619,45 @@ Description: 支付宝去广告（去启动广告 + 屏蔽更新 + 屏蔽越狱/
 Author: zero
 Name: 支付宝去广告
 
+Package: com.zooah.swipedeck
+Version: 0.6.7-16
+Architecture: iphoneos-arm64e
+Maintainer: zooah212
+Installed-Size: 8384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.zooah.swipedeck_0.6.7-16_iphoneos-arm64e.deb
+Size: 5029688
+MD5sum: f614ebf962e526ffa877af174b439af2
+SHA1: 223238586ab174300bd23878fc252d7e38da4297
+SHA256: 9dc10de0753252f4eedece45c3b77d6852dbf2a0783a6b48e19fb461635bc2a2
+Section: Tweaks
+Description: Quick action panel accessible by swiping up from the bottom-right corner.
+             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+Author: zooah212
+Icon: https://huayuarc.github.io/icon/swipedeck.png
+Name: SwipeDeck - 快捷助手
+Sileodepiction: https://huayuarc.github.io/sileodepiction/swipedeck/swipedeck.json
+
+Package: com.zooah.swipedeck
+Version: 0.6.7-16
+Architecture: iphoneos-arm64
+Maintainer: zooah212
+Installed-Size: 8384
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.zooah.swipedeck_0.6.7-16_iphoneos-arm64.deb
+Size: 2671952
+MD5sum: 50e79a337ca2fee611666d07d0192867
+SHA1: 62897708f745daa5392bb9f0e774b19a6a7ff2eb
+SHA256: 529aee3a38f8df0efbeb06c252e9ee396377da71bcddf06a98e763a0eaaf6e6b
+Section: Tweaks
+Description: Quick action panel accessible by swiping up from the bottom-right corner.
+             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+Author: zooah212
+Icon: https://huayuarc.github.io/icon/swipedeck.png
+Name: SwipeDeck - 快捷助手
+Sileodepiction: https://huayuarc.github.io/sileodepiction/swipedeck/swipedeck.json
+
 Package: cthulhu
 Version: 1.0.9
 Architecture: iphoneos-arm64
