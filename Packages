@@ -8702,6 +8702,44 @@ Description: 支付宝去广告（去启动广告 + 屏蔽更新 + 屏蔽越狱/
 Author: zero
 Name: 支付宝去广告
 
+Package: com.zhuifeng.allowringinmute
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: zhuifeng
+Installed-Size: 404
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/com.zhuifeng.allowringinmute_1.0.0_iphoneos-arm64e.deb
+Size: 29256
+MD5sum: b164a9c3499d2ec4a56892db864e42dc
+SHA1: af25af04cc787a07bc4f970b3471ba3eb378d253
+SHA256: 828bf8e371fd1797e95aacdbccb27e6c882589bad79860aa1ad20ef159555f56
+Section: Tweaks
+Description: 静音模式下接到电话依然正常响铃，其他通知与系统提示音保持静音
+Author: zhuifeng
+Depiction: https://temple002.github.io/zhuifeng/depictions/allowringinmute.html
+Icon: https://temple002.github.io/zhuifeng/depictions/allowringinmute/icon.png
+Name: 静音响铃
+Sileodepiction: https://temple002.github.io/zhuifeng/depictions/allowringinmute.json
+
+Package: com.zhuifeng.allowringinmute
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: zhuifeng
+Installed-Size: 404
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/com.zhuifeng.allowringinmute_1.0.0_iphoneos-arm64.deb
+Size: 29280
+MD5sum: faba460a5bb7a415b8e83732981e3de1
+SHA1: fb42263e9407d4b9209a0a31a6f83219a89b5666
+SHA256: c38fbc8deeec34469cd479be2298e64102f8cafd78822c54dd3488002359084b
+Section: Tweaks
+Description: 静音模式下接到电话依然正常响铃，其他通知与系统提示音保持静音
+Author: zhuifeng
+Depiction: https://temple002.github.io/zhuifeng/depictions/allowringinmute.html
+Icon: https://temple002.github.io/zhuifeng/depictions/allowringinmute/icon.png
+Name: 静音响铃
+Sileodepiction: https://temple002.github.io/zhuifeng/depictions/allowringinmute.json
+
 Package: com.zooah.swipedeck
 Version: 0.6.7-16
 Architecture: iphoneos-arm64e
@@ -9354,6 +9392,38 @@ Size: 7328832
 MD5sum: 598503319ce35f8e1325d9d938eeda58
 SHA1: 50c26e2680f0c447562c046dc77989548299e7ab
 SHA256: 38dd78f406c3659d7adb90a5d29a7cf3426a09b2a7692739a864f64c90e37945
+Section: Tweaks
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Author: Junhong
+Icon: https://huayuarc.github.io/icon/hongguo.png
+Name: 红果净化
+
+Package: hongguofn
+Version: 2.2.8
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 14792
+Filename: ./debs/hongguofn_2.2.8_iphoneos-arm64.deb
+Size: 7454236
+MD5sum: a587f53dbd96eee25652432993344856
+SHA1: 0c5d455f6153098d845446013cd3bbef2cc32460
+SHA256: 14639b608e92a01495e2b020a337de34aafe505ea9e2f23a9591ca7576ae4fde
+Section: Tweaks
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Author: Junhong
+Icon: https://huayuarc.github.io/icon/hongguo.png
+Name: 红果净化
+
+Package: hongguofn
+Version: 2.2.8
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 14904
+Filename: ./debs/hongguofn_2.2.8_iphoneos-arm64e.deb
+Size: 7505832
+MD5sum: e05b6bc1c6aa3bcdfc7a670f46e85c29
+SHA1: 657449999213fff6ed71f8be6175c90932cb3065
+SHA256: e071074679d27822fbf3ffbce552861995b78d1395294c9485a06c83160e8301
 Section: Tweaks
 Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
 Author: Junhong
