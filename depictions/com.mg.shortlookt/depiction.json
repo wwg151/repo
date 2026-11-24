@@ -4,7 +4,7 @@
   "repoDockAuthor" : "M哥",
   "repoDockChangelog" : 1,
   "repoDockControlDescription" : "在锁屏上居中呈现新通知。",
-  "repoDockCurrentVersion" : "1.0.0",
+  "repoDockCurrentVersion" : "1.0.5",
   "tabs" : [
     {
       "class" : "DepictionStackView",
@@ -20,7 +20,7 @@
         },
         {
           "class" : "DepictionTableTextView",
-          "text" : "1.0.0",
+          "text" : "1.0.5",
           "title" : "当前版本"
         },
         {
@@ -34,6 +34,24 @@
       "class" : "DepictionStackView",
       "tabname" : "更新日志",
       "views" : [
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "1.0.5"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "1.修复收到连续消息后闪屏的问题；  \n2.测试16.5、17.0版本没问题，其他系统版本自测；  \n3.新增应用列表，支持微信、QQ、企业微信。打开开关后，在锁屏显示联系人头像。",
+          "repoDockNoteSource" : "1.修复收到连续消息后闪屏的问题；\n2.测试16.5、17.0版本没问题，其他系统版本自测；\n3.新增应用列表，支持微信、QQ、企业微信。打开开关后，在锁屏显示联系人头像。",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "更新日期：2026-11-24",
+          "useBoldText" : false
+        },
+        {
+          "class" : "DepictionSeparatorView"
+        },
         {
           "class" : "DepictionHeaderView",
           "title" : "1.0.0"
