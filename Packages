@@ -2499,6 +2499,82 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.custom.ctclient.donk
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: donk
+Filename: ./debs/com.custom.ctclient.donk_1.2_iphoneos-arm64.deb
+Size: 367876
+MD5sum: cabab63eade6ff6f46792fe40cb451ff
+SHA1: d8dda86bbfb050ae6fb64665bdcc04fc1f0f473c
+SHA256: 8990a10670a4313c706c0b97166dae0e8ac7a4ec6f5f4de834346a24ef302702
+Section: 软件优化
+Description: 中国电信整页重构：首页换成清爽盖层，只留话费、流量语音与常用入口，开屏广告与原底栏一并去掉。
+ - 话费账单：主卡大字显示，点按直达详细账单
+ - 流量语音：双半卡并排，实时数据自动抓取
+ - 常用入口：搜索、服务大厅、客服、充话费直达
+ - 原版切换：右上角一键互切，原版顶栏搜索旁带圆环的「新版」钮切回（PS：个别机型不显示切回新版按钮，点击搜索按钮旁空白处也可切回新版）
+ - 源内所有插件仅供本人学习交流使用,下载后请于24小时内删除!
+Author: donk
+Name: 电信优化-Rootless
+
+Package: com.custom.ctclient.donk
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: donk
+Filename: ./debs/com.custom.ctclient.donk_1.2_iphoneos-arm64e.deb
+Size: 367824
+MD5sum: 2027182f6231f1f3862cc13d6e7cbc3c
+SHA1: 7b7a72e0c0d1a34d7741143412b1be436a1a14c6
+SHA256: 6f7f0297dbd9b3327fd3cd4c7a351d3d3e710832ad6ffc54dde12a27f145ea3e
+Section: 软件优化
+Description: 中国电信整页重构：首页换成清爽盖层，只留话费、流量语音与常用入口，开屏广告与原底栏一并去掉。
+ - 话费账单：主卡大字显示，点按直达详细账单
+ - 流量语音：双半卡并排，实时数据自动抓取
+ - 常用入口：搜索、服务大厅、客服、充话费直达
+ - 原版切换：右上角一键互切，原版顶栏搜索旁带圆环的「新版」钮切回（PS：个别机型不显示切回新版按钮，点击搜索按钮旁空白处也可切回新版）
+ - 源内所有插件仅供本人学习交流使用,下载后请于24小时内删除!
+Author: donk
+Name: 电信优化-RootHide
+
+Package: com.custom.mobilebusiness.donk
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: donk
+Filename: ./debs/com.custom.mobilebusiness.donk_1.0_iphoneos-arm64e.deb
+Size: 214520
+MD5sum: 897e2e582dc77905ca4b0587605b9e2f
+SHA1: 1af934ddba96f23caa82c661887548d28cb6d373
+SHA256: a4aaac796ee0117c254b2dd601a45f4e94aacfe854d647a91340772898a369d8
+Section: 软件优化
+Description: 联通首页整页重构，粉红新版面只留话费、流量、语音和常用入口，清爽直达。
+ - 话费流量：点卡直达余量与账单详�
+ - 常用入口：搜索、服务大厅、充话费一键直达
+ - 在线客服：通通助手秒开，图标指纹自学认人
+ - 开屏广告：冷启动与切回前台一并屏蔽
+ - 源内所有插件仅供本人学习交流使用,下载后请于24小时内删除!
+Author: donk
+Name: 联通优化-RootHide
+
+Package: com.custom.mobilebusiness.donk
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: donk
+Filename: ./debs/com.custom.mobilebusiness.donk_1.0_iphoneos-arm64.deb
+Size: 215156
+MD5sum: ac970062bed4d93800c15cd2ce8816c3
+SHA1: 162708ba07256c637d227d7e805d95c9b69c396c
+SHA256: 5ac604a128691c7013a100600a0f0e459929969deb5f7a9a0499a85aef2ed667
+Section: 软件优化
+Description: 联通首页整页重构，粉红新版面只留话费、流量、语音和常用入口，清爽直达。
+ - 话费流量：点卡直达余量与账单详�
+ - 常用入口：搜索、服务大厅、充话费一键直达
+ - 在线客服：通通助手秒开，图标指纹自学认人
+ - 开屏广告：冷启动与切回前台一并屏蔽
+ - 源内所有插件仅供本人学习交流使用,下载后请于24小时内删除!
+Author: donk
+Name: 联通优化-Rootless
+
 Package: com.cydiageek.myautolock
 Version: 1.0.0
 Architecture: iphoneos-arm64
