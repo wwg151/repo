@@ -4790,6 +4790,7 @@ Description: 爱奇艺开屏秒进 v0.2.3（正式版）。
 Author: M哥
 Name: 爱奇艺开屏秒进
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.islandnotice/depiction.json
 Package: com.mg.islandnotice
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -4807,6 +4808,7 @@ Author: M哥
 Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
 Name: IslandNotice
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.islandnotice/depiction.json
 Package: com.mg.islandnotice
 Version: 1.0.0
 Architecture: iphoneos-arm64e
