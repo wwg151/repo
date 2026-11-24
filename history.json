@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-24 21:22","package":"com.example.noticelisttweak_1.0.1_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-24 21:22","package":"com.example.noticelisttweak_1.0.1_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 21:21","package":"com.zhuifeng.dateinfo_1.3.8_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 21:21","package":"com.zhuifeng.dateinfo_1.3.8_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 17:09","package":"com.huami.dyyy_3.0_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.2.2_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-23 17:17","package":"com.mg.adskip_1.0.0_iphoneos-arm64e-roothide","version":""},
 {"type":"added","date":"2026-11-23 17:15","package":"com.mg.adskip_1.3.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 17:15","package":"com.mg.adskip_1.3.0_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 13:02","package":"com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 13:02","package":"com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-23 17:15","package":"com.mg.adskip_1.3.0_iphoneos-arm64e","version":""}
 ]}
