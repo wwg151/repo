@@ -2706,6 +2706,42 @@ Description: TG助手 for Telegram, Swiftgram and Turrit
 Author: DengBai
 Name: TG助手
 
+Package: com.dengbai.tgassistant
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: DengBai
+Depends: firmware (>= 13.0)
+Conflicts: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Replaces: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Provides: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat
+Filename: ./debs/com.dengbai.tgassistant_1.1.2_iphoneos-arm64.deb
+Size: 647684
+MD5sum: fc771b6b90831b6d425f17d9c2b2cb20
+SHA1: 815f8b9f29e3b1090b1b1b4240a401c85c95a56b
+SHA256: 2dce5b53a782f5d4a9f22f707170f4388cb4a487d1a551e3824f81672421c52a
+Section: Tweaks
+Description: TG助手 for Telegram, Swiftgram and Turrit
+Author: DengBai
+Name: TG助手
+
+Package: com.dengbai.tgassistant
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: DengBai
+Depends: firmware (>= 15.0)
+Conflicts: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Replaces: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Provides: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat
+Filename: ./debs/com.dengbai.tgassistant_1.1.2_iphoneos-arm64e.deb
+Size: 647164
+MD5sum: 39e442a9dbc9207ee57d6f2adaebc6f0
+SHA1: db5c09f9726f1ee7cf79d3b2c9a476007c64bc29
+SHA256: 0b7310c45adbe2a531d381cf969e10238b22c8a27476c3a573f7b3281bc41c90
+Section: Tweaks
+Description: TG助手 for Telegram, Swiftgram and Turrit
+Author: DengBai
+Name: TG助手
+
 Package: com.dopamine.swapforcer
 Version: 0.0.2-7+debug
 Architecture: iphoneos-arm64
