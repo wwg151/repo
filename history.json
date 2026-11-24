@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-24 17:09","package":"com.huami.dyyy_3.0_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-24 17:09","package":"com.huami.dyyy_3.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 11:24","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 11:24","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-24 11:23","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-23 13:02","package":"com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-23 13:02","package":"com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 13:00","package":"com.404.facelock_1.2.3_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 13:00","package":"com.404.facelock_1.2.3_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 04:14","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 04:14","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-23 13:00","package":"com.404.facelock_1.2.3_iphoneos-arm64e","version":""}
 ]}
