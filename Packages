@@ -4709,13 +4709,13 @@ Package: com.mg.shortlookt
 Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: M哥
-Installed-Size: 1184
-Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Installed-Size: 1198
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.mg.shortlookt_1.0.5_iphoneos-arm64.deb
-Size: 725522
-MD5sum: 589c25e9ce76303bb0d2604a6b4980b9
-SHA1: 28d01ca5e92be3e3beb272583750131f88adcd5a
-SHA256: c4846856adb321067f2c3ba12d99dfce1b289c4c378c736c4da0e50c2cd0dfba
+Size: 727010
+MD5sum: 5de7116dd7f4f69e2f3c92e0914efb9c
+SHA1: e652544ab0c63b65267277b4ffc095b03b112242
+SHA256: 42ad6e108be18183dfdde297637488810121a5b9f1a7c0edb91bff69ed98cb74
 Section: Tweaks
 Description: 在锁屏上居中呈现新通知。
 Author: M哥
@@ -4727,13 +4727,13 @@ Package: com.mg.shortlookt
 Version: 1.0.5
 Architecture: iphoneos-arm64e
 Maintainer: M哥
-Installed-Size: 894
-Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Installed-Size: 908
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.mg.shortlookt_1.0.5_iphoneos-arm64e.deb
-Size: 699776
-MD5sum: 046030816425770bd56f7d7ec91efdcc
-SHA1: 775f032fa010ac44dc770c007d5a96aa98cab9a9
-SHA256: b6b5802573dcf501caf5b6fc9907c314b3e7293854530824cf47a4e9af7d028f
+Size: 700320
+MD5sum: 605d41702adea1150811dc68f0be8da5
+SHA1: 29f3cdd8414cb016358d5e3d511e57ca0ded5000
+SHA256: f1774658b6957083d42bdc8642d1cd08e28ebb6ae1e7550d851c3227931a368d
 Section: Tweaks
 Description: 在锁屏上居中呈现新通知。
 Author: M哥

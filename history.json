@@ -1,4 +1,8 @@
 {"events":[
+{"type":"added","date":"2026-11-24 11:24","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-24 11:24","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
+{"type":"removed","date":"2026-11-24 11:23","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
+{"type":"removed","date":"2026-11-24 11:23","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 11:10","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 11:10","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 07:34","package":"com.zhuifeng.allowringinmute_1.0.0_iphoneos-arm64","version":""},
@@ -44,9 +48,5 @@
 {"type":"added","date":"2026-11-23 13:00","package":"com.404.facelock_1.2.3_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-23 13:00","package":"com.404.facelock_1.2.3_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 04:14","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 04:14","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 03:17","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 03:17","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 02:52","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 02:52","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-23 04:14","package":"org.coolstar.sileo_2.5.1-17_iphoneos-arm64e","version":""}
 ]}
