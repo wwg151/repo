@@ -2670,6 +2670,42 @@ Description: WiFi和蜂窝数据之间智能切换，控制中心连接WiFi关�
 Author: Bruno Andrade <brubiluco@globo.com>
 Name: WiCellSwitcher(rootless)
 
+Package: com.dengbai.tgassistant
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: DengBai
+Depends: firmware (>= 13.0)
+Conflicts: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Replaces: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Provides: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat
+Filename: ./debs/com.dengbai.tgassistant_1.1.0_iphoneos-arm64.deb
+Size: 647132
+MD5sum: 371a9a930345b152784eeb7c0f618a68
+SHA1: dae3d57cb44bcaf85f5cc64a4766d159ffac1f4b
+SHA256: d3eb27825d92a3fea0f2a37b30329241135df84134d60b0a3f51bddb3a07a741
+Section: Tweaks
+Description: TG助手 for Telegram, Swiftgram and Turrit
+Author: DengBai
+Name: TG助手
+
+Package: com.dengbai.tgassistant
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: DengBai
+Depends: firmware (>= 15.0)
+Conflicts: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Replaces: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Provides: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat
+Filename: ./debs/com.dengbai.tgassistant_1.1.0_iphoneos-arm64e.deb
+Size: 646452
+MD5sum: cf1ae7215b3c7217730435eba685bf79
+SHA1: 4c6a0e37ffa2b059361b84eb6150b71f82cca0ca
+SHA256: 8fa1eaf91d553d0cb531bfb3701c7253299321fb6f9432865e65be940c81d530
+Section: Tweaks
+Description: TG助手 for Telegram, Swiftgram and Turrit
+Author: DengBai
+Name: TG助手
+
 Package: com.dopamine.swapforcer
 Version: 0.0.2-7+debug
 Architecture: iphoneos-arm64

@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-24 22:00","package":"com.dengbai.tgassistant_1.1.0_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-24 22:00","package":"com.dengbai.tgassistant_1.1.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 21:43","package":"com.custom.ctclient.donk_1.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 21:43","package":"com.custom.ctclient.donk_1.2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 21:43","package":"com.custom.mobilebusiness.donk_1.0_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.7_iphoneos-arm64e-roothide","version":""},
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.8_iphoneos-arm64-rootless","version":""},
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.8_iphoneos-arm64e-roothide","version":""},
-{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""},
-{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.1.0_iphoneos-arm64e-roothide","version":""},
-{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.2.2_iphoneos-arm64","version":""}
+{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.1.0_iphoneos-arm64-rootless","version":""}
 ]}
