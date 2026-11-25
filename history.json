@@ -1,4 +1,6 @@
 {"events":[
+{"type":"removed","date":"2026-11-25 10:14","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64e","version":""},
+{"type":"removed","date":"2026-11-25 10:13","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-25 09:40","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-25 09:40","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 23:27","package":"com.mg.islandnotice_1.0.1_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.18_iphoneos-arm64e-roothide","version":""},
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.2_iphoneos-arm64-rootless","version":""},
 {"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.2_iphoneos-arm64e-roothide","version":""},
-{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.4_iphoneos-arm64-rootless","version":""},
-{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.4_iphoneos-arm64e-roothide","version":""},
-{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.5_iphoneos-arm64-rootless","version":""}
+{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.4_iphoneos-arm64-rootless","version":""}
 ]}
