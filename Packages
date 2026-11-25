@@ -12479,14 +12479,14 @@ Package: wiki.qaq.apelin
 Version: 0.4.10
 Architecture: iphoneos-arm64
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 100848
+Installed-Size: 101080
 Depends: firmware (>= 16.0), uikittools, launchctl, wiki.qaq.irisin (>= 4.7.3), wiki.qaq.fila, wiki.qaq.ighostvt (>= 1.6.19), com.icli.icli (>= 0.11.0)
 Recommends: wiki.qaq.apelin.dev.app, wiki.qaq.apelin.dev.tweak, wiki.qaq.apelin.dev.cli, wiki.qaq.apelin.dev.preferences
 Filename: ./debs/wiki.qaq.apelin_0.4.10_iphoneos-arm64.deb
-Size: 34787070
-MD5sum: 46f8b8da5e0794ce2101993389572f6e
-SHA1: dcb203e7de99a23a8978435c350512e9ae879bc6
-SHA256: 3871867924f8ffb406c56db26bf4388ee20b78a24b999bcb0bee7dc7b6d4d02b
+Size: 34892000
+MD5sum: dac44ddf82f115bf59fd02df3a22e0ce
+SHA1: a29b310531c15524d096765cef5a8b093553497c
+SHA256: 9611158800b59d30461c80e8e225872de7738084452bf326a0de71c986dd66a9
 Section: Utilities
 Priority: optional
 Description: An on-device IDE where an agent writes, builds and installs tweaks, for rootless jailbreaks
@@ -12501,14 +12501,14 @@ Package: wiki.qaq.apelin
 Version: 0.4.10
 Architecture: iphoneos-arm64e
 Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
-Installed-Size: 100848
+Installed-Size: 101080
 Depends: firmware (>= 16.0), uikittools, launchctl, wiki.qaq.irisin (>= 4.7.3), wiki.qaq.fila, wiki.qaq.ighostvt (>= 1.6.19), com.icli.icli (>= 0.11.0)
 Recommends: wiki.qaq.apelin.dev.app, wiki.qaq.apelin.dev.tweak, wiki.qaq.apelin.dev.cli, wiki.qaq.apelin.dev.preferences
 Filename: ./debs/wiki.qaq.apelin_0.4.10_iphoneos-arm64e.deb
-Size: 34795786
-MD5sum: 62cd1f4c644322969f0bf220a068b549
-SHA1: 91c8ff5ad20b632e59c375398e98c9e75f0dabbb
-SHA256: e91ab546517d91487ef4e282a5017e0599c5117eb09a0ba4355a8123c3bc609d
+Size: 34890486
+MD5sum: 2b3cfe38df32e1e6f19182134d4f1935
+SHA1: aa366dfdf69f72649c441903db10b05c72601810
+SHA256: db321eccc2db5023aa8d3089f047954aa5b891b2621caad4071f1427bf7d330e
 Section: Utilities
 Priority: optional
 Description: An on-device IDE where an agent writes, builds and installs tweaks, for roothide jailbreaks
