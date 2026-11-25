@@ -4,7 +4,7 @@
   "repoDockAuthor" : "M哥",
   "repoDockChangelog" : 1,
   "repoDockControlDescription" : "为刘海屏 iPhone 打造的系统通知横幅岛屿样式与本地预览；其他机型未验证，请自行测试后再使用。",
-  "repoDockCurrentVersion" : "1.0.0",
+  "repoDockCurrentVersion" : "1.0.3",
   "tabs" : [
     {
       "class" : "DepictionStackView",
@@ -20,7 +20,7 @@
         },
         {
           "class" : "DepictionTableTextView",
-          "text" : "1.0.0",
+          "text" : "1.0.3",
           "title" : "当前版本"
         },
         {
@@ -34,6 +34,23 @@
       "class" : "DepictionStackView",
       "tabname" : "更新日志",
       "views" : [
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "1.0.3"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "修复一些问题",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "更新日期：2026-11-25",
+          "useBoldText" : false
+        },
+        {
+          "class" : "DepictionSeparatorView"
+        },
         {
           "class" : "DepictionHeaderView",
           "title" : "1.0.0"
