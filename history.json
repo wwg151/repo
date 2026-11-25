@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-25 23:10","package":"com.wubage.answerspeaker_1.0.0_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-25 23:10","package":"com.wubage.answerspeaker_1.0.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-25 14:35","package":"com.mg.islandnotice_1.1.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-25 14:35","package":"com.mg.islandnotice_1.1.0_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-25 10:14","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64e","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-23 18:20","package":"hongguofn_2.2.7_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-23 18:20","package":"hongguofn_2.2.7_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 17:58","package":"com.mg.adskip_1.3.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 17:58","package":"com.mg.adskip_1.3.1_iphoneos-arm64e","version":""},
-{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.0_iphoneos-arm64-rootless","version":""},
-{"type":"removed","date":"2026-11-23 17:21","package":"com.mg.adskip_1.0.18_iphoneos-arm64-rootless","version":""}
+{"type":"added","date":"2026-11-23 17:58","package":"com.mg.adskip_1.3.1_iphoneos-arm64e","version":""}
 ]}
