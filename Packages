@@ -4898,6 +4898,42 @@ Author: M哥
 Icon: https://wwg151.github.io/images/islandnotice.png
 Name: IslandNotice
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.islandnotice/depiction.json
+Package: com.mg.islandnotice
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 603
+Depends: firmware (>= 16.0), preferenceloader, mobilesubstrate
+Filename: ./debs/com.mg.islandnotice_1.1.0_iphoneos-arm64e.deb
+Size: 187778
+MD5sum: 810d11b10ee66e221d21f45a11bef545
+SHA1: 7d3b6eb476c44b8d8ca01ac8198844899fbb0c48
+SHA256: 7bb1dddb8d254f657792929f4d82e377650f1ee3f4d53d118ec05ec7817da210
+Section: Tweaks
+Description: 为刘海屏 iPhone 打造的系统通知横幅岛屿样式与本地预览；其他机型未验证，请自行测试后再使用。
+Author: M哥
+Icon: https://wwg151.github.io/images/islandnotice.png
+Name: IslandNotice
+
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.islandnotice/depiction.json
+Package: com.mg.islandnotice
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 1212
+Depends: firmware (>= 16.0), preferenceloader, mobilesubstrate
+Filename: ./debs/com.mg.islandnotice_1.1.0_iphoneos-arm64.deb
+Size: 272884
+MD5sum: 1621eb77c4cbe79fc05190ad2c51072f
+SHA1: a6d1afb0f8e93e2144861f1e02e59931746b703f
+SHA256: b2948dcef823b3c752327556e0624a906e57a6f8fffb4feb78131937f9d76875
+Section: Tweaks
+Description: 为刘海屏 iPhone 打造的系统通知横幅岛屿样式与本地预览；其他机型未验证，请自行测试后再使用。
+Author: M哥
+Icon: https://wwg151.github.io/images/islandnotice.png
+Name: IslandNotice
+
 Package: com.mg.llvodprobe
 Version: 0.3.0
 Architecture: iphoneos-arm64e
