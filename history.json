@@ -1,4 +1,10 @@
 {"events":[
+{"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64","version":""},
+{"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64e","version":""},
+{"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-2_iphoneos-arm64","version":""},
+{"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-2_iphoneos-arm64e","version":""},
+{"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-3_iphoneos-arm64","version":""},
+{"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-3_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-26 00:59","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-26 00:59","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-25 16:37","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64","version":""},
@@ -42,11 +48,5 @@
 {"type":"added","date":"2026-11-24 07:34","package":"hongguofn_2.2.8_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 07:34","package":"hongguofn_2.2.8_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 23:03","package":"com.mg.shortlookt_1.0.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 23:03","package":"com.mg.shortlookt_1.0.0_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 22:14","package":"com.mlgm.filzapatch_1.1.5_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 19:04","package":"rootless-compat_2.0.1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 18:56","package":"com.mjh.threadsglass.roothide_1.0.1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 18:56","package":"com.mjh.threadsglass_1.0.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 18:21","package":"com.zooah.swipedeck_0.6.7-16_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 18:21","package":"com.zooah.swipedeck_0.6.7-16_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-23 23:03","package":"com.mg.shortlookt_1.0.0_iphoneos-arm64e","version":""}
 ]}
