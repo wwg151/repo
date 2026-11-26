@@ -5040,6 +5040,42 @@ Author: M哥
 Icon: https://wwg151.github.io/images/shortlook-T.png
 Name: shortlook-T
 
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.shortlookt/depiction.json
+Package: com.mg.shortlookt
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 1223
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.mg.shortlookt_1.2.0_iphoneos-arm64.deb
+Size: 742116
+MD5sum: 1a736768717380347cc52af6b4931272
+SHA1: 9729f16cdbcedaaca3dfb702e3d305cb5e90d05f
+SHA256: c4a4b8a611ba42cd84f010183d1961154f53db0c6e9d64731513e61d0ab34bc5
+Section: Tweaks
+Description: 在锁屏上居中呈现新通知。
+Author: M哥
+Icon: https://wwg151.github.io/images/shortlook-T.png
+Name: shortlook-T
+
+SileoDepiction: https://wwg151.github.io/depictions/com.mg.shortlookt/depiction.json
+Package: com.mg.shortlookt
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 917
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.mg.shortlookt_1.2.0_iphoneos-arm64e.deb
+Size: 713254
+MD5sum: dca2a8d25b53f9de6c21c91e3dd3b032
+SHA1: a3351f131fe40668aca4fed3d8d029c01f06d7ac
+SHA256: f8b5cabf24e743b44fcb3459d4a5156e671f9ca423c251fa438f91c91ec7e68d
+Section: Tweaks
+Description: 在锁屏上居中呈现新通知。
+Author: M哥
+Icon: https://wwg151.github.io/images/shortlook-T.png
+Name: shortlook-T
+
 Package: com.mg.zhihu
 Version: 0.4.1
 Architecture: iphoneos-arm64
