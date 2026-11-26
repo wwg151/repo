@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-26 00:59","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-26 00:59","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-25 16:37","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-25 16:37","package":"wiki.qaq.apelin_0.4.10_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-25 23:10","package":"com.wubage.answerspeaker_1.0.0_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-23 18:56","package":"com.mjh.threadsglass.roothide_1.0.1_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-23 18:56","package":"com.mjh.threadsglass_1.0.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-23 18:21","package":"com.zooah.swipedeck_0.6.7-16_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 18:21","package":"com.zooah.swipedeck_0.6.7-16_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 18:20","package":"hongguofn_2.2.7_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 18:20","package":"hongguofn_2.2.7_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-23 18:21","package":"com.zooah.swipedeck_0.6.7-16_iphoneos-arm64e","version":""}
 ]}
