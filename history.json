@@ -1,4 +1,10 @@
 {"events":[
+{"type":"added","date":"2026-11-26 13:54","package":"com.huamidev.xhsnative.roothide_1.4+1-1_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-26 13:54","package":"com.huamidev.xhsnative_1.4+1-1_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-26 13:54","package":"com.mjh.spdbadblock.roothide_0.2.0_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-26 13:54","package":"com.mjh.spdbadblock_0.2.0_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-26 13:54","package":"com.mjh.wctabbarglass.roothide_1.0.1_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-26 13:54","package":"com.mjh.wctabbarglass_1.0.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-26 11:58","package":"com.mg.shortlookt_1.2.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-26 11:58","package":"com.mg.shortlookt_1.2.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-26 10:09","package":"xyz.cypwn.translux_1.6k_iphoneos-arm64","version":""},
@@ -42,11 +48,5 @@
 {"type":"added","date":"2026-11-24 21:43","package":"com.custom.mobilebusiness.donk_1.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 21:22","package":"com.example.noticelisttweak_1.0.1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 21:22","package":"com.example.noticelisttweak_1.0.1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-24 21:21","package":"com.zhuifeng.dateinfo_1.3.8_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-24 21:21","package":"com.zhuifeng.dateinfo_1.3.8_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-24 17:09","package":"com.huami.dyyy_3.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-24 17:09","package":"com.huami.dyyy_3.0_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-24 11:24","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-24 11:24","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
-{"type":"removed","date":"2026-11-24 11:23","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-24 21:21","package":"com.zhuifeng.dateinfo_1.3.8_iphoneos-arm64","version":""}
 ]}
