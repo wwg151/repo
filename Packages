@@ -13551,6 +13551,42 @@ Description: 自定义设备锁定方式。（由M哥汉化）
 Author: lemin
 Name: Lock Master
 
+Package: xyz.cypwn.bloom
+Version: 1.6k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 14.0), com.ginsu.comet, com.yan.lottie
+Filename: ./debs/xyz.cypwn.bloom_1.6k_iphoneos-arm64.deb
+Size: 893866
+MD5sum: dd8d803e9ec03c32744164af90459b34
+SHA1: af71061ab54812ad9388620c5e21ca63e04dee74
+SHA256: 0cef2f12d8110c39c37455541a54b1d786989581db4ea45c3f2357132db56f23
+Section: Tweaks
+Description: Beautiful animated notifications. Cracked by trwmd34.
+Author: yan
+Depiction: https://repo.cypwn.xyz/depiction/3635
+Icon: https://repo.cypwn.xyz/packages/Bloom-Rootless/icon.png
+Name: Bloom
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3635
+
+Package: xyz.cypwn.folderpro
+Version: 0.0.1-39
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/xyz.cypwn.folderpro_0.0.1-39_iphoneos-arm64.deb
+Size: 1017354
+MD5sum: 51b34d82da5f039d43c1bc9a5804df92
+SHA1: bd49de2f978a8e8899c4d78892b00422068ad78c
+SHA256: 0666d816fc19c6f3e53cacdb608bbc10d130cb78cba6eb85c1e4949d44315ce0
+Section: Tweaks
+Description: Simple folder optimization. Fully converted to English by trwmd34.
+Author: SINI
+Depiction: https://repo.cypwn.xyz/depiction/3632
+Icon: https://repo.cypwn.xyz/packages/FolderPro-Rootless/icon.png
+Name: FolderPro
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3632
+
 Package: xyz.cypwn.joe
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -13569,6 +13605,24 @@ Depiction: https://repo.cypwn.xyz/depiction/1481
 Icon: https://img.chariz.cloud/icon/joe/icon@3x.png
 Name: Joe
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1481
+
+Package: xyz.cypwn.legacyfolder26
+Version: 1.1.0k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, com.ichitaso.iconorder, preferenceloader
+Filename: ./debs/xyz.cypwn.legacyfolder26_1.1.0k_iphoneos-arm64.deb
+Size: 8393432
+MD5sum: a99f21f3ac6963c8c88f7e76ba10e5a3
+SHA1: f92cf4e0a0050864397b48a3f5edb83a12e41d54
+SHA256: 6ed49d3d699d2984d67a40a2d79d1ee3ec2c495168262b10c6ad8de6dd8a8da1
+Section: Tweaks
+Description: Legacy folder panel, but with a modern UI! Cracked by trwmd34.
+Author: bakera1n
+Depiction: https://repo.cypwn.xyz/depiction/3629
+Icon: https://repo.cypwn.xyz/packages/LegacyFolder26-Rootless/icon.png
+Name: LegacyFolder26
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3629
 
 Package: zeppelinreborn
 Version: 1.0
