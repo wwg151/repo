@@ -1,0 +1,55 @@
+{
+  "class" : "DepictionTabView",
+  "minVersion" : "0.1",
+  "repoDockAuthor" : "aronsz26",
+  "repoDockChangelog" : 1,
+  "repoDockControlDescription" : "在 iOS 16 上复刻 iOS 15 风格锁屏：时钟、日期、挂锁图标、专注模式胶囊提示、通知从顶部弹出、iOS15 音乐播放器、解锁动画、iOS15 图标标签阴影、实况与动态壁纸，以及带壁纸下载功能的 iOS15 样式「设置 > 墙纸」页面。所有组件均可在设置里单独关闭。.",
+  "repoDockCurrentVersion" : "1.9.7",
+  "tabs" : [
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "详情",
+      "views" : [
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "在 iOS 16 上复刻 iOS 15 风格锁屏：时钟、日期、挂锁图标、专注模式胶囊提示、通知从顶部弹出、iOS15 音乐播放器、解锁动画、iOS15 图标标签阴影、实况与动态壁纸，以及带壁纸下载功能的 iOS15 样式「设置 > 墙纸」页面。所有组件均可在设置里单独关闭。.",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSeparatorView"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "1.9.7",
+          "title" : "当前版本"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "aronsz26",
+          "title" : "开发者"
+        }
+      ]
+    },
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "更新日志",
+      "views" : [
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "1.9.7"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "增加中英文翻译开关切换",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "更新日期：2026-11-26",
+          "useBoldText" : false
+        }
+      ]
+    }
+  ],
+  "tintColor" : "#2E9F8E"
+}
