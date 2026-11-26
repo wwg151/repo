@@ -4,7 +4,7 @@
   "repoDockAuthor" : "M哥",
   "repoDockChangelog" : 1,
   "repoDockControlDescription" : "在锁屏上居中呈现新通知。",
-  "repoDockCurrentVersion" : "1.0.5",
+  "repoDockCurrentVersion" : "1.2.0",
   "tabs" : [
     {
       "class" : "DepictionStackView",
@@ -20,7 +20,7 @@
         },
         {
           "class" : "DepictionTableTextView",
-          "text" : "1.0.5",
+          "text" : "1.2.0",
           "title" : "当前版本"
         },
         {
@@ -34,6 +34,24 @@
       "class" : "DepictionStackView",
       "tabname" : "更新日志",
       "views" : [
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "1.2.0"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "1.修复部分长通知亮屏时回退到原生横幅的问题。  \n2.长文本支持自动换行，超出一屏时可上滑阅读。  \n3.新增「字体大小」设置，可分别调整全屏通知的标题、正文和时间字号。",
+          "repoDockNoteSource" : "1.修复部分长通知亮屏时回退到原生横幅的问题。\n2.长文本支持自动换行，超出一屏时可上滑阅读。\n3.新增「字体大小」设置，可分别调整全屏通知的标题、正文和时间字号。",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "更新日期：2026-11-26",
+          "useBoldText" : false
+        },
+        {
+          "class" : "DepictionSeparatorView"
+        },
         {
           "class" : "DepictionHeaderView",
           "title" : "1.0.5"
