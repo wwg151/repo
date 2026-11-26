@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-26 10:09","package":"xyz.cypwn.translux_1.6k_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-26 10:08","package":"xyz.cypwn.primalfolderpro_1.0.2k_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-26 10:07","package":"xyz.cypwn.legacyfolder26_1.1.0k_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-26 10:06","package":"xyz.cypwn.folderpro_0.0.1-39_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-26 10:05","package":"xyz.cypwn.bloom_1.6k_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-24 11:24","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-24 11:23","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-24 11:23","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-24 11:10","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-24 11:10","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-24 07:34","package":"com.zhuifeng.allowringinmute_1.0.0_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-24 11:10","package":"com.mg.shortlookt_1.0.5_iphoneos-arm64","version":""}
 ]}

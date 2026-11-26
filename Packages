@@ -13624,6 +13624,42 @@ Icon: https://repo.cypwn.xyz/packages/LegacyFolder26-Rootless/icon.png
 Name: LegacyFolder26
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3629
 
+Package: xyz.cypwn.primalfolderpro
+Version: 1.0.2k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, com.ichitaso.iconorder, firmware (>= 14.0)
+Filename: ./debs/xyz.cypwn.primalfolderpro_1.0.2k_iphoneos-arm64.deb
+Size: 356634
+MD5sum: 2732f4ea87e7fc13009f39b4f8b77718
+SHA1: feb25e1e3cce78e15f04b01cb98411c6d161cb69
+SHA256: 0674d0ea010cbc8494db4684617b3d3281251ceb05aeb5dda8841a6bf582cb2f
+Section: Tweaks
+Description: PrimalFolderPro takes your Home Screen folders further. Cracked by trwmd34
+Author: ichitaso
+Depiction: https://repo.cypwn.xyz/depiction/3624
+Icon: https://repo.cypwn.xyz/packages/PrimalFolderPro-Rootless/icon.png
+Name: PrimalFolderPro
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3624
+
+Package: xyz.cypwn.translux
+Version: 1.6k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/xyz.cypwn.translux_1.6k_iphoneos-arm64.deb
+Size: 3120744
+MD5sum: 64c9b2f92919bab9ce5d62596a959649
+SHA1: 289ddb52e82967e452e7fb5c080f4a9bb48cb7be
+SHA256: f8cc4983400e40107c2cf792f58c48452e84c1329dd60824e5d23d0c3ac80a28
+Section: Tweaks
+Description: Advanced translation integration for iOS with OCR support. Adds translation buttons to text selection menus across all apps. Includes Snapper 3 integration for image OCR and translation. Supports Google, Baidu, ModernMT, Microsoft translation engines and Youdao, Yandex OCR engines. Features customizable UI, app whitelist. Cracked by trwmd34.
+Author: AnubisTweaks
+Depiction: https://repo.cypwn.xyz/depiction/3633
+Icon: https://repo.cypwn.xyz/packages/TransLux-Rootless/icon.png
+Name: TransLux
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3633
+
 Package: zeppelinreborn
 Version: 1.0
 Architecture: iphoneos-arm64
