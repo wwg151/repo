@@ -1,0 +1,55 @@
+{
+  "class" : "DepictionTabView",
+  "minVersion" : "0.1",
+  "repoDockAuthor" : "M哥",
+  "repoDockChangelog" : 1,
+  "repoDockControlDescription" : "背景透明（通知中心、控制中心、小组件、文件夹、应用切换器），无设置项，兼容iOS13.0+以上系统。",
+  "repoDockCurrentVersion" : "1.0.0",
+  "tabs" : [
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "详情",
+      "views" : [
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "背景透明（通知中心、控制中心、小组件、文件夹、应用切换器），无设置项，兼容iOS13.0+以上系统。",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSeparatorView"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "1.0.0",
+          "title" : "当前版本"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "M哥",
+          "title" : "开发者"
+        }
+      ]
+    },
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "更新日志",
+      "views" : [
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "1.0.0"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "看简介说明",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "更新日期：2026-11-12",
+          "useBoldText" : false
+        }
+      ]
+    }
+  ],
+  "tintColor" : "#2E9F8E"
+}
