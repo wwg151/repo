@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-26 01:59","package":"com.aronsz26.lockscreenrestore_1.9.7_iphoneos-arm64-rootless","version":""},
+{"type":"added","date":"2026-11-26 01:59","package":"com.aronsz26.lockscreenrestore_1.9.7_iphoneos-arm64e-roothide","version":""},
 {"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64","version":""},
 {"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-1_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-26 09:50","package":"com.aronsz26.lockscreenrestore_1.9.5-2_iphoneos-arm64","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-24 07:34","package":"com.zhuifeng.allowringinmute_1.0.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 07:34","package":"com.zhuifeng.allowringinmute_1.0.0_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 07:34","package":"hongguofn_2.2.8_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-24 07:34","package":"hongguofn_2.2.8_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-23 23:03","package":"com.mg.shortlookt_1.0.0_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-23 23:03","package":"com.mg.shortlookt_1.0.0_iphoneos-arm64e","version":""}
+{"type":"added","date":"2026-11-24 07:34","package":"hongguofn_2.2.8_iphoneos-arm64e","version":""}
 ]}

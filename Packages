@@ -2023,6 +2023,40 @@ Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
 Name: LockScreenRestore
 Sileodepiction: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/sileo.json
 
+Package: com.aronsz26.lockscreenrestore
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: aronsz26
+Installed-Size: 808
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (<< 17.0), preferenceloader
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.7_iphoneos-arm64-rootless.deb
+Size: 146044
+MD5sum: 6a9d06e1012209d99db933990b5a3e52
+SHA1: de9f92abdb82ec2050f9f94dd45ddfc694e0756c
+SHA256: 9c56b4b90d060a3729605a68787c54dfa68f1ff065959907ddf8d7029244d784
+Section: Tweaks
+Description: 在 iOS 16 上复刻 iOS 15 风格锁屏：时钟、日期、挂锁图标、专注模式胶囊提示、通知从顶部弹出、iOS15 音乐播放器、解锁动画、iOS15 图标标签阴影、实况与动态壁纸，以及带壁纸下载功能的 iOS15 样式「设置 > 墙纸」页面。所有组件均可在设置里单独关闭。.
+Author: aronsz26
+Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
+Name: LockScreenRestore
+
+Package: com.aronsz26.lockscreenrestore
+Version: 1.9.7
+Architecture: iphoneos-arm64e
+Maintainer: aronsz26
+Installed-Size: 808
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (<< 17.0), preferenceloader
+Filename: ./debs/com.aronsz26.lockscreenrestore_1.9.7_iphoneos-arm64e-roothide.deb
+Size: 145708
+MD5sum: 64bf4954d7cb4f1eb352fec508ea5039
+SHA1: 5fe0c33e0af649e87d90395f157c6d089db5c454
+SHA256: 92280fcc86e86e4823a0c63e921e170cebf5846b9f30d5caa939a39399f75a3d
+Section: Tweaks
+Description: 在 iOS 16 上复刻 iOS 15 风格锁屏：时钟、日期、挂锁图标、专注模式胶囊提示、通知从顶部弹出、iOS15 音乐播放器、解锁动画、iOS15 图标标签阴影、实况与动态壁纸，以及带壁纸下载功能的 iOS15 样式「设置 > 墙纸」页面。所有组件均可在设置里单独关闭。.
+Author: aronsz26
+Icon: https://aronsz26.github.io/depictions/lockscreenrestore/depiction/icon.png
+Name: LockScreenRestore
+
 Package: com.autounlockface
 Version: 1.1
 Architecture: iphoneos-arm64
