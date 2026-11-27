@@ -6068,6 +6068,41 @@ Tag: role::hacker
 Author: Nightwind and staturnz
 Name: rootless-patcher
 
+Package: com.ning.simcontrol
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Ning
+Depends: firmware (>= 16.0), firmware (<< 18.0), com.opa334.ccsupport
+Filename: ./debs/com.ning.simcontrol_1.0.4_iphoneos-arm64.deb
+Size: 124560
+MD5sum: c0122531c24e064878adddfba601b0d7
+SHA1: e94110231434f98829aefb3a141e426cbf5a6323
+SHA256: e6f53ad20a3dd6d5f68e223ea1e313dce8199b6172718108532721827cee097f
+Section: Tweaks
+Priority: optional
+Description: Native SIM switches for the system Control Center (rootless).
+Author: Ning
+Icon: https://huayuarc.github.io/icon/simcontrol.png
+Name: SIM卡切换
+
+Package: com.ning.simcontrol
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Ning
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 16.0), firmware (<< 18.0), com.opa334.ccsupport
+Filename: ./debs/com.ning.simcontrol_1.0.4_iphoneos-arm64e.deb
+Size: 125204
+MD5sum: 56739263c3c57e659568b66747bdebcf
+SHA1: 2f95447749c795523f7e3905b52af2bdbc0a40ab
+SHA256: b9f6303db966ada095d40ffb59c761b71ead113b96c3876f953ef36eb0a89ade
+Section: Tweaks
+Priority: optional
+Description: Native SIM switches for the system Control Center (rootless).
+Author: Ning
+Icon: https://huayuarc.github.io/icon/simcontrol.png
+Name: SIM卡切换
+
 Package: com.noisyflake.velvet2
 Version: 2.1.2-2
 Architecture: iphoneos-arm64
@@ -6354,6 +6389,44 @@ SHA1: b8e41a634109d7c9807de1245e74c82130de9668
 SHA256: 90bcecafd8d1c05102e12e9ec18bafbcba772fd9efe23b135ce70116a9d8f517
 Section: Networking
 Description: 一键通过个人热点共享本机 Shadowrocket/VPN，连入设备零配置，支持控制中心快捷开关、DNS/UDP 转发与防 IPv6 泄露，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Depiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.html
+Icon: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn/icon.png
+Name: VPN热点共享
+Sileodepiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.json
+
+Package: com.sharehotspotvpn.tweak
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: zhuifeng
+Installed-Size: 484
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/com.sharehotspotvpn.tweak_1.2.2_iphoneos-arm64e.deb
+Size: 77184
+MD5sum: 70e8445f0902cfa74ce9ef3c8b58a72f
+SHA1: 32a882feff5c788ed94c81e5ba1587ad64182187
+SHA256: f12f6dba8925f3fd538e29402b00b14530480b8ba2706ed19667c0435fd26991
+Section: Networking
+Description: 一键通过个人热点共享本机 Wi-Fi、移动数据或 Shadowrocket/VPN（支持 Wi-Fi+VPN 叠加与状态栏保留 Wi-Fi 图标），连入设备零配置，控制中心支持轻点开关与长按 5 模式菜单切换，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Depiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.html
+Icon: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn/icon.png
+Name: VPN热点共享
+Sileodepiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.json
+
+Package: com.sharehotspotvpn.tweak
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: zhuifeng
+Installed-Size: 948
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/com.sharehotspotvpn.tweak_1.2.2_iphoneos-arm64.deb
+Size: 94072
+MD5sum: 95ba6a7c480747f24d84d03903abea55
+SHA1: ddffa7ad801ca1ce9f99bb71bcd12f6be1cb6d01
+SHA256: df81a94aca9082e54c534b39704f8e933d2d63eaa664a26cae565ecb6e85a154
+Section: Networking
+Description: 一键通过个人热点共享本机 Wi-Fi、移动数据或 Shadowrocket/VPN（支持 Wi-Fi+VPN 叠加与状态栏保留 Wi-Fi 图标），连入设备零配置，控制中心支持轻点开关与长按 5 模式菜单切换，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
 Author: zhuifeng
 Depiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.html
 Icon: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn/icon.png

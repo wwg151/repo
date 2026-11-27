@@ -1,4 +1,8 @@
 {"events":[
+{"type":"added","date":"2026-11-27 08:28","package":"com.sharehotspotvpn.tweak_1.2.2_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-27 08:28","package":"com.sharehotspotvpn.tweak_1.2.2_iphoneos-arm64e","version":""},
+{"type":"added","date":"2026-11-27 08:28","package":"com.ning.simcontrol_1.0.4_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-27 08:28","package":"com.ning.simcontrol_1.0.4_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-27 08:26","package":"com.sergy.immortalizer_2.0.0-1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-27 08:26","package":"com.sergy.immortalizer_2.0.0-1_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-27 08:26","package":"com.dy778.douyin_1.1-2_iphoneos-arm64","version":""},
@@ -44,9 +48,5 @@
 {"type":"added","date":"2026-11-25 10:13","package":"com.mg.islandnotice_1.0.3_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-25 10:13","package":"com.mg.islandnotice_1.0.3_iphoneos-arm64e","version":""},
 {"type":"removed","date":"2026-11-25 10:13","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-25 09:40","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-25 09:40","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-24 23:27","package":"com.mg.islandnotice_1.0.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-24 23:27","package":"com.mg.islandnotice_1.0.1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-24 22:57","package":"com.mg.islandnotice_1.0.0_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-25 09:40","package":"com.mg.islandnotice_1.0.2_iphoneos-arm64","version":""}
 ]}
