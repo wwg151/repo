@@ -4,7 +4,7 @@
   "repoDockAuthor" : "M哥",
   "repoDockChangelog" : 1,
   "repoDockControlDescription" : "在锁屏上居中呈现新通知。",
-  "repoDockCurrentVersion" : "1.2.0",
+  "repoDockCurrentVersion" : "1.3.0",
   "tabs" : [
     {
       "class" : "DepictionStackView",
@@ -20,7 +20,7 @@
         },
         {
           "class" : "DepictionTableTextView",
-          "text" : "1.2.0",
+          "text" : "1.3.0",
           "title" : "当前版本"
         },
         {
@@ -34,6 +34,24 @@
       "class" : "DepictionStackView",
       "tabname" : "更新日志",
       "views" : [
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "1.3.0"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "1.锁屏全屏通知支持从相册选择自定义图标，替代应用图标、来源角标和联系人头像。  \n2.全屏背景可选默认纯黑或相册图片。  \n3.「图标与隐私」说明分行显示，开关名称简化为「隐藏联系人头像」，行为不变。",
+          "repoDockNoteSource" : "1.锁屏全屏通知支持从相册选择自定义图标，替代应用图标、来源角标和联系人头像。\n2.全屏背景可选默认纯黑或相册图片。\n3.「图标与隐私」说明分行显示，开关名称简化为「隐藏联系人头像」，行为不变。",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "更新日期：2026-11-27",
+          "useBoldText" : false
+        },
+        {
+          "class" : "DepictionSeparatorView"
+        },
         {
           "class" : "DepictionHeaderView",
           "title" : "1.2.0"
