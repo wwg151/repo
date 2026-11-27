@@ -7,8 +7,6 @@ on:
       - "Packages"
       - "Packages.bz2"
       - "Packages.xz"
-      - "history.json"
-      - "dates.json"
   workflow_dispatch:
 
 permissions:
@@ -26,7 +24,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
         with:
           fetch-depth: 0
           ref: main
@@ -48,84 +46,12 @@ jobs:
           xz -c Packages > Packages.xz
           echo "Index entries: $(grep -c '^Package:' Packages || true)"
 
-      - name: Generate history
-        run: |
-          set -euo pipefail
-          git log --name-status --pretty=format:"COMMIT|%ad" --date=format:"%Y-%m-%d %H:%M" > /tmp/raw.log
-          echo '{"events":[' > history.json
-          count=0
-
-          while IFS= read -r line; do
-            [ "$count" -ge 50 ] && break
-
-            case "$line" in
-              COMMIT\|*)
-                date="${line#COMMIT|}"
-                ;;
-              A*|M*|D*)
-                status=$(echo "$line" | cut -f1)
-                filepath=$(echo "$line" | cut -f2)
-                case "$filepath" in
-                  *.deb)
-                    pkg=$(basename "$filepath" .deb)
-                    [ "$status" = "D" ] && type="removed" || type="added"
-                    version=$(grep -A2 "^Package: ${pkg}$" Packages 2>/dev/null | grep "^Version:" | head -1 | sed 's/Version: //' || true)
-                    echo "{\"type\":\"$type\",\"date\":\"$date\",\"package\":\"$pkg\",\"version\":\"$version\"}," >> history.json
-                    count=$((count+1))
-                    ;;
-                esac
-                ;;
-            esac
-          done < /tmp/raw.log
-          if [ "$count" -gt 0 ]; then
-            sed -i '$ s/,$//' history.json
-          fi
-          echo ']}' >> history.json
-          echo "History entries: $count"
-          head -20 history.json
-
-      - name: Generate dates
-        run: |
-          set -euo pipefail
-          TZ=UTC git -c core.quotepath=false log --pretty=format:'COMMIT|%ad' --date=format:'%Y-%m-%dT%H:%M:%SZ' --name-status -- debs > /tmp/deblog.txt
-          python3 - <<'PYCODE'
-          import json
-          dates = {}
-          cur = None
-
-          with open('/tmp/deblog.txt', encoding='utf-8', errors='ignore') as f:
-              for line in f:
-                  line = line.rstrip('\n')
-                  if line.startswith('COMMIT|'):
-                      cur = line.split('|', 1)[1].strip()
-                      continue
-                  if not cur or not line.strip():
-                      continue
-                  parts = line.split('\t')
-                  if len(parts) < 2:
-                      continue
-                  path = parts[-1]
-                  # git log 新到旧，首次出现即该 deb 最后一次变更时间
-                  if path.startswith('debs/') and path.endswith('.deb') and path not in dates:
-                      dates[path] = cur
-
-          with open('dates.json', 'w', encoding='utf-8') as f:
-              json.dump(
-                  dates,
-                  f,
-                  ensure_ascii=False,
-                  sort_keys=True,
-                  separators=(',', ':')
-              )
-          print('dates entries:', len(dates))
-          PYCODE
-
       - name: Commit changes
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Packages Packages.bz2 Packages.xz history.json dates.json
+          git add Packages Packages.bz2 Packages.xz
 
           if git diff --cached --quiet; then
             echo "unchanged, skipping commit"
@@ -135,10 +61,10 @@ jobs:
           fi
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@main
 
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@main
         with:
           path: .
 
@@ -152,4 +78,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@main
