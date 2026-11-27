@@ -1,4 +1,6 @@
 {"events":[
+{"type":"added","date":"2026-11-27 08:22","package":"com.zhuifeng.dateinfo_1.3.9_iphoneos-arm64","version":""},
+{"type":"added","date":"2026-11-27 08:22","package":"com.zhuifeng.dateinfo_1.3.9_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-26 13:54","package":"com.huamidev.xhsnative.roothide_1.4+1-1_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-26 13:54","package":"com.huamidev.xhsnative_1.4+1-1_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-26 13:54","package":"com.mjh.spdbadblock.roothide_0.2.0_iphoneos-arm64e","version":""},
@@ -46,7 +48,5 @@
 {"type":"added","date":"2026-11-24 21:43","package":"com.custom.ctclient.donk_1.2_iphoneos-arm64e","version":""},
 {"type":"added","date":"2026-11-24 21:43","package":"com.custom.mobilebusiness.donk_1.0_iphoneos-arm64","version":""},
 {"type":"added","date":"2026-11-24 21:43","package":"com.custom.mobilebusiness.donk_1.0_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-24 21:22","package":"com.example.noticelisttweak_1.0.1_iphoneos-arm64","version":""},
-{"type":"added","date":"2026-11-24 21:22","package":"com.example.noticelisttweak_1.0.1_iphoneos-arm64e","version":""},
-{"type":"added","date":"2026-11-24 21:21","package":"com.zhuifeng.dateinfo_1.3.8_iphoneos-arm64","version":""}
+{"type":"added","date":"2026-11-24 21:22","package":"com.example.noticelisttweak_1.0.1_iphoneos-arm64","version":""}
 ]}
