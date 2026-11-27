@@ -1730,6 +1730,39 @@ Author: Lessica
 Icon: https://repo.cypwn.xyz/packages/ColorfulWallpaperX-Rootless/icon.png
 Name: ColorfulWallpaperX
 
+Package: com.0xkuj.ccbackgrounder17
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 568
+Depends: mobilesubstrate, com.opa334.ccsupport, com.opa334.altlist, firmware (>= 17.0)
+Filename: ./debs/com.0xkuj.ccbackgrounder17_1.0.0_iphoneos-arm64.deb
+Size: 36404
+MD5sum: 8cbd4e8f6fa0ab9a3926d7f6353c3db4
+SHA1: fbe38e7428bf4e11371acc6b97d821d485e15437
+SHA256: 1578b7f39fb8120fd42b3cc96cb818acd1412d04e49b8955de560416a27e29a8
+Section: Tweaks
+Description: Add "Toggle Background Mode" action to Control Center, with an optional auto-toggle for chosen apps.
+Author: 0xkuj
+Name: CCBackgrounder17
+
+Package: com.0xkuj.ccbackgrounder17
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 568
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport, com.opa334.altlist, firmware (>= 17.0)
+Filename: ./debs/com.0xkuj.ccbackgrounder17_1.0.0_iphoneos-arm64e.deb
+Size: 36304
+MD5sum: f879ea35c044758aa19f4288a6787243
+SHA1: 7621ff30a5ae279273145a026593a2106736acb5
+SHA256: 1b359293e32b8cb1009b6b86430f1bba99125e4bde827a129bd4fa55b57fe225
+Section: Tweaks
+Description: Add "Toggle Background Mode" action to Control Center, with an optional auto-toggle for chosen apps.
+Author: 0xkuj
+Name: CCBackgrounder17
+
 Package: com.404.facelock
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -2722,6 +2755,41 @@ Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手-Rootless
 
+Package: com.dy778.douyin
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: DY778
+Installed-Size: 4824
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.dy778.douyin_1.1-2_iphoneos-arm64e.deb
+Size: 1556612
+MD5sum: d76569ce572a5f42695e9ca3c0fbf7f5
+SHA1: 845010176bc515bf346f547ee89f75dae71d4823
+SHA256: ac070aee2b3603d12d0818de3df324075f9e9fd29d63c52554cec3294a1b8b93
+Section: Tweaks
+Description: DY778 · 消息留存、特别关注、直播信息、直播间工具、星牌查询、操作确认与播放增强。适配抖音 39.9.0。
+Author: DY778
+Icon: https://huayuarc.github.io/icon/douyin.jpg
+Name: DY778
+
+Package: com.dy778.douyin
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: DY778
+Installed-Size: 4824
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.dy778.douyin_1.1-2_iphoneos-arm64.deb
+Size: 1557004
+MD5sum: 4d280e882734489adb2e046f025ae1a0
+SHA1: 65ccc36f72aad9f29e9293fbedf15cfadf969bd5
+SHA256: 35fd65b37037e30bf32d180cec6929e213f705fa0d95ce82f4e1f5f9b6d48d35
+Section: Tweaks
+Description: DY778 · 消息留存、特别关注、直播信息、直播间工具、星牌查询、操作确认与播放增强。适配抖音 39.9.0。
+Author: DY778
+Icon: https://huayuarc.github.io/icon/douyin.jpg
+Name: DY778
+
 Package: com.eliassfeir.smartnetwork
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -2766,6 +2834,38 @@ Size: 842644
 MD5sum: d1897549b1c24248ae719fd27a701cc4
 SHA1: 2885f9e7486c4fbadc0ce82b654c5bfe83ad73e4
 SHA256: dd11431b3b74df553297cba47505744eb5b8611da7911ea0bd0a4c1d91a646f0
+Section: Tweaks
+Description: RootHide notification-list, app-icon and banner dust effects for iOS 16; experimental device test.
+Author: YUE
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.13
+Architecture: iphoneos-arm64e
+Maintainer: YUE
+Installed-Size: 1495
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.example.noticelisttweak_1.0.13_iphoneos-arm64e.deb
+Size: 344776
+MD5sum: 3f7ccfd5da3e745e80e2f01084c22409
+SHA1: b7ed4a189b760762e6c651aafc2141539e37e4d3
+SHA256: cb08b91f2e43e18bc310e5488b44a095a589f3bb1834b348c817547236c2ea5d
+Section: Tweaks
+Description: RootHide notification-list, app-icon and banner dust effects for iOS 16; experimental device test.
+Author: YUE
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.13+h2l1
+Architecture: iphoneos-arm64
+Maintainer: YUE
+Installed-Size: 1476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.example.noticelisttweak_1.0.13+h2l1_iphoneos-arm64.deb
+Size: 344680
+MD5sum: 23df2407178e871aefefaad72698c286
+SHA1: e5b61c9eb35633c4831c866fa4448137a1d4bb88
+SHA256: a2bada09e67c75c87b0baff6c43f59b82f86c0d9766e73347b46c6f33e6268a3
 Section: Tweaks
 Description: RootHide notification-list, app-icon and banner dust effects for iOS 16; experimental device test.
 Author: YUE
@@ -6170,6 +6270,41 @@ Section: Tweaks
 Description: 闲鱼去启动广告
 Author: M哥
 Name: 闲鱼去启动广告-rootless
+
+Package: com.sergy.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64.deb
+Size: 42844
+MD5sum: 1bcb641ce1e945bfaa85ab473f1b3a69
+SHA1: f8585a1c14ed4e4f904a02cc4b6e5bc74d262e3a
+SHA256: d8a68f014e78900662b9d938aeb9ad63e6f95685a5d1e2e1e76e3aac8a81fa5f
+Section: Tweaks
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Name: Immortalizer 真后台
+
+Package: com.sergy.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: sergy
+Installed-Size: 652
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64e.deb
+Size: 41344
+MD5sum: 9df6b021525e63c02c2253357fd3c995
+SHA1: e5f9cbf9954ec659b7ce8133a7ad05a41295e582
+SHA256: 42f4a3596fae376e15ce49548189bcc16aacbaaad041354e7c4a1d3db0c962bc
+Section: Tweaks
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Name: Immortalizer 真后台
 
 Package: com.sergy.immortalizer
 Version: 2.0.1.1
